@@ -1,0 +1,78 @@
+MEDICAL REPORT - OCR EXTRACTION
+Generated on: 2025-11-04 23:24:07
+==================================================
+  LAB SS A103-104, Tulsi Complex, Near Crystal mall,
+
+PATHOLOGY SOFTWARE S G ROAD, AHMADABAD
+--------------------------------------
+
+PATIENT INFORMATION:
+--------------------
+  Yash M. Patel Sample Collected At: 02:31 PM 02 Dec, 21 Registered on:
+  Age : 21 Years 125, Shivam B ungalow, S G Road, Ahma dabad 03:11 PM 02 Dec, 21 Collected on:
+
+PID : 555 SEX : MALE REF. BY: DR. HIREN SHAH 04:35 PM 02 DEC, 21 REPORTED ON:
+-----------------------------------------------------------------------------
+
+COMPLETE BLOOD COUNT (CBC)
+--------------------------
+
+TEST RESULTS:
+-------------
+  Investigation Result Ref. Value Unit
+
+PATIENT INFORMATION:
+--------------------
+  Primary Sample Type : Blood
+
+TEST RESULTS:
+-------------
+  Hemoglobin (Hb) HEMOGLOBIN 12.5 Low 13.0 - 17.0 g/dL
+  RBC COUNT 5.2 4.5 - 5.5 mill/cumm
+  Total RBC count
+  Packed Cell Volume (PCV) BLOOD INDICES 37.5 Low 40 - 50 %
+  Mean Corpuscular Volume 72.12 50 - 62 %
+  RDW Calculated 13.6 11.6 - 14.0 %
+  WBC COUNT Total WBC count 9000 4000-11000 cumm
+
+DIFFERENTIAL WBC COUNT HOLOGY WARE
+----------------------------------
+
+TEST RESULTS:
+-------------
+  Neutrophils 60 50 - 62 %
+  Lymphocytes 31 20 - 40 %
+  Monocytes Eosinophils 1 00 - 06 % %
+  Basophils 7 00 - 10 %
+
+OTHER INFORMATION:
+------------------
+  1 00 - 02
+
+PLATELET COUNT
+--------------
+
+TEST RESULTS:
+-------------
+  Platelet Count 320000 150000 - 410000 cumm
+  Instruments                    Fully automated cell counter - Mindray 300
+
+CLINICAL NOTES:
+---------------
+  Interpretation: Further confirm for Anemia
+
+THANKS FOR REFERENCE ****END OF REPORT****
+------------------------------------------
+
+DR. KAVYA SHARMA MD (PATHOLOGY) DR. SACHIN PATIL PATHOLOGIST PRIYNKA PATEL LAB TECHNICIAN
+-----------------------------------------------------------------------------------------
+
+PATIENT INFORMATION:
+--------------------
+  Generated on: 02 Dec, 2021 05:00 PM 88668 02121 Page 1 of 1
+
+OTHER INFORMATION:
+------------------
+  Home Collaction Available Contact Us on
+
+--- End of Report ---

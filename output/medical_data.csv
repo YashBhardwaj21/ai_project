@@ -1,0 +1,1417 @@
+Patient_ID,Symptom,Condition,Medication,Procedure,ICD-10 Code
+P001,Throbbing Headache,Migraine without Aura,Sumatriptan,Neurological Examination,G43.009
+P001,Photophobia,Migraine without Aura,Sumatriptan,Neurological Examination,G43.009
+P001,Nausea,Migraine without Aura,Sumatriptan,Neurological Examination,G43.009
+P002,Productive Cough,Acute Bronchitis,Guaifenesin,Chest X-Ray,J20.9
+P002,Fever,Acute Bronchitis,Guaifenesin,Chest X-Ray,J20.9
+P002,Wheezing,Acute Bronchitis,Guaifenesin,Chest X-Ray,J20.9
+P003,Substernal Chest Pain,Gastroesophageal Reflux Disease (GERD),Omeprazole,Upper Endoscopy,K21.9
+P003,Heartburn,Gastroesophageal Reflux Disease (GERD),Omeprazole,Upper Endoscopy,K21.9
+P003,Acid Regurgitation,Gastroesophageal Reflux Disease (GERD),Omeprazole,Upper Endoscopy,K21.9
+P004,Acute Chest Pain,Acute Myocardial Infarction,Aspirin; Clopidogrel; Nitroglycerin,Coronary Angiography,I21.4
+P004,Diaphoresis,Acute Myocardial Infarction,Aspirin; Clopidogrel; Nitroglycerin,Coronary Angiography,I21.4
+P004,Shortness of Breath,Acute Myocardial Infarction,Aspirin; Clopidogrel; Nitroglycerin,Coronary Angiography,I21.4
+P005,Polyuria,Type 2 Diabetes Mellitus,Metformin,HbA1c Test,E11.9
+P005,Polydipsia,Type 2 Diabetes Mellitus,Metformin,HbA1c Test,E11.9
+P005,Fatigue,Type 2 Diabetes Mellitus,Metformin,HbA1c Test,E11.9
+P006,Joint Pain,Rheumatoid Arthritis,Methotrexate; Prednisone,Rheumatoid Factor Test,M06.9
+P006,Morning Stiffness,Rheumatoid Arthritis,Methotrexate; Prednisone,Rheumatoid Factor Test,M06.9
+P006,Swollen Joints,Rheumatoid Arthritis,Methotrexate; Prednisone,Rheumatoid Factor Test,M06.9
+P007,Right Lower Quadrant Pain,Acute Appendicitis,Piperacillin/tazobactam (IV),Appendectomy,K35.80
+P007,Fever,Acute Appendicitis,Piperacillin/tazobactam (IV),Appendectomy,K35.80
+P007,Nausea,Acute Appendicitis,Piperacillin/tazobactam (IV),Appendectomy,K35.80
+P008,Sneezing,Allergic Rhinitis,Loratadine; Fluticasone Nasal Spray,Allergy Testing,J30.9
+P008,Rhinorrhea,Allergic Rhinitis,Loratadine; Fluticasone Nasal Spray,Allergy Testing,J30.9
+P008,Itchy Eyes,Allergic Rhinitis,Loratadine; Fluticasone Nasal Spray,Allergy Testing,J30.9
+P009,Dysuria,Uncomplicated Urinary Tract Infection,Nitrofurantoin,Urinalysis,N39.0
+P009,Urinary Frequency,Uncomplicated Urinary Tract Infection,Nitrofurantoin,Urinalysis,N39.0
+P009,Suprapubic Pain,Uncomplicated Urinary Tract Infection,Nitrofurantoin,Urinalysis,N39.0
+P010,Localized Skin Rash,Contact Dermatitis,Topical Mometasone,Patch Testing,L25.9
+P010,Pruritus,Contact Dermatitis,Topical Mometasone,Patch Testing,L25.9
+P010,Skin Erythema,Contact Dermatitis,Topical Mometasone,Patch Testing,L25.9
+P011,Memory Loss,Alzheimer's Disease,Donepezil,MRI Brain; Neuropsychological Testing,G30.9
+P011,Confusion,Alzheimer's Disease,Donepezil,MRI Brain; Neuropsychological Testing,G30.9
+P011,Disorientation,Alzheimer's Disease,Donepezil,MRI Brain; Neuropsychological Testing,G30.9
+P012,Vertigo,Benign Paroxysmal Positional Vertigo (BPPV),Meclizine,Epley Maneuver,H81.11
+P012,Nystagmus,Benign Paroxysmal Positional Vertigo (BPPV),Meclizine,Epley Maneuver,H81.11
+P012,Nausea,Benign Paroxysmal Positional Vertigo (BPPV),Meclizine,Epley Maneuver,H81.11
+P013,Epigastric Pain,Peptic Ulcer Disease,Pantoprazole; Amoxicillin; Clarithromycin,EGD with Biopsy,K27.9
+P013,Bloating,Peptic Ulcer Disease,Pantoprazole; Amoxicillin; Clarithromycin,EGD with Biopsy,K27.9
+P013,Heartburn,Peptic Ulcer Disease,Pantoprazole; Amoxicillin; Clarithromycin,EGD with Biopsy,K27.9
+P014,Lower Back Pain,Lumbar Strain,Ibuprofen,Physical Therapy,S39.012
+P014,Muscle Spasm,Lumbar Strain,Ibuprofen,Physical Therapy,S39.012
+P014,Reduced Range of Motion,Lumbar Strain,Ibuprofen,Physical Therapy,S39.012
+P015,Double Vision,Ischemic Stroke,Alteplase (if candidate); Atorvastatin; Clopidogrel,CT Head; MRI Brain; Carotid Ultrasound,I63.9
+P015,Slurred Speech,Ischemic Stroke,Alteplase (if candidate); Atorvastatin; Clopidogrel,CT Head; MRI Brain; Carotid Ultrasound,I63.9
+P015,Facial Droop,Ischemic Stroke,Alteplase (if candidate); Atorvastatin; Clopidogrel,CT Head; MRI Brain; Carotid Ultrasound,I63.9
+P016,Blood in Stool,Ulcerative Colitis,Mesalamine,Colonoscopy with Biopsy,K51.90
+P016,Diarrhea,Ulcerative Colitis,Mesalamine,Colonoscopy with Biopsy,K51.90
+P016,Abdominal Cramping,Ulcerative Colitis,Mesalamine,Colonoscopy with Biopsy,K51.90
+P017,Non-Productive Cough,COVID-19,"Symptomatic Care (Rest, Hydration)",PCR Test,U07.1
+P017,Fever,COVID-19,"Symptomatic Care (Rest and Hydration)",PCR Test,U07.1
+P017,Loss of Smell,COVID-19,Symptomatic Care (Rest, Hydration),PCR Test,U07.1
+P018,Toothache,Dental Caries,Ibuprofen (for pain),Dental Fillings,K02.9
+P018,Tooth Sensitivity,Dental Caries,Ibuprofen (for pain),Dental Fillings,K02.9
+P019,Chest Tightness,Asthma,Albuterol Inhaler; Inhaled Corticosteroids,Pulmonary Function Tests,J45.909
+P019,Wheezing,Asthma,Albuterol Inhaler; Inhaled Corticosteroids,Pulmonary Function Tests,J45.909
+P019,Dyspnea on Exertion,Asthma,Albuterol Inhaler; Inhaled Corticosteroids,Pulmonary Function Tests,J45.909
+P020,Hot Flashes,Menopause,Hormone Therapy (if indicated),FSH Blood Test,N95.1
+P020,Night Sweats,Menopause,Hormone Therapy (if indicated),FSH Blood Test,N95.1
+P020,Vaginal Dryness,Menopause,Hormone Therapy (if indicated),FSH Blood Test,N95.1
+P021,Jaundice,Hepatitis A,Supportive Care (Rest, Hydration),Liver Function Tests; Hepatitis Serology,B15.9
+P021,Fatigue,Hepatitis A,Supportive Care (Rest, Hydration),Liver Function Tests; Hepatitis Serology,B15.9
+P021,Anorexia,Hepatitis A,Supportive Care (Rest, Hydration),Liver Function Tests; Hepatitis Serology,B15.9
+P022,Petechiae,Immune Thrombocytopenic Purpura (ITP),Prednisone,CBC with Platelet Count,D69.3
+P022,Easy Bruising,Immune Thrombocytopenic Purpura (ITP),Prednisone,CBC with Platelet Count,D69.3
+P023,Proximal Muscle Weakness,Polymyalgia Rheumatica,Prednisone,ESR/CRP Testing,M35.3
+P023,Shoulder Pain,Polymyalgia Rheumatica,Prednisone,ESR/CRP Testing,M35.3
+P023,Hip Pain,Polymyalgia Rheumatica,Prednisone,ESR/CRP Testing,M35.3
+P024,Ear Pain,Acute Otitis Media,Amoxicillin,Otoscopic Examination,H66.90
+P024,Fever,Acute Otitis Media,Amoxicillin,Otoscopic Examination,H66.90
+P024,Hearing Loss,Acute Otitis Media,Amoxicillin,Otoscopic Examination,H66.90
+P025,Sore Throat,Strep Pharyngitis,Penicillin (or Amoxicillin),Rapid Strep Test; Throat Culture,J02.0
+P025,Fever,Strep Pharyngitis,Penicillin (or Amoxicillin),Rapid Strep Test; Throat Culture,J02.0
+P025,Swollen Tonsils,Strep Pharyngitis,Penicillin (or Amoxicillin),Rapid Strep Test; Throat Culture,J02.0
+P026,Flank Pain,Kidney Stones (Nephrolithiasis),Ibuprofen; Tamsulosin,CT Abdomen/Pelvis without Contrast,N20.0
+P026,Hematuria,Kidney Stones (Nephrolithiasis),Ibuprofen; Tamsulosin,CT Abdomen/Pelvis without Contrast,N20.0
+P026,Nausea,Kidney Stones (Nephrolithiasis),Ibuprofen; Tamsulosin,CT Abdomen/Pelvis without Contrast,N20.0
+P027,Tremor at Rest,Parkinson's Disease,Carbidopa/Levodopa,Neurological Examination,G20
+P027,Bradykinesia,Parkinson's Disease,Carbidopa/Levodopa,Neurological Examination,G20
+P027,Muscular Rigidity,Parkinson's Disease,Carbidopa/Levodopa,Neurological Examination,G20
+P028,Sun Sensitivity,Systemic Lupus Erythematosus (SLE),Hydroxychloroquine; Prednisone,ANA and Anti-dsDNA Testing,M32.9
+P028,Malar Rash,Systemic Lupus Erythematosus (SLE),Hydroxychloroquine; Prednisone,ANA and Anti-dsDNA Testing,M32.9
+P028,Joint Pain,Systemic Lupus Erythematosus (SLE),Hydroxychloroquine; Prednisone,ANA and Anti-dsDNA Testing,M32.9
+P029,Intentional Weight Loss,Anorexia Nervosa,Nutritional Rehabilitation; CBT,Psychiatric Evaluation,F50.00
+P029,Fear of Weight Gain,Anorexia Nervosa,Nutritional Rehabilitation; CBT,Psychiatric Evaluation,F50.00
+P029,Amenorrhea,Anorexia Nervosa,Nutritional Rehabilitation; CBT,Psychiatric Evaluation,F50.00
+P030,Purulent Skin Lesion,Cellulitis,Cephalexin,Wound Culture,L03.90
+P030,Skin Erythema,Cellulitis,Cephalexin,Wound Culture,L03.90
+P030,Skin Warmth,Cellulitis,Cephalexin,Wound Culture,L03.90
+P031,Hypertension,Essential Hypertension,Lisinopril; Amlodipine,Blood Pressure Monitoring,I10
+P031,Asymptomatic,Essential Hypertension,Lisinopril; Amlodipine,Blood Pressure Monitoring,I10
+P032,Painful Big Toe Joint,Gout,Colchicine; Allopurinol,Joint Aspiration; Uric Acid Test,M10.9
+P032,Joint Swelling,Gout,Colchicine; Allopurinol,Joint Aspiration; Uric Acid Test,M10.9
+P032,Joint Redness,Gout,Colchicine; Allopurinol,Joint Aspiration; Uric Acid Test,M10.9
+P033,Red Eye,Acute Conjunctivitis,Tobramycin Eye Drops,Slit Lamp Examination,H10.9
+P033,Eye Discharge,Acute Conjunctivitis,Tobramycin Eye Drops,Slit Lamp Examination,H10.9
+P033,Eye Itching,Acute Conjunctivitis,Tobramycin Eye Drops,Slit Lamp Examination,H10.9
+P034,Depressed Mood,Major Depressive Disorder,Sertraline,Psychiatric Evaluation,F32.9
+P034,Anhedonia,Major Depressive Disorder,Sertraline,Psychiatric Evaluation,F32.9
+P034,Fatigue,Major Depressive Disorder,Sertraline,Psychiatric Evaluation,F32.9
+P035,Chronic Cough,Chronic Obstructive Pulmonary Disease (COPD),Tiotropium; Albuterol,Pulmonary Function Tests,J44.9
+P035,Dyspnea,Chronic Obstructive Pulmonary Disease (COPD),Tiotropium; Albuterol,Pulmonary Function Tests,J44.9
+P035,Wheezing,Chronic Obstructive Pulmonary Disease (COPD),Tiotropium; Albuterol,Pulmonary Function Tests,J44.9
+P036,Postnasal Drip,Chronic Sinusitis,Fluticasone Nasal Spray; Amoxicillin/Clavulanate,CT Sinuses,J32.9
+P036,Facial Pain,Chronic Sinusitis,Fluticasone Nasal Spray; Amoxicillin/Clavulanate,CT Sinuses,J32.9
+P036,Nasal Congestion,Chronic Sinusitis,Fluticasone Nasal Spray; Amoxicillin/Clavulanate,CT Sinuses,J32.9
+P037,Pruritus Vulvae,Vulvovaginal Candidiasis,Fluconazole; Topical Clotrimazole,Wet Mount Microscopy,B37.3
+P037,Vaginal Discharge,Vulvovaginal Candidiasis,Fluconazole; Topical Clotrimazole,Wet Mount Microscopy,B37.3
+P037,Vulvar Erythema,Vulvovaginal Candidiasis,Fluconazole; Topical Clotrimazole,Wet Mount Microscopy,B37.3
+P038,Dysphagia,Eosinophilic Esophagitis,Swallowed Fluticasone; PPI,Upper Endoscopy with Biopsy,K20.0
+P038,Food Impaction,Eosinophilic Esophagitis,Swallowed Fluticasone; PPI,Upper Endoscopy with Biopsy,K20.0
+P039,Heart Failure,Heart Failure with Reduced Ejection Fraction,Lisinopril; Metoprolol; Furosemide,Echocardiogram,I50.20
+P039,Shortness of Breath,Heart Failure with Reduced Ejection Fraction,Lisinopril; Metoprolol; Furosemide,Echocardiogram,I50.20
+P039,Edema,Heart Failure with Reduced Ejection Fraction,Lisinopril; Metoprolol; Furosemide,Echocardiogram,I50.20
+P040,Insomnia,Insomnia Disorder,Cognitive Behavioral Therapy for Insomnia (CBT-I),Sleep Study,G47.00
+P040,Daytime Fatigue,Insomnia Disorder,Cognitive Behavioral Therapy for Insomnia (CBT-I),Sleep Study,G47.00
+P041,Goiter,Hashimoto's Thyroiditis,Levothyroxine,Thyroid Ultrasound; TSH/Free T4 Test,E06.3
+P041,Fatigue,Hashimoto's Thyroiditis,Levothyroxine,Thyroid Ultrasound; TSH/Free T4 Test,E06.3
+P041,Weight Gain,Hashimoto's Thyroiditis,Levothyroxine,Thyroid Ultrasound; TSH/Free T4 Test,E06.3
+P042,Rectal Bleeding,Internal Hemorrhoids,Psyllium Fiber; Topical Hydrocortisone,Anoscopy,K64.8
+P042,Anorectal Pain,Internal Hemorrhoids,Psyllium Fiber; Topical Hydrocortisone,Anoscopy,K64.8
+P043,Tinnitus,Subjective Tinnitus,Sound Therapy; Counseling,Audiometry,H93.19
+P043,Hearing Difficulty,Subjective Tinnitus,Sound Therapy; Counseling,Audiometry,H93.19
+P044,Epistaxis,Anterior Epistaxis,Nasal Cautery; Humidification,CBC; Coagulation Studies,R04.0
+P045,Palpitations,Atrial Fibrillation,Metoprolol; Apixaban,ECG; Echocardiogram,I48.91
+P045,Chest Pain,Atrial Fibrillation,Metoprolol; Apixaban,ECG; Echocardiogram,I48.91
+P045,Dizziness,Atrial Fibrillation,Metoprolol; Apixaban,ECG; Echocardiogram,I48.91
+P046,Oligomenorrhea,Polycystic Ovary Syndrome (PCOS),Oral Contraceptive Pill; Metformin,Pelvic Ultrasound; Hormonal Assay,E28.2
+P046,Hirsutism,Polycystic Ovary Syndrome (PCOS),Oral Contraceptive Pill; Metformin,Pelvic Ultrasound; Hormonal Assay,E28.2
+P046,Acne,Polycystic Ovary Syndrome (PCOS),Oral Contraceptive Pill; Metformin,Pelvic Ultrasound; Hormonal Assay,E28.2
+P047,Night Blindness,Vitamin A Deficiency,Vitamin A Supplementation,Serum Retinol Test,E50.5
+P047,Dry Eyes,Vitamin A Deficiency,Vitamin A Supplementation,Serum Retinol Test,E50.5
+P048,Paresthesia,Peripheral Neuropathy,Gabapentin; Alpha-Lipoic Acid,Nerve Conduction Studies,G62.9
+P048,Burning Pain,Peripheral Neuropathy,Gabapentin; Alpha-Lipoic Acid,Nerve Conduction Studies,G62.9
+P048,Numbness,Peripheral Neuropathy,Gabapentin; Alpha-Lipoic Acid,Nerve Conduction Studies,G62.9
+P049,Proptosis,Graves' Disease,Methimazole; Propranolol,Thyroid Uptake Scan; TSH Receptor Antibodies,E05.00
+P049,Heat Intolerance,Graves' Disease,Methimazole; Propranolol,Thyroid Uptake Scan; TSH Receptor Antibodies,E05.00
+P049,Weight Loss,Graves' Disease,Methimazole; Propranolol,Thyroid Uptake Scan; TSH Receptor Antibodies,E05.00
+P050,Macular Rash,Tinea Corporis,Topical Terbinafine,Potassium Hydroxide (KOH) Preparation,B35.6
+P050,Pruritus,Tinea Corporis,Topical Terbinafine,Potassium Hydroxide (KOH) Preparation,B35.6
+P051,Dyspareunia,Endometriosis,NSAIDs; Gonadotropin-releasing Hormone Agonists,Pelvic Laparoscopy,N80.9
+P051,Chronic Pelvic Pain,Endometriosis,NSAIDs; Gonadotropin-releasing Hormone Agonists,Pelvic Laparoscopy,N80.9
+P051,Infertility,Endometriosis,NSAIDs; Gonadotropin-releasing Hormone Agonists,Pelvic Laparoscopy,N80.9
+P052,Foot Ulcer,Diabetes with Peripheral Neuropathy,Insulin; Cephalexin,Wound Debridement; Vascular Studies,E11.9
+P052,Loss of Sensation,Diabetes with Peripheral Neuropathy,Insulin; Cephalexin,Wound Debridement; Vascular Studies,E11.9
+P053,Jaundice,Pancreatic Cancer,Gemcitabine; Paclitaxel,CT Abdomen; ERCP with Biopsy,C25.9
+P053,Weight Loss,Pancreatic Cancer,Gemcitabine; Paclitaxel,CT Abdomen; ERCP with Biopsy,C25.9
+P053,Abdominal Pain,Pancreatic Cancer,Gemcitabine; Paclitaxel,CT Abdomen; ERCP with Biopsy,C25.9
+P054,Hemoptysis,Tuberculosis,Rifampin; Isoniazid; Pyrazinamide; Ethambutol,Chest X-Ray; Sputum Culture,A15.0
+P054,Night Sweats,Tuberculosis,Rifampin; Isoniazid; Pyrazinamide; Ethambutol,Chest X-Ray; Sputum Culture,A15.0
+P054,Fever,Tuberculosis,Rifampin; Isoniazid; Pyrazinamide; Ethambutol,Chest X-Ray; Sputum Culture,A15.0
+P055,Dysarthria,Amyotrophic Lateral Sclerosis (ALS),Riluzole; Multidisciplinary Support,EMG; Nerve Conduction Studies,G12.21
+P055,Muscle Weakness,Amyotrophic Lateral Sclerosis (ALS),Riluzole; Multidisciplinary Support,EMG; Nerve Conduction Studies,G12.21
+P055,Muscle Cramping,Amyotrophic Lateral Sclerosis (ALS),Riluzole; Multidisciplinary Support,EMG; Nerve Conduction Studies,G12.21
+P056,Galactorrhea,Prolactinoma,Cabergoline,MRI Pituitary; Prolactin Level,E22.1
+P056,Amenorrhea,Prolactinoma,Cabergoline,MRI Pituitary; Prolactin Level,E22.1
+P057,Headache,Idiopathic Intracranial Hypertension,Acetazolamide,Lumbar Puncture; MRI Brain,G93.2
+P057,Pulsatile Tinnitus,Idiopathic Intracranial Hypertension,Acetazolamide,Lumbar Puncture; MRI Brain,G93.2
+P057,Visual Changes,Idiopathic Intracranial Hypertension,Acetazolamide,Lumbar Puncture; MRI Brain,G93.2
+P058,Bullous Skin Lesions,Pemphigus Vulgaris,High-dose Prednisone; Rituximab,Skin Biopsy with Direct Immunofluorescence,L10.0
+P059,Oropharyngeal Ulcers,Behçet's Disease,Colchicine; Prednisone,Pathergy Test,M35.2
+P059,Genital Ulcers,Behçet's Disease,Colchicine; Prednisone,Pathergy Test,M35.2
+P059,Uveitis,Behçet's Disease,Colchicine; Prednisone,Pathergy Test,M35.2
+P060,Malabsorption,Celiac Disease,Gluten-free Diet,Duodenal Biopsy; tTG-IgA Test,K90.0
+P060,Diarrhea,Celiac Disease,Gluten-free Diet,Duodenal Biopsy; tTG-IgA Test,K90.0
+P060,Weight Loss,Celiac Disease,Gluten-free Diet,Duodenal Biopsy; tTG-IgA Test,K90.0
+P061,Hyperpigmentation,Addison's Disease,Hydrocortisone; Fludrocortisone,ACTH Stimulation Test,E27.1
+P061,Hypotension,Addison's Disease,Hydrocortisone; Fludrocortisone,ACTH Stimulation Test,E27.1
+P061,Hyponatremia,Addison's Disease,Hydrocortisone; Fludrocortisone,ACTH Stimulation Test,E27.1
+P062,Lymphadenopathy,Non-Hodgkin Lymphoma,R-CHOP Chemotherapy,Excisional Lymph Node Biopsy;C85.90
+P062,B Symptoms (Fever),Non-Hodgkin Lymphoma,R-CHOP Chemotherapy,Excisional Lymph Node Biopsy;C85.90
+P062,B Symptoms (Weight Loss),Non-Hodgkin Lymphoma,R-CHOP Chemotherapy,Excisional Lymph Node Biopsy;C85.90
+P063,Dysphonia,Spasmodic Dysphonia,Botulinum Toxin Injection,Laryngoscopy,G24.2
+P064,Flank Pain,Acute Pyelonephritis,Ciprofloxacin (IV then PO),Urinalysis; Urine Culture,N10
+P064,Fever,Acute Pyelonephritis,Ciprofloxacin (IV then PO),Urinalysis; Urine Culture,N10
+P064,Costovertebral Angle Tenderness,Acute Pyelonephritis,Ciprofloxacin (IV then PO),Urinalysis; Urine Culture,N10
+P065,Toe Walking,Cerebral Palsy,Physical Therapy; Baclofen,Brain MRI,G80.9
+P065,Spasticity,Cerebral Palsy,Physical Therapy; Baclofen,Brain MRI,G80.9
+P066,Photophobia,Acute Iritis (Anterior Uveitis),Topical Prednisolone; Cycloplegic Drops,Slit Lamp Examination,H20.9
+P066,Eye Pain,Acute Iritis (Anterior Uveitis),Topical Prednisolone; Cycloplegic Drops,Slit Lamp Examination,H20.9
+P066,Blurred Vision,Acute Iritis (Anterior Uveitis),Topical Prednisolone; Cycloplegic Drops,Slit Lamp Examination,H20.9
+P067,Pruritus,Cholestasis,Ursodeoxycholic Acid,Liver Function Tests; MRCP,K83.1
+P067,Jaundice,Cholestasis,Ursodeoxycholic Acid,Liver Function Tests; MRCP,K83.1
+P068,Air Hunger,Pulmonary Embolism,Apixaban; Oxygen,CT Pulmonary Angiography,I26.99
+P068,Pleuritic Chest Pain,Pulmonary Embolism,Apixaban; Oxygen,CT Pulmonary Angiography,I26.99
+P069,Onycholysis,Psoriasis,Topical Corticosteroids; Methotrexate,Dermatology Evaluation,L40.0
+P069,Silvery Scales,Psoriasis,Topical Corticosteroids; Methotrexate,Dermatology Evaluation,L40.0
+P070,Hyperreflexia,Multiple Sclerosis,Interferon Beta-1a; Physiotherapy,MRI Brain and Spine; Lumbar Puncture,G35
+P070,Optic Neuritis,Multiple Sclerosis,Interferon Beta-1a; Physiotherapy,MRI Brain and Spine; Lumbar Puncture,G35
+P070,Lhermitte's Sign,Multiple Sclerosis,Interferon Beta-1a; Physiotherapy,MRI Brain and Spine; Lumbar Puncture,G35
+P071,Abdominal Distension,Irritable Bowel Syndrome with Constipation,Linaclotide; PEG,Differential Diagnosis (Rule Out Organic Causes),K58.1
+P071,Constipation,Irritable Bowel Syndrome with Constipation,Linaclotide; PEG,Differential Diagnosis (Rule Out Organic Causes),K58.1
+P071,Bloating,Irritable Bowel Syndrome with Constipation,Linaclotide; PEG,Differential Diagnosis (Rule Out Organic Causes),K58.1
+P072,Watery Diarrhea,Irritable Bowel Syndrome with Diarrhea,Loperamide; Rifaximin,Differential Diagnosis (Rule Out Organic Causes),K58.0
+P072,Urgency,Irritable Bowel Syndrome with Diarrhea,Loperamide; Rifaximin,Differential Diagnosis (Rule Out Organic Causes),K58.0
+P073,Delusions,Schizophrenia,Risperidone; CBT,Psychiatric Evaluation,F20.9
+P073,Hallucinations,Schizophrenia,Risperidone; CBT,Psychiatric Evaluation,F20.9
+P073,Disorganized Speech,Schizophrenia,Risperidone; CBT,Psychiatric Evaluation,F20.9
+P074,Intrusive Thoughts,Obsessive-Compulsive Disorder (OCD),Fluoxetine; Exposure and Response Prevention (ERP),Psychiatric Evaluation,F42
+P074,Compulsions,Obsessive-Compulsive Disorder (OCD),Fluoxetine; Exposure and Response Prevention (ERP),Psychiatric Evaluation,F42
+P075,Flashbacks,Post-Traumatic Stress Disorder (PTSD),Sertraline; Prolonged Exposure Therapy,Psychiatric Evaluation,F43.10
+P075,Hypervigilance,Post-Traumatic Stress Disorder (PTSD),Sertraline; Prolonged Exposure Therapy,Psychiatric Evaluation,F43.10
+P075,Nightmares,Post-Traumatic Stress Disorder (PTSD),Sertraline; Prolonged Exposure Therapy,Psychiatric Evaluation,F43.10
+P076,Elbow Pain,Lateral Epicondylitis (Tennis Elbow),NSAIDs; Physical Therapy; Brace,Clinical Examination,M77.10
+P077,Shoulder Pain,Adhesive Capsulitis (Frozen Shoulder),Physical Therapy; Intra-articular Steroid Injection,Clinical Examination; X-ray (to rule out other),M75.00
+P077,Limited Range of Motion,Adhesive Capsulitis (Frozen Shoulder),Physical Therapy; Intra-articular Steroid Injection,Clinical Examination; X-ray (to rule out other),M75.00
+P078,Knee Pain,Osteoarthritis of the Knee,Acetaminophen; Hyaluronic Acid Injection,X-Ray; MRI,M17.9
+P078,Joint Stiffness,Osteoarthritis of the Knee,Acetaminophen; Hyaluronic Acid Injection,X-Ray; MRI,M17.9
+P079,Hip Pain,Osteoarthritis of the Hip,Naproxen; Physical Therapy,X-Ray; MRI,M16.9
+P080,Low Back Pain,Lumbar Spinal Stenosis,Physical Therapy; Epidural Steroid Injection,MRI Spine,M48.061
+P080,Neurogenic Claudication,Lumbar Spinal Stenosis,Physical Therapy; Epidural Steroid Injection,MRI Spine,M48.061
+P081,Anxiety,Generalized Anxiety Disorder,Escitalopram; CBT,Psychiatric Evaluation,F41.1
+P081,Worry,Generalized Anxiety Disorder,Escitalopram; CBT,Psychiatric Evaluation,F41.1
+P081,Restlessness,Generalized Anxiety Disorder,Escitalopram; CBT,Psychiatric Evaluation,F41.1
+P082,Mania,Bipolar I Disorder,Lithium; Quetiapine,Psychiatric Evaluation,F31.9
+P082,Grandiosity,Bipolar I Disorder,Lithium; Quetiapine,Psychiatric Evaluation,F31.9
+P082,Decreased Need for Sleep,Bipolar I Disorder,Lithium; Quetiapine,Psychiatric Evaluation,F31.9
+P083,Hoarseness,Laryngeal Cancer,Radiation Therapy; Chemotherapy,Laryngoscopy with Biopsy,C32.9
+P083,Chronic Cough,Laryngeal Cancer,Radiation Therapy; Chemotherapy,Laryngoscopy with Biopsy,C32.9
+P084,Hematemesis,Esophageal Varices,Propranolol; Band Ligation,Upper Endoscopy,I85.11
+P084,Melena,Esophageal Varices,Propranolol; Band Ligation,Upper Endoscopy,I85.11
+P085,Epigastric Pain,Acute Pancreatitis,NPO; IV Fluids; Pain Control,CT Abdomen; Lipase/Amylase,K85.90
+P085,Nausea,Acute Pancreatitis,NPO; IV Fluids; Pain Control,CT Abdomen; Lipase/Amylase,K85.90
+P085,Vomiting,Acute Pancreatitis,NPO; IV Fluids; Pain Control,CT Abdomen; Lipase/Amylase,K85.90
+P086,Scotomata,Retinal Detachment,Pneumatic Retinopexy; Scleral Buckle,Ophthalmoscopic Examination,H33.0
+P086,Floaters,Retinal Detachment,Pneumatic Retinopexy; Scleral Buckle,Ophthalmoscopic Examination,H33.0
+P086,Photopsia,Retinal Detachment,Pneumatic Retinopexy; Scleral Buckle,Ophthalmoscopic Examination,H33.0
+P087,Nocturia,Benign Prostatic Hyperplasia,Tamsulosin; Finasteride,PSA Test; Digital Rectal Exam,N40.0
+P087,Weak Stream,Benign Prostatic Hyperplasia,Tamsulosin; Finasteride,PSA Test; Digital Rectal Exam,N40.0
+P087,Urgency,Benign Prostatic Hyperplasia,Tamsulosin; Finasteride,PSA Test; Digital Rectal Exam,N40.0
+P088,Hematuria,Bladder Cancer,BCG Immunotherapy; Cystectomy,Cystoscopy;C67.9
+P088,Dysuria,Bladder Cancer,BCG Immunotherapy; Cystectomy,Cystoscopy;C67.9
+P089,Testicular Lump,Testicular Cancer,Orchiectomy; Chemotherapy,Scrotal Ultrasound;C62.9
+P090,Vaginal Bleeding,Cervical Cancer,Radiation; Chemotherapy; Hysterectomy,Pap Smear; Colposcopy with Biopsy;C53.9
+P091,Breast Lump,Breast Cancer,Lumpectomy; Tamoxifen; Radiation,Mammogram; Ultrasound; Biopsy,C50.919
+P091,Nipple Retraction,Breast Cancer,Lumpectomy; Tamoxifen; Radiation,Mammogram; Ultrasound; Biopsy,C50.919
+P092,Hematochezia,Colon Cancer,Colectomy; Chemotherapy,Colonoscopy with Biopsy;C18.9
+P092,Change in Bowel Habits,Colon Cancer,Colectomy; Chemotherapy,Colonoscopy with Biopsy;C18.9
+P093,Dysphagia,Esophageal Cancer,Esophagectomy; Chemoradiation,Upper Endoscopy with Biopsy;C15.9
+P093,Weight Loss,Esophageal Cancer,Esophagectomy; Chemoradiation,Upper Endoscopy with Biopsy;C15.9
+P094,Early Satiety,Gastric Cancer,Gastrectomy; Chemotherapy,Upper Endoscopy with Biopsy;C16.9
+P094,Indigestion,Gastric Cancer,Gastrectomy; Chemotherapy,Upper Endoscopy with Biopsy;C16.9
+P095,Obstructive Jaundice,Cholangiocarcinoma,Stent Placement; Whipple Procedure,MRCP; ERCP with Biopsy;C22.1
+P096,Abdominal Mass,Wilm's Tumor (Nephroblastoma),Nephrectomy; Chemotherapy,CT Abdomen;C64
+P097,Bone Pain,Osteosarcoma,Limb Salvage Surgery; Chemotherapy,X-Ray; MRI;C41.9
+P098,Headache,Medulloblastoma,Resection; Radiation; Chemotherapy,MRI Brain;C71.6
+P098,Ataxia,Medulloblastoma,Resection; Radiation; Chemotherapy,MRI Brain;C71.6
+P099,Skin Lesion,Malignant Melanoma,Wide Local excision; Sentinel Lymph Node Biopsy,Dermatoscopy;C43.9
+P100,Cough,Lung Cancer,Lobectomy; Targeted Therapy,CT Chest; Biopsy;C34.90
+P100,Weight Loss,Lung Cancer,Lobectomy; Targeted Therapy,CT Chest; Biopsy;C34.90
+P101,Pruritus,Primary Biliary Cholangitis,Ursodeoxycholic Acid,Liver Function Tests; AMA Test,K74.3
+P101,Fatigue,Primary Biliary Cholangitis,Ursodeoxycholic Acid,Liver Function Tests; AMA Test,K74.3
+P102,Ascites,Liver Cirrhosis,Spironolactone; Furosemide,Paracentesis; Liver Elastography,K74.60
+P102,Jaundice,Liver Cirrhosis,Spironolactone; Furosemide,Paracentesis; Liver Elastography,K74.60
+P103,Confusion,Hepatic Encephalopathy,Lactulose; Rifaximin,Mental Status Exam; Ammonia Level,K72.90
+P104,Oliguria,Acute Kidney Injury,Fluid Management; Treat Underlying Cause,Urinalysis; Renal Ultrasound,N17.9
+P104,Edema,Acute Kidney Injury,Fluid Management; Treat Underlying Cause,Urinalysis; Renal Ultrasound,N17.9
+P105,Metallic Taste,Chronic Kidney Disease,Sevelamer; Erythropoietin,Basic Metabolic Panel; eGFR Calculation,N18.9
+P105,Uremic Frost,Chronic Kidney Disease,Sevelamer; Erythropoietin,Basic Metabolic Panel; eGFR Calculation,N18.9
+P106,Polyuria,Diabetes Insipidus,Desmopressin,Water Deprivation Test,E23.2
+P106,Polydipsia,Diabetes Insipidus,Desmopressin,Water Deprivation Test,E23.2
+P107,Moon Facies,Cushing's Syndrome,Metyrapone; Ketoconazole,24-hour Urinary Free Cortisol; Dexamethasone Suppression Test,E24.9
+P107,Central Obesity,Cushing's Syndrome,Metyrapone; Ketoconazole,24-hour Urinary Free Cortisol; Dexamethasone Suppression Test,E24.9
+P107,Striae,Cushing's Syndrome,Metyrapone; Ketoconazole,24-hour Urinary Free Cortisol; Dexamethasone Suppression Test,E24.9
+P108,Protruding Eyeballs,Graves' Ophthalmopathy,Selenium; Prednisone; Orbital Radiation,Orbital CT Scan; Thyroid Function Tests,H05.20
+P108,Diplopia,Graves' Ophthalmopathy,Selenium; Prednisone; Orbital Radiation,Orbital CT Scan; Thyroid Function Tests,H05.20
+P109,Thirst,Hypercalcemia,IV Fluids; Calcitonin; Bisphosphonates,Serum Calcium; PTH Test,E83.52
+P109,Bone Pain,Hypercalcemia,IV Fluids; Calcitonin; Bisphosphonates,Serum Calcium; PTH Test,E83.52
+P109,Constipation,Hypercalcemia,IV Fluids; Calcitonin; Bisphosphonates,Serum Calcium; PTH Test,E83.52
+P110,Muscle Cramps,Hypocalcemia,Calcium Carbonate; Vitamin D,Serum Calcium; PTH Test,E83.51
+P110,Paresthesia,Hypocalcemia,Calcium Carbonate; Vitamin D,Serum Calcium; PTH Test,E83.51
+P110,Chvostek's Sign,Hypocalcemia,Calcium Carbonate; Vitamin D,Serum Calcium; PTH Test,E83.51
+P111,Weakness,Hyperkalemia,Calcium Gluconate; Insulin/Glucose; Kayexalate,ECG; Serum Potassium,E87.5
+P112,Palpitations,Hypokalemia,Potassium Chloride,ECG; Serum Potassium,E87.6
+P112,Muscle Weakness,Hypokalemia,Potassium Chloride,ECG; Serum Potassium,E87.6
+P113,Agitation,Hyponatremia,Fluid Restriction; Hypertonic Saline,Serum Sodium; Serum Osmolality,E87.1
+P113,Headache,Hyponatremia,Fluid Restriction; Hypertonic Saline,Serum Sodium; Serum Osmolality,E87.1
+P114,Polyuria,Hyperglycemia,Insulin; Oral Hypoglycemics,Blood Glucose Test; HbA1c,R73.9
+P114,Polydipsia,Hyperglycemia,Insulin; Oral Hypoglycemics,Blood Glucose Test; HbA1c,R73.9
+P115,Diaphoresis,Hypoglycemia,Oral Glucose; Glucagon (IM),Blood Glucose Test,E16.2
+P115,Tremor,Hypoglycemia,Oral Glucose; Glucagon (IM),Blood Glucose Test,E16.2
+P115,Confusion,Hypoglycemia,Oral Glucose; Glucagon (IM),Blood Glucose Test,E16.2
+P116,Buffalo Hump,HIV/AIDS,Antiretroviral Therapy (ART),CD4 Count; Viral Load Test,B20
+P116,Opportunistic Infection,HIV/AIDS,Antiretroviral Therapy (ART),CD4 Count; Viral Load Test,B20
+P117,Koplik Spots,Measles,Supportive Care (Vitamin A),Serology,B05.9
+P117,Rash,Measles,Supportive Care (Vitamin A),Serology,B05.9
+P118,Parotitis,Mumps,Supportive Care,Serology,B26.9
+P119,Rash,Rubella,Supportive Care,Serology,B06.9
+P120,Slapped Cheek Rash,Parvovirus B19,Supportive Care,Serology,B08.3
+P121,Vesicular Rash,Chickenpox (Varicella),Supportive Care; Acyclovir (if severe),Clinical Exam;B01.9
+P122,Painful Rash,Shingles (Herpes Zoster),Acyclovir; Valacyclovir; Gabapentin,Clinical Exam;B02.9
+P123,Sore Throat,Infectious Mononucleosis,Supportive Care (Rest),Mono Spot Test; EBV Serology,B27.90
+P123,Fatigue,Infectious Mononucleosis,Supportive Care (Rest),Mono Spot Test; EBV Serology,B27.90
+P123,Lymphadenopathy,Infectious Mononucleosis,Supportive Care (Rest),Mono Spot Test; EBV Serology,B27.90
+P124,Bull's Eye Rash,Lyme Disease,Doxycycline; Amoxicillin,ELISA; Western Blot,A69.20
+P124,Arthralgia,Lyme Disease,Doxycycline; Amoxicillin,ELISA; Western Blot,A69.20
+P125,Headache,Rocky Mountain Spotted Fever,Doxycycline,Serology; IFA Test,A77.0
+P125,Rash,Rocky Mountain Spotted Fever,Doxycycline,Serology; IFA Test,A77.0
+P126,Black Eschar,Anthrax,Ciprofloxacin; Doxycycline,Culture; PCR,A22.9
+P127,Lockjaw,Tetanus,Tetanus Immune Globulin; Metronidazole; Muscle Relaxants,Clinical Diagnosis,A35
+P127,Muscle Spasms,Tetanus,Tetanus Immune Globulin; Metronidazole; Muscle Relaxants,Clinical Diagnosis,A35
+P128,Drooling,Rabies,Wound Cleaning; Post-exposure Prophylaxis (Vaccine/IG),Direct Fluorescent Antibody Test,A82.9
+P128,Hydrophobia,Rabies,Wound Cleaning; Post-exposure Prophylaxis (Vaccine/IG),Direct Fluorescent Antibody Test,A82.9
+P129,Watery Diarrhea,Cholera,Oral Rehydration Solution; Azithromycin,Stool Culture,A00.9
+P130,Bloody Diarrhea,Shigellosis,Ciprofloxacin,Stool Culture,A03.9
+P131,Rice-Water Stools,E. Coli O157:H7,Supportive Care (Avoid Antibiotics),Stool Culture; Sorbitol-MacConkey Agar,A04.3
+P132,Abdominal Cramps,Campylobacter,Azithromycin,Stool Culture,A04.5
+P133,Jaundice,Leptospirosis,Doxycycline; Penicillin G,Microscopic Agglutination Test (MAT),A27.9
+P133,Fever,Leptospirosis,Doxycycline; Penicillin G,Microscopic Agglutination Test (MAT),A27.9
+P134,Ulcer,Chancroid,Azithromycin; Ceftriaxone,Culture; PCR,A57
+P135,Painless Ulcer,Syphilis,Penicillin G,RPR; FTA-ABS,A53.9
+P136,Dysuria,Gonorrhea,Ceftriaxone; Azithromycin,NAAT; Culture,A54.9
+P136,Purulent Discharge,Gonorrhea,Ceftriaxone; Azithromycin,NAAT; Culture,A54.9
+P137,Vaginal Discharge,Chlamydia,Doxycycline; Azithromycin,NAAT,A56.09
+P138,Vesicles,Genital Herpes,Acyclovir; Valacyclovir,PCR; Viral Culture,A60.9
+P138,Pain,Genital Herpes,Acyclovir; Valacyclovir,PCR; Viral Culture,A60.9
+P139,Itching,Scabies,Permethrin Cream,Clinical Exam;B86
+P139,Burrows,Scabies,Permethrin Cream,Clinical Exam;B86
+P140,Lice,Pediculosis,Permethrin Lotion; Malathion,Clinical Exam;B85.2
+P140,Pruritus,Pediculosis,Permethrin Lotion; Malathion,Clinical Exam;B85.2
+P141,Fever,Dengue Fever,Supportive Care (Avoid NSAIDs),NS1 Antigen Test; Serology,A97.9
+P141,Myalgia,Dengue Fever,Supportive Care (Avoid NSAIDs),NS1 Antigen Test; Serology,A97.9
+P141,Rash,Dengue Fever,Supportive Care (Avoid NSAIDs),NS1 Antigen Test; Serology,A97.9
+P142,Jaundice,Yellow Fever,Supportive Care,Vaccination History; PCR,A95.9
+P143,Headache,West Nile Virus,Supportive Care,Serology; PCR,A92.30
+P143,Encephalitis,West Nile Virus,Supportive Care,Serology; PCR,A92.30
+P144,Bleeding,Ebola Virus,Supportive Care; Investigational Therapies,PCR,A98.4
+P144,Fever,Ebola Virus,Supportive Care; Investigational Therapies,PCR,A98.4
+P145,Cough,Pertussis,Azithromycin; Supportive Care,Nasopharyngeal Swab; PCR,A37.90
+P145,Whoop,Pertussis,Azithromycin; Supportive Care,Nasopharyngeal Swab; PCR,A37.90
+P146,Sore Throat,Diphtheria,Diphtheria Antitoxin; Erythromycin,Clinical Exam; Culture,A36.9
+P146,Pseudomembrane,Diphtheria,Diphtheria Antitoxin; Erythromycin,Clinical Exam; Culture,A36.9
+P147,Watery Diarrhea,Giardiasis,Metronidazole,Stool Ova and Parasite Exam,A07.1
+P147,Bl oating,Giardiasis,Metronidazole,Stool Ova and Parasite Exam,A07.1
+P148,Bloody Diarrhea,Amebiasis,Metronidazole,Stool Ova and Parasite Exam; Serology,A06.9
+P149,Abdominal Pain,Ascariasis,Albendazole,Stool Ova and Parasite Exam,B77.9
+P150,Anal Pruritus,Pinworms,Albendazole; Mebendazole,"Scotch Tape Test",B80
+P151,Muscle Pain,Trichinosis,Albendazole; Prednisone,Serology; Muscle Biopsy,B75
+P152,Hematuria,Schistosomiasis,Praziquantel,Urine Ova Exam,B65.9
+P153,Cough,Tropical Pulmonary Eosinophilia,Diethylcarbamazine,Blood Smear for Microfilariae,B74.9
+P154,Leg Swelling,Lymphatic Filariasis,Diethylcarbamazine; Doxycycline,Blood Smear for Microfilariae,B74.0
+P154,Elephantiasis,Lymphatic Filariasis,Diethylcarbamazine; Doxycycline,Blood Smear for Microfilariae,B74.0
+P155,Skin Nodule,Onchocerciasis,Ivermectin,Skin Snip,B73
+P155,Blindness,Onchocerciasis,Ivermectin,Skin Snip,B73
+P156,Chagas Disease,Chagas Disease,Benznidazole; Nifurtimox,Blood Smear; Serology,B57.2
+P156,Romana's Sign,Chagas Disease,Benznidazole; Nifurtimox,Blood Smear; Serology,B57.2
+P157,Fever,Leishmaniasis,Amphotericin B; Miltefosine,Bone Marrow Aspirate; Serology,B55.9
+P157,Skin Ulcer,Leishmaniasis,Amphotericin B; Miltefosine,Bone Marrow Aspirate; Serology,B55.9
+P158,Headache,African Trypanosomiasis,Suramin; Eflornithine,Blood Smear; Lumbar Puncture,B56.9
+P158,Sleep Disturbance,African Trypanosomiasis,Suramin; Eflornithine,Blood Smear; Lumbar Puncture,B56.9
+P159,Fever,Malaria,Artemether-Lumefantrine; Atovaquone-Proguanil,Blood Smear; Rapid Diagnostic Test,B54
+P159,Chills,Malaria,Artemether-Lumefantrine; Atovaquone-Proguanil,Blood Smear; Rapid Diagnostic Test,B54
+P160,Headache,Toxoplasmosis,Pyrimethamine-Sulfadiazine,Serology,B58.9
+P161,Diarrhea,Cryptosporidiosis,Nitazoxanide,Stool Acid-Fast Smear,A07.2
+P162,Cough,Histoplasmosis,Itraconazole; Amphotericin B,Urine Antigen Test;B39.9
+P162,Fever,Histoplasmosis,Itraconazole; Amphotericin B,Urine Antigen Test;B39.9
+P163,Pneumonia,Coccidioidomycosis,Fluconazole; Itraconazole,Serology;B38.9
+P164,Meningitis,Cryptococcosis,Amphotericin B; Flucytosine; Fluconazole,CSF Antigen Test;B45.9
+P165,Ulcer,Blastomycosis,Itraconazole; Amphotericin B,Microscopy; Culture,B40.9
+P166,Proptosis,Mucormycosis,Amphotericin B; Surgical Debridement,Biopsy; Culture,B46.9
+P167,White Patches,Oral Candidiasis,Fluconazole; Nystatin Swish and Swallow,Clinical Exam;B37.0
+P168,Vaginal Discharge,Vaginal Candidiasis,Fluconazole; Topical Clotrimazole,Clinical Exam;B37.3
+P169,Onychomycosis,Onychomycosis,Terbinafine; Itraconazole; Ciclopirox,Nail Clipping with KOH;B35.1
+P170,Tinea Capitis,Tinea Capitis,Griseofulvin; Terbinafine,Wood's Lamp; KOH;B35.0
+P170,Alopecia,Tinea Capitis,Griseofulvin; Terbinafine,Wood's Lamp; KOH;B35.0
+P171,Pruritus,Atopic Dermatitis,Topical Corticosteroids; Topical Calcineurin Inhibitors,Clinical Exam,L20.9
+P171,Eczema,Atopic Dermatitis,Topical Corticosteroids; Topical Calcineurin Inhibitors,Clinical Exam,L20.9
+P172,Wheals,Chronic Urticaria,Loratadine; Cetirizine; Omaluzimab,Clinical Exam,L50.9
+P172,Pruritus,Chronic Urticaria,Loratadine; Cetirizine; Omaluzimab,Clinical Exam,L50.9
+P173,Blistering,Pemphigoid,Topical Corticosteroids; Doxycycline; Dapsone,Skin Biopsy with Direct Immunofluorescence,L12.9
+P174,Butterfly Rash,Discoid Lupus,Hydroxychloroquine; Topical Tacrolimus,Skin Biopsy,L93.0
+P175,Induration,Scleroderma,Methotrexate; Mycophenolate,Clinical Exam; ANA Test,M34.9
+P175,Skin Tightening,Scleroderma,Methotrexate; Mycophenolate,Clinical Exam; ANA Test,M34.9
+P176,Gottron Papules,Dermatomyositis,Methotrexate; IVIG; Prednisone,Muscle Enzymes; EMG; MRI,M33.90
+P176,Heliotrope Rash,Dermatomyositis,Methotrexate; IVIG; Prednisone,Muscle Enzymes; EMG; MRI,M33.90
+P177,Xerosis,Xerosis,Emollients; Humidifier,Clinical Exam,L85.3
+P178,Pruritus,Aquagenic Pruritus,Phototherapy; Naltrexone,Clinical Diagnosis,L29.8
+P179,Lesion,Basal Cell Carcinoma,Surgical Excision,Biopsy,C44.91
+P180,Lesion,Squamous Cell Carcinoma,Surgical Excision,Biopsy,C44.92
+P181,Mole,Dysplastic Nevus,Surgical Excision,Biopsy,D48.5
+P182,Lymphadenopathy,Castleman Disease,Siltuximab; Rituximab; Chemotherapy,Excisional Lymph Node Biopsy,D47.Z2
+P183,Skin Plaques,Mycosis Fungoides,PUVA; Topical Nitrogen Mustard; Bexarotene,Skin Biopsy,C84.0
+P184,Lesion,Kaposi's Sarcoma,Antiretroviral Therapy (if HIV); Liposomal Doxorubicin,Biopsy,C46.9
+P185,B Symptoms,Hodgkin Lymphoma,ABVD Chemotherapy; Radiation,Excisional Lymph Node Biopsy;C81.9
+P186,Leukocytosis,Chronic Myeloid Leukemia,Imatinib; Dasatinib,Peripheral Smear; BCR-ABL Test,C92.10
+P187,Fatigue,Chronic Lymphocytic Leukemia,Ibrutinib; Venetoclax; FCR Chemotherapy,Flow Cytometry;C91.10
+P188,Pancytopenia,Aplastic Anemia,Immunosuppressive Therapy; Bone Marrow Transplant,Bone Marrow Biopsy,D61.9
+P189,Anemia,Iron Deficiency Anemia,Ferrous Sulfate,Colonoscopy; Endoscopy (if indicated),D50.9
+P190,Jaundice,Autoimmune Hemolytic Anemia,Prednisone; Rituximab,Direct Antiglobulin Test (Coombs Test),D59.10
+P191,Thrombocytopenia,Immune Thrombocytopenic Purpura (ITP),Prednisone; IVIG; Romiplostim,CBC with Platelet Count,D69.3
+P192,Bleeding,Hemophilia A,Factor VIII Infusion,Coagulation Studies; Factor Assay,D66
+P193,Pain,Sickle Cell Crisis,Hydroxyurea; Pain Management; Hydration,Hemoglobin Electrophoresis,D57.1
+P193,Swollen Hands,Sickle Cell Crisis,Hydroxyurea; Pain Management; Hydration,Hemoglobin Electrophoresis,D57.1
+P194,Hyperviscosity,Polycythemia Vera,Phlebotomy; Hydroxyurea; Ruxolitinib,JAK2 Mutation Test,D45
+P195,Thrombosis,Essential Thrombocythemia,Hydroxyurea; Anagrelide,JAK2 Mutation Test,D47.3
+P196,Organomegaly,Myelofibrosis,Ruxolitinib; Fedratinib,Bone Marrow Biopsy; Genetic Testing,D47.1
+P197,Monoclonal Protein,Multiple Myeloma,Lenalidomide; Bortezomib; Daratumumab,SPEP; UPEP; Bone Marrow Biopsy,C90.00
+P197,Bone Pain,Multiple Myeloma,Lenalidomide; Bortezomib; Daratumumab,SPEP; UPEP; Bone Marrow Biopsy,C90.00
+P198,Lymphocytosis,Waldenström Macroglobulinemia,Ibrutinib; Rituximab; Chemotherapy,SPEP; IgM Level;C88.0
+P199,Amyloidosis,Amyloidosis,Autologous Stem Cell Transplant; Supportive Care,Biopsy with Congo Red Stain,E85.9
+P200,Hypercoagulability,Antiphospholipid Syndrome,Warfarin; Heparin,Anticardiolipin Antibodies; Lupus Anticoagulant,D68.62
+P201,Foot Drop,Peroneal Nerve Palsy,Physical Therapy; Ankle-Foot Orthosis,Nerve Conduction Study,G57.3
+P201,Weak Dorsiflexion,Peroneal Nerve Palsy,Physical Therapy; Ankle-Foot Orthosis,Nerve Conduction Study,G57.3
+P202,Hoarseness,Vocal Cord Paralysis,Speech Therapy; Injection Laryngoplasty,Laryngoscopy,J38.00
+P203,Horner's Syndrome,Horner's Syndrome,Treat Underlying Cause,MRI Neck; CT Chest,G90.2
+P203,Ptosis,Horner's Syndrome,Treat Underlying Cause,MRI Neck; CT Chest,G90.2
+P203,Miosis,Horner's Syndrome,Treat Underlying Cause,MRI Neck; CT Chest,G90.2
+P204,Diplopia,Third Nerve Palsy,Neuroimaging (Rule Out Aneurysm),MRI/MRA Brain; Angiography,H49.0
+P204,Ptosis,Third Nerve Palsy,Neuroimaging (Rule Out Aneurysm),MRI/MRA Brain; Angiography,H49.0
+P205,"""Stocking & Glove"" Numbness",Guillain-Barré Syndrome,IVIG; Plasmapheresis,Lumbar Puncture; EMG,G61.0
+P205,Ascending Weakness,Guillain-Barré Syndrome,IVIG; Plasmapheresis,Lumbar Puncture; EMG,G61.0
+P206,Dysautonomia,Pure Autonomic Failure,Midodrine; Fludrocortisone,Autonomic Function Testing,G90.3
+P206,Orthostatic Hypotension,Pure Autonomic Failure,Midodrine; Fludrocortisone,Autonomic Function Testing,G90.3
+P207,Macroglossia,Amyloidosis (Primary),Stem Cell Transplant; Supportive Care,Biopsy (Abdominal Fat Pad),E85.9
+P207,Periorbital Purpura,Amyloidosis (Primary),Stem Cell Transplant; Supportive Care,Biopsy (Abdominal Fat Pad),E85.9
+P208,Myotonia,Myotonic Dystrophy,Supportive Care (Pacemaker if needed),Genetic Testing; EMG,G71.11
+P208,Distal Muscle Weakness,Myotonic Dystrophy,Supportive Care (Pacemaker if needed),Genetic Testing; EMG,G71.11
+P209,Proximal Muscle Weakness,Duchenne Muscular Dystrophy,Corticosteroids; Physical Therapy,Genetic Testing; Creatine Kinase,G71.01
+P209,Gower's Sign,Duchenne Muscular Dystrophy,Corticosteroids; Physical Therapy,Genetic Testing; Creatine Kinase,G71.01
+P210,Fluctuating Weakness,Myasthenia Gravis,Pyridostigmine; Prednisone; Thymectomy,Acetylcholine Receptor Antibody Test; EMG,G70.00
+P210,Fatigability,Myasthenia Gravis,Pyridostigmine; Prednisone; Thymectomy,Acetylcholine Receptor Antibody Test; EMG,G70.00
+P211,Raynaud's Phenomenon,Systemic Sclerosis (Scleroderma),Calcium Channel Blockers; Iloprost,Nailfold Capillaroscopy,M34.0
+P211,Skin Thickening,Systemic Sclerosis (Scleroderma),Calcium Channel Blockers; Iloprost,Nailfold Capillaroscopy,M34.0
+P212,Mechanic's Hands,Anti-Synthetase Syndrome,Corticosteroids; Methotrexate; IVIG,Autoantibody Testing (Anti-Jo1),M35.9
+P212,Interstitial Lung Disease,Anti-Synthetase Syndrome,Corticosteroids; Methotrexate; IVIG,Autoantibody Testing (Anti-Jo1),M35.9
+P213,Heliotrope Rash,Juvenile Dermatomyositis,Corticosteroids; Methotrexate; IVIG,Muscle Enzymes; MRI,M33.02
+P214,Erythema Nodosum,Sarcoidosis,Corticosteroids; Methotrexate,Chest X-Ray; ACE Level; Biopsy,D86.9
+P214,Bilateral Hilar Lymphadenopathy,Sarcoidosis,Corticosteroids; Methotrexate,Chest X-Ray; ACE Level; Biopsy,D86.9
+P215,Painful Nodes,Kikuchi-Fujimoto Disease,Supportive Care (NSAIDs),Lymph Node Biopsy,D86.3
+P215,Fever,Kikuchi-Fujimoto Disease,Supportive Care (NSAIDs),Lymph Node Biopsy,D86.3
+P216,Sicca Symptoms,Sjögren's Syndrome,Pilocarpine; Hydroxychloroquine,Anti-Ro/SSA and Anti-La/SSB Tests,M35.02
+P216,Dry Eyes,Sjögren's Syndrome,Pilocarpine; Hydroxychloroquine,Anti-Ro/SSA and Anti-La/SSB Tests,M35.02
+P216,Dry Mouth,Sjögren's Syndrome,Pilocarpine; Hydroxychloroquine,Anti-Ro/SSA and Anti-La/SSB Tests,M35.02
+P217,Recurrent Fever,Familial Mediterranean Fever,Colchicine,Genetic Testing (MEFV Gene),E85.0
+P217,Serositis,Familial Mediterranean Fear,Colchicine,Genetic Testing (MEFV Gene),E85.0
+P218,Abdominal Pain,Hereditary Angioedema,C1 Esterase Inhibitor; Icatibant,C4 Level; C1-INH Level,D84.1
+P218,Swelling,Hereditary Angioedema,C1 Esterase Inhibitor; Icatibant,C4 Level; C1-INH Level,D84.1
+P219,Cold-induced Symptoms,Cryoglobulinemia,Treat Underlying Cause; Rituximab,Cryoglobulin Test,D89.1
+P219,Purpura,Cryoglobulinemia,Treat Underlying Cause; Rituximab,Cryoglobulin Test,D89.1
+P220,Line of Blaschko,Incontinentia Pigmenti,Supportive Care (Dermatology),Clinical Diagnosis; Genetic Testing,Q82.3
+P220,Verrucous Lesions,Incontinentia Pigmenti,Supportive Care (Dermatology),Clinical Diagnosis; Genetic Testing,Q82.3
+P221,Café-au-lait Spots,Neurofibromatosis Type 1,Surgical Removal of Tumors,Clinical Diagnosis; Genetic Testing,Q85.01
+P221,Neurofibromas,Neurofibromatosis Type 1,Surgical Removal of Tumors,Clinical Diagnosis; Genetic Testing,Q85.01
+P222,Bilateral Acoustic Neuromas,Neurofibromatosis Type 2,Surgical Management; Auditory Brainstem Implant,MRI Internal Auditory Canals; Genetic Testing,Q85.02
+P223,Angiofibromas,Tuberous Sclerosis,Everolimus; Sirolimus,MRI Brain; Genetic Testing,Q85.1
+P223,Hypopigmented Macules,Tuberous Sclerosis,Everolimus; Sirolimus,MRI Brain; Genetic Testing,Q85.1
+P224,Port-wine Stain,Sturge-Weber Syndrome,Anticonvulsants; Laser Therapy,MRI Brain; Ophthalmologic Exam,Q85.8
+P224,Seizures,Sturge-Weber Syndrome,Anticonvulsants; Laser Therapy,MRI Brain; Ophthalmologic Exam,Q85.8
+P225,Mental Retardation,Fragile X Syndrome,Supportive Care; Behavioral Therapy,Genetic Testing,Q99.2
+P225,Macroorchidism,Fragile X Syndrome,Supportive Care; Behavioral Therapy,Genetic Testing,Q99.2
+P226,Tall Stature,Marfan Syndrome,Beta-Blockers; Surgical Repair (Aorta),Echocardiogram; Genetic Testing,Q87.40
+P226,Aortic Dissection,Marfan Syndrome,Beta-Blockers; Surgical Repair (Aorta),Echocardiogram; Genetic Testing,Q87.40
+P227,Brittle Bones,Osteogenesis Imperfecta,Bisphosphonates; Physical Therapy,Clinical Diagnosis; Genetic Testing,Q78.0
+P228,Blue Sclerae,Osteogenesis Imperfecta,Bisphosphonates; Physical Therapy,Clinical Diagnosis; Genetic Testing,Q78.0
+P229,Overgrown Mandible,Cherubism,Observation; Surgical Recontouring,Panoramic X-Ray; Genetic Testing,K10.8
+P230,Bone Expansion,Fibrous Dysplasia,Bisphosphonates; Surgical Debridement,X-Ray; Biopsy,Q78.1
+P231,"""Ground Glass"" Appearance",Fibrous Dysplasia,Bisphosphonates; Surgical Debridement,X-Ray; Biopsy,Q78.1
+P232,Paget's Disease of Bone,Paget's Disease of Bone,Zoledronic Acid; Calcitonin,X-Ray; Alkaline Phosphatase Level,88.0
+P232,Bone Deformity,Paget's Disease of Bone,Zoledronic Acid; Calcitonin,X-Ray; Alkaline Phosphatase Level,88.0
+P233,Osteopetrosis,Osteopetrosis,Bone Marrow Transplant; Interferon Gamma,X-Ray; Genetic Testing,Q78.2
+P233,Pathologic Fractures,Osteopetrosis,Bone Marrow Transplant; Interferon Gamma,X-Ray; Genetic Testing,Q78.2
+P234,Rickets,Rickets,Vitamin D; Calcium Supplementation,X-Ray; Vitamin D Level,E55.0
+P234,Bowing Legs,Rickets,Vitamin D; Calcium Supplementation,X-Ray; Vitamin D Level,E55.0
+P235,Osteomalacia,Osteomalacia,Vitamin D; Calcium Supplementation,X-Ray; Vitamin D Level,M83.9
+P235,Proximal Weakness,Osteomalacia,Vitamin D; Calcium Supplementation,X-Ray; Vitamin D Level,M83.9
+P236,Chondrocalcinosis,Pseudogout,NSAIDs; Colchicine,Joint Aspiration (CPPD Crystals),M11.9
+P236,Acute Monoarthritis,Pseudogout,NSAIDs; Colchicine,Joint Aspiration (CPPD Crystals),M11.9
+P237,Paget's Disease of Breast,Paget's Disease of Breast,Mastectomy; Sentinel Node Biopsy,Biopsy,C50.011
+P237,Nipple Eczema,Paget's Disease of Breast,Mastectomy; Sentinel Node Biopsy,Biopsy,C50.011
+P238,Hypertrophic Osteoarthropathy,Hypertrophic Osteoarthropathy,Treat Underlying Cause (e.g., Lung CA),X-Ray; Bone Scan,M89.40
+P238,Clubbing,Hypertrophic Osteoarthropathy,Treat Underlying Cause (e.g., Lung CA),X-Ray; Bone Scan,M89.40
+P239,Avascular Necrosis,Avascular Necrosis,Core Decompression; Bone Grafting,MRI,M87.00
+P240,Legg-Calvé-Perthes Disease,Legg-Calvé-Perthes Disease,Containment; Osteotomy,X-Ray; MRI,M91.10
+P240,Limp,Legg-Calvé-Perthes Disease,Containment; Osteotomy,X-Ray; MRI,M91.10
+P241,Slipped Capital Femoral Epiphysis,Slipped Capital Femoral Epiphysis,Surgical Pinning,X-Ray; MRI,M93.00
+P241,Limp,Slipped Capital Femoral Epiphysis,Surgical Pinning,X-Ray; MRI,M93.00
+P242,Osgood-Schlatter Disease,Osgood-Schlatter Disease,Rest; Physical Therapy; Ice,Clinical Exam; X-Ray,M92.50
+P242,Knee Pain,Osgood-Schlatter Disease,Rest; Physical Therapy; Ice,Clinical Exam; X-Ray,M92.50
+P243,Trigger Finger,Trigger Finger,Corticosteroid Injection; Surgical Release,Clinical Exam,M65.30
+P244,Dupuytren's Contracture,Dupuytren's Contracture,Collagenase Injection; Needle Aponeurotomy,Clinical Exam,M72.0
+P244,Nodules,Dupuytren's Contracture,Collagenase Injection; Needle Aponeurotomy,Clinical Exam,M72.0
+P245,Ganglion Cyst,Ganglion Cyst,Aspiration; Surgical Excision,Clinical Exam; Ultrasound,M67.40
+P246,Carpal Tunnel Syndrome,Carpal Tunnel Syndrome,Splinting; Corticosteroid Injection; Release,Nerve Conduction Study,G56.00
+P246,Paresthesia,Carpal Tunnel Syndrome,Splinting; Corticosteroid Injection; Release,Nerve Conduction Study,G56.00
+P247,Cubital Tunnel Syndrome,Cubital Tunnel Syndrome,Elbow Splinting; Surgical Transposition,Nerve Conduction Study,G56.20
+P247,Numbness,Cubital Tunnel Syndrome,Elbow Splinting; Surgical Transposition,Nerve Conduction Study,G56.20
+P248,Tarsal Tunnel Syndrome,Tarsal Tunnel Syndrome,Orthotics; Corticosteroid Injection; Release,Nerve Conduction Study,G57.50
+P248,Burning Foot,Tarsal Tunnel Syndrome,Orthotics; Corticosteroid Injection; Release,Nerve Conduction Study,G57.50
+P249,Morton's Neuroma,Morton's Neuroma,Orthotics; Corticosteroid Injection; Neurectomy,Clinical Exam; Ultrasound,G57.60
+P249,Foot Pain,Morton's Neuroma,Orthotics; Corticosteroid Injection; Neurectomy,Clinical Exam; Ultrasound,G57.60
+P250,Plantar Fasciitis,Plantar Fasciitis,Stretching; Orthotics; Corticosteroid Injection,Clinical Exam,M72.2
+P250,Heel Pain,Plantar Fasciitis,Stretching; Orthotics; Corticosteroid Injection,Clinical Exam,M72.2
+P251,Achilles Tendonitis,Achilles Tendonitis,Rest; Physical Therapy; Eccentric Loading,Clinical Exam; Ultrasound,M76.60
+P252,Rotator Cuff Tear,Rotator Cuff Tear,Physical Therapy; Surgical Repair,MRI Shoulder,M75.10
+P252,Shoulder Weakness,Rotator Cuff Tear,Physical Therapy; Surgical Repair,MRI Shoulder,M75.10
+P253,Labral Tear,Shoulder Labral Tear,Physical Therapy; Arthroscopic Repair,MRI Arthrogram,S43.43
+P254,Meniscal Tear,Meniscal Tear,Physical Therapy; Arthroscopic Partial Meniscectomy,MRI Knee,S83.2
+P254,Knee Locking,Meniscal Tear,Physical Therapy; Arthroscopic Partial Meniscectomy,MRI Knee,S83.2
+P255,ACL Tear,Anterior Cruciate Ligament Tear,Physical Therapy; ACL Reconstruction,MRI Knee,S83.51
+P255,Knee Instability,Anterior Cruciate Ligament Tear,Physical Therapy; ACL Reconstruction,MRI Knee,S83.51
+P256,PCL Tear,Posterior Cruciate Ligament Tear,Physical Therapy; Bracing; PCL Reconstruction,MRI Knee,S83.52
+P257,Ankle Sprain,Ankle Sprain,RICE Protocol; Physical Therapy,Clinical Exam; X-Ray (rule out fx),S93.40
+P258,Stress Fracture,Stress Fracture,Rest; Protected Weight-Bearing; Bone Stimulator,X-Ray; MRI,M84.30
+P259,Compartment Syndrome,Compartment Syndrome,Emergency Fasciotomy,Compartment Pressure Measurement,T79.A0
+P259,Pain with Passive Stretch,Compartment Syndrome,Emergency Fasciotomy,Compartment Pressure Measurement,T79.A0
+P260,Osteochondritis Dissecans,Osteochondritis Dissecans,Drilling; Fixation; Osteochondral Grafting,MRI,M93.20
+P261,Charcot Joint,Charcot Neuroarthropathy,Offloading; Custom Bracing; Surgery,X-Ray; MRI,M14.60
+P262,Adhesive Capsulitis,Adhesive Capsulitis,Physical Therapy; Corticosteroid Injection; MUA,Clinical Exam,M75.00
+P263,Bursitis,Olecranon Bursitis,NSAIDs; Aspiration; Corticosteroid Injection,Clinical Exam; Ultrasound,M70.20
+P263,Elbow Swelling,Olecranon Bursitis,NSAIDs; Aspiration; Corticosteroid Injection,Clinical Exam; Ultrasound,M70.20
+P264,Bursitis,Prepatellar Bursitis,NSAIDs; Aspiration; Corticosteroid Injection,Clinical Exam; Ultrasound,M70.40
+P264,Knee Swelling,Prepatellar Bursitis,NSAIDs; Aspiration; Corticosteroid Injection,Clinical Exam; Ultrasound,M70.40
+P265,Bursitis,Trochanteric Bursitis,Physical Therapy; Corticosteroid Injection,Clinical Exam; Ultrasound,M70.60
+P265,Lateral Hip Pain,Trochanteric Bursitis,Physical Therapy; Corticosteroid Injection,Clinical Exam; Ultrasound,M70.60
+P266,De Quervain's Tenosynovitis,De Quervain's Tenosynovitis,Splinting; Corticosteroid Injection,Clinical Exam (Finkelstein's Test),M65.40
+P266,Wrist Pain,De Quervain's Tenosynovitis,Splinting; Corticosteroid Injection,Clinical Exam (Finkelstein's Test),M65.40
+P267,Trigger Finger,Trigger Finger,Corticosteroid Injection; Surgical Release,Clinical Exam,M65.30
+P268,Mallet Finger,Mallet Finger,Splinting; Pinning,Clinical Exam; X-Ray,S63.60
+P269,Jersey Finger,Jersey Finger,Surgical Repair,Clinical Exam; MRI,S66.20
+P270,Boutonnière Deformity,Boutonnière Deformity,Splinting; Surgery,Clinical Exam,M20.00
+P271,Swan Neck Deformity,Swan Neck Deformity,Splinting; Surgery,Clinical Exam,M20.00
+P272,Hammer Toe,Hammer Toe,Orthotics; Surgery,Clinical Exam; X-Ray,M20.50
+P273,Bunion,Hallux Valgus,Orthotics; Surgery,Clinical Exam; X-Ray,M20.10
+P274,Pes Planus,Pes Planus,Orthotics; Physical Therapy,Clinical Exam; X-Ray,M21.50
+P275,Pes Cavus,Pes Cavus,Orthotics; Physical Therapy,Clinical Exam; X-Ray,M21.60
+P276,Metatarsalgia,Metatarsalgia,Orthotics; Corticosteroid Injection,Clinical Exam; X-Ray,M77.40
+P277,Spinal Stenosis,Lumbar Spinal Stenosis,Physical Therapy; Epidural Steroid Injection; Laminectomy,MRI Spine,M48.061
+P278,Spondylolisthesis,Spondylolisthesis,Physical Therapy; Surgical Fusion,X-Ray; MRI,M43.10
+P279,Herniated Disc,Lumbar Herniated Disc,Physical Therapy; Epidural Steroid Injection; Discectomy,MRI Spine,M51.26
+P279,Sciatica,Lumbar Herniated Disc,Physical Therapy; Epidural Steroid Injection; Discectomy,MRI Spine,M51.26
+P280,Ankylosing Spondylitis,Ankylosing Spondylitis,NSAIDs; TNF Inhibitors,X-Ray; HLA-B27 Test,M45.9
+P280,"""Bamboo Spine""",Ankylosing Spondylitis,NSAIDs; TNF Inhibitors,X-Ray; HLA-B27 Test,M45.9
+P281,Cavernous Sinus Thrombosis,Cavernous Sinus Thrombosis,IV Antibiotics; Anticoagulation,CT/MRI with Contrast,G08
+P281,Opthalmoplegia,Cavernous Sinus Thrombosis,IV Antibiotics; Anticoagulation,CT/MRI with Contrast,G08
+P282,Ludwig's Angina,Ludwig's Angina,IV Antibiotics; Surgical Airway,CT Neck,K12.2
+P282,Submandibular Swelling,Ludwig's Angina,IV Antibiotics; Surgical Airway,CT Neck,K12.2
+P283,Lemierre's Syndrome,Lemierre's Syndrome,IV Antibiotics; Anticoagulation,CT Neck; Blood Culture,A48.89
+P283,Septic Thrombophlebitis,Lemierre's Syndrome,IV Antibiotics; Anticoagulation,CT Neck; Blood Culture,A48.89
+P284,Fournier's Gangrene,Fournier's Gangrene,Broad-spectrum IV Antibiotics; Surgical Debridement,Clinical Exam; CT,A48.0
+P284,Genital Pain,Fournier's Gangrene,Broad-spectrum IV Antibiotics; Surgical Debridement,Clinical Exam; CT,A48.0
+P285,Necrotizing Fasciitis,Necrotizing Fasciitis,Broad-spectrum IV Antibiotics; Emergent Surgical Debridement,Clinical Exam; CT,M72.6
+P285,"""Dishwater"" Pus",Necrotizing Fasciitis,Broad-spectrum IV Antibiotics; Emergent Surgical Debridement,Clinical Exam; CT,M72.6
+P286,Gas Gangrene,Gas Gangrene,Penicillin G; Hyperbaric Oxygen; Surgical Debridement,Clinical Exam; X-Ray (Gas Shadows),A48.0
+P287,Toxic Shock Syndrome,Toxic Shock Syndrome,IV Antibiotics; IV Fluids; Vasopressors,Clinical Exam; Blood Culture,A48.3
+P287,Diffuse Rash,Toxic Shock Syndrome,IV Antibiotics; IV Fluids; Vasopressors,Clinical Exam; Blood Culture,A48.3
+P288,Stevens-Johnson Syndrome,Stevens-Johnson Syndrome,Supportive Care; Discontinue Offending Drug,Clinical Diagnosis; Skin Biopsy,L51.1
+P288,Mucocutaneous Detachment,Stevens-Johnson Syndrome,Supportive Care; Discontinue Offending Drug,Clinical Diagnosis; Skin Biopsy,L51.1
+P289,Toxic Epidermal Necrolysis,Toxic Epidermal Necrolysis,Supportive Care (Burn Unit),Clinical Diagnosis; Skin Biopsy,L51.2
+P290,Erythema Multiforme,Erythema Multiforme,Supportive Care; Antivirals (if HSV-related),Clinical Diagnosis,L51.9
+P290,"""Target Lesions""",Erythema Multiforme,Supportive Care; Antivirals (if HSV-related),Clinical Diagnosis,L51.9
+P291,Erythema Migrans,Lyme Disease,Doxycycline; Amoxicillin,Clinical Exam; Serology,A69.20
+P292,Erythema Nodosum,Erythema Nodosum,Treat Underlying Cause; Potassium Iodide,Clinical Diagnosis; Biopsy,L52
+P293,Erythema Marginatum,Rheumatic Fever,Aspirin; Penicillin; Corticosteroids,Jones Criteria; ASO Titer,I00
+P294,Janeway Lesions,Infective Endocarditis,IV Antibiotics; Valve Surgery,Blood Cultures; Echocardiogram,I33.0
+P295,Osler's Nodes,Infective Endocarditis,IV Antibiotics; Valve Surgery,Blood Cultures; Echocardiogram,I33.0
+P296,Splinter Hemorrhages,Infective Endocarditis,IV Antibiotics; Valve Surgery,Blood Cultures; Echocardiogram,I33.0
+P297,Roth's Spots,Infective Endocarditis,IV Antibiotics; Valve Surgery,Blood Cultures; Echocardiogram,I33.0
+P298,Acrocyanosis,Raynaud's Phenomenon,Calcium Channel Blockers; Avoid Cold,Clinical Diagnosis,I73.00
+P299,Livedo Reticularis,Livedo Reticularis,Treat Underlying Cause,Clinical Diagnosis; Autoimmune Workup,R23.1
+P300,Palmar Erythema,Palmar Erythema,Treat Underlying Cause (e.g., Liver Disease),Clinical Diagnosis,R23.2
+P301,Apraxia,Corticobasal Degeneration,Supportive Care (Physical/Occupational Therapy),MRI Brain,G31.89
+P301,Alien Limb Phenomenon,Corticobasal Degeneration,Supportive Care (Physical/Occupational Therapy),MRI Brain,G31.89
+P302,Supranuclear Gaze Palsy,Progressive Supranuclear Palsy,Supportive Care (Fall Prevention),MRI Brain; Clinical Exam,G23.1
+P302,Postural Instability,Progressive Supranuclear Palsy,Supportive Care (Fall Prevention),MRI Brain; Clinical Exam,G23.1
+P303,REM Sleep Behavior Disorder,Lewy Body Dementia,Rivastigmine; Clonazepam,Polysomnography; DAT Scan,G31.83
+P303,Visual Hallucinations,Lewy Body Dementia,Rivastigmine; Clonazepam,Polysomnography; DAT Scan,G31.83
+P304,Ophthalmoplegia,Chronic Progressive External Ophthalmoplegia,Supportive Care (Lubricating Drops),Genetic Testing; Muscle Biopsy,H49.40
+P304,Ptosis,Chronic Progressive External Ophthalmoplegia,Supportive Care (Lubricating Drops),Genetic Testing; Muscle Biopsy,H49.40
+P305,Retinitis Pigmentosa,Usher Syndrome,Supportive Care (Hearing Aids; Orientation Training),Genetic Testing; Audiometry,H35.52
+P305,Sensorineural Hearing Loss,Usher Syndrome,Supportive Care (Hearing Aids; Orientation Training),Genetic Testing; Audiometry,H35.52
+P306,Retinal Angiomas,von Hippel-Lindau Disease,Surgical Resection of Tumors; Belzutifan,Genetic Testing; Annual Screenings,Q85.8
+P306,Cerebellar Hemangioblastomas,von Hippel-Lindau Disease,Surgical Resection of Tumors; Belzutifan,Genetic Testing; Annual Screenings,Q85.8
+P307,Hypoglycemia,Insulinoma,Surgical Resection,72-hour Fast; CT Abdomen; Endoscopic Ultrasound,D13.7
+P308,Flushing,Carcinoid Syndrome,Octreotide; Telotristat Ethyl; Surgical Resection,Chromogranin A; 5-HIAA Urine Test,E34.0
+P308,Diarrhea,Carcinoid Syndrome,Octreotide; Telotristat Ethyl; Surgical Resection,Chromogranin A; 5-HIAA Urine Test,E34.0
+P309,Whipple's Triad,Insulinoma,Surgical Resection,72-hour Fast; CT Abdomen; Endoscopic Ultrasound,D13.7
+P310,Persistent Hypokalemia,Conn's Syndrome (Primary Hyperaldosteronism),Spironolactone; Eplerenone; Adrenalectomy,Aldosterone/Renin Ratio; Adrenal Venous Sampling,E26.01
+P310,Hypertension,Conn's Syndrome (Primary Hyperaldosteronism),Spironolactone; Eplerenone; Adrenalectomy,Aldosterone/Renin Ratio; Adrenal Venous Sampling,E26.01
+P311,Virilization,Congenital Adrenal Hyperplasia,Hydrocortisone; Fludrocortisone,17-OH Progesterone Test; Genetic Testing,E25.0
+P312,Ambiguous Genitalia,Congenital Adrenal Hyperplasia,Hydrocortisone; Fludrocortisone,17-OH Progesterone Test; Genetic Testing,E25.0
+P313,Short Stature,Turner Syndrome,Growth Hormone; Estrogen Replacement,Karyotype; Echocardiogram,Q96.9
+P313,Webbed Neck,Turner Syndrome,Growth Hormone; Estrogen Replacement,Karyotype; Echocardiogram,Q96.9
+P314,Tall Stature,Klinefelter Syndrome,Testosterone Replacement,Karyotype; Hormonal Assay,Q98.4
+P314,Gynecomastia,Klinefelter Syndrome,Testosterone Replacement,Karyotype; Hormonal Assay,Q98.4
+P315,Developmental Delay,Prader-Willi Syndrome,Growth Hormone; Strict Food Supervision,Genetic Testing (Methylation Study),Q87.1
+P315,Hyperphagia,Prader-Willi Syndrome,Growth Hormone; Strict Food Supervision,Genetic Testing (Methylation Study),Q87.1
+P316,Cat-like Cry,Cri-du-chat Syndrome,Supportive Care (Therapy),Genetic Testing (Karyotype),Q93.4
+P317,Thrombocytopenia,Absent Radius (TAR) Syndrome,Platelet Transfusions; Avoid NSAIDs,Genetic Testing; X-Ray,Q87.29
+P317,Bilateral Absent Radii,Absent Radius (TAR) Syndrome,Platelet Transfusions; Avoid NSAIDs,Genetic Testing; X-Ray,Q87.29
+P318,"""Sail Sign"" Chest",Poland Syndrome,Physical Therapy; Possible reconstructive surgery,Clinical Exam; CT Chest,Q79.8
+P318,Absent Pectoralis Muscle,Poland Syndrome,Physical Therapy; Possible reconstructive surgery,Clinical Exam; CT Chest,Q79.8
+P319,Progeria,Hutchinson-Gilford Progeria Syndrome,Lonafarnib; Supportive Care,Genetic Testing (LMNA Gene),E34.8
+P319,Premature Aging,Hutchinson-Gilford Progeria Syndrome,Lonafarnib; Supportive Care,Genetic Testing (LMNA Gene),E34.8
+P320,Cherry Red Spot,Tay-Sachs Disease,Supportive Care,Enzyme Assay; Genetic Testing,E75.02
+P320,Startle Response,Tay-Sachs Disease,Supportive Care,Enzyme Assay; Genetic Testing,E75.02
+P321,White Matter Abnormalities,Metachromatic Leukodystrophy,Hematopoietic Stem Cell Transplant (early stage),Enzyme Assay; Genetic Testing; MRI Brain,E75.25
+P322,Globoid Cells,Krabbe Disease,Hematopoietic Stem Cell Transplant (early stage),Enzyme Assay; Genetic Testing,E75.29
+P323,Copper Accumulation,Wilson's Disease,Penicillamine; Trientine; Zinc,Serum Ceruloplasmin; Slit Lamp Exam; Urinary Copper,E83.01
+P323,Kayser-Fleischer Rings,Wilson's Disease,Penicillamine; Trientine; Zinc,Serum Ceruloplasmin; Slit Lamp Exam; Urinary Copper,E83.01
+P324,Manganese Accumulation,Hypermanganesemia,Edetate Calcium Disodium (EDTA); Iron Therapy,MRI Brain; Blood Manganese Level,T57.2
+P324,Parkinsonism,Hypermanganesemia,Edetate Calcium Disodium (EDTA); Iron Therapy,MRI Brain; Blood Manganese Level,T57.2
+P325,Maple Syrup Odor,Maple Syrup Urine Disease,Dietary Leucine Restriction; Thiamine,Plasma Amino Acid Analysis; Genetic Testing,E71.0
+P326,Musty Odor,Phenylketonuria (PKU),Phenylalanine-restricted Diet,Newborn Screening; Plasma Phe Levels,E70.1
+P327,Dislocated Lenses,Homocystinuria,Pyridoxine; Betaine; Folate; Diet,Plasma Amino Acid Analysis; Genetic Testing,E72.11
+P327,Thromboembolism,Homocystinuria,Pyridoxine; Betaine; Folate; Diet,Plasma Amino Acid Analysis; Genetic Testing,E72.11
+P328,Ornithine Transcarbamylase Deficiency,Ornithine Transcarbamylase Deficiency,Sodium Benzoate; Arginine; Low-protein Diet,Plasma Amino Acids; Urotic Acid; Genetic Testing,E72.4
+P328,Hyperammonemia,Ornithine Transcarbamylase Deficiency,Sodium Benzoate; Arginine; Low-protein Diet,Plasma Amino Acids; Urotic Acid; Genetic Testing,E72.4
+P329,Lysosomal Storage Disease,Niemann-Pick Disease,Miglustat; Supportive Care,Bone Marrow Biopsy; Genetic Testing,E75.242
+P329,Cherry Red Spot,Niemann-Pick Disease,Miglustat; Supportive Care,Bone Marrow Biopsy; Genetic Testing,E75.242
+P330,Fabry Disease,Fabry Disease,Agalsidase Beta; Migalastat,Enzyme Assay; Genetic Testing,E75.21
+P330,Angiokeratomas,Fabry Disease,Agalsidase Beta; Migalastat,Enzyme Assay; Genetic Testing,E75.21
+P331,Acroparesthesia,Fabry Disease,Agalsidase Beta; Migalastat,Enzyme Assay; Genetic Testing,E75.21
+P332,Hypopigmentation,Piebaldism,Supportive Care (Sun Protection),Clinical Diagnosis; Genetic Testing,L81.3
+P332,White Forelock,Piebaldism,Supportive Care (Sun Protection),Clinical Diagnosis; Genetic Testing,L81.3
+P333,Waardenburg Syndrome,Waardenburg Syndrome,Supportive Care (Hearing Aids),Clinical Diagnosis; Genetic Testing,E70.8
+P333,Sensorineural Hearing Loss,Waardenburg Syndrome,Supportive Care (Hearing Aids),Clinical Diagnosis; Genetic Testing,E70.8
+P334,Dystrophic Epidermolysis Bullosa,Dystrophic Epidermolysis Bullosa,Wound Care; Pain Management,Skin Biopsy for Immunofluorescence; Genetic Testing,Q81.2
+P334,Blistering,Dystrophic Epidermolysis Bullosa,Wound Care; Pain Management,Skin Biopsy for Immunofluorescence; Genetic Testing,Q81.2
+P335,Milia,Epidermolysis Bullosa Simplex,Wound Care; Avoid Trauma,Skin Biopsy for Immunofluorescence; Genetic Testing,Q81.0
+P336,"""Mitten"" Deformities",Epidermolysis Bullosa Dystrophica,Wound Care; Surgery,Skin Biopsy for Immunofluorescence; Genetic Testing,Q81.2
+P337,Ichthyosis,Harlequin Ichthyosis,Systemic Retinoids; Intensive Neonatal Care,Clinical Diagnosis; Genetic Testing,Q80.4
+P338,Collodion Baby,Harlequin Ichthyosis,Systemic Retinoids; Intensive Neonatal Care,Clinical Diagnosis; Genetic Testing,Q80.4
+P339,Ectropion,Harlequin Ichchyosis,Systemic Retinoids; Intensive Neonatal Care,Clinical Diagnosis; Genetic Testing,Q80.4
+P340,Eclabium,Harlequin Ichchyosis,Systemic Retinoids; Intensive Neonatal Care,Clinical Diagnosis; Genetic Testing,Q80.4
+P341,Erythroderma,Netherton Syndrome,Supportive Skin Care; Topical Calcineurin Inhibitors,Genetic Testing (SPINK5),Q80.8
+P341,Bamboo Hair,Netherton Syndrome,Supportive Skin Care; Topical Calcineurin Inhibitors,Genetic Testing (SPINK5),Q80.8
+P342,Alopecia,Monilethrix,Supportive Care; Minoxidil,Hair Microscopy; Genetic Testing,Q84.1
+P343,Beaded Hair,Monilethrix,Supportive Care; Minoxidil,Hair Microscopy; Genetic Testing,Q84.1
+P344,Pili Torti,Pili Torti,Supportive Care,Hair Microscopy,Q84.1
+P345,Trichorrhexis Nodosa,Trichorrhexis Nodosa,Supportive Care; Avoid Trauma,Hair Microscopy,Q84.1
+P346,Menkes Disease,Menkes Disease,Copper Histidinate Injections,Plasma Copper/Ceruloplasmin; Genetic Testing,E83.01
+P346,Kinky Hair,Menkes Disease,Copper Histidinate Injections,Plasma Copper/Ceruloplasmin; Genetic Testing,E83.01
+P347,Occipital Horn Syndrome,Occipital Horn Syndrome,Copper Histidinate; Supportive Care,Skeletal Survey; Genetic Testing,E83.01
+P348,Ehlers-Danlos Syndrome, EDS Vascular Type,Ehlers-Danlos Syndrome, Vascular Type,Celiprolol; Avoidance of Strain,Genetic Testing (COL3A1); Arterial Imaging,Q79.60
+P348,Arterial Rupture,Ehlers-Danlos Syndrome, Vascular Type,Celiprolol; Avoidance of Strain,Genetic Testing (COL3A1); Arterial Imaging,Q79.60
+P349,Hypermobile EDS,Ehlers-Danlos Syndrome, Hypermobility Type,Physical Therapy; Pain Management,Brighton Criteria; Genetic Testing (TNXB),Q79.60
+P349,Joint Hypermobility,Ehlers-Danlos Syndrome, Hypermobility Type,Physical Therapy; Pain Management,Brighton Criteria; Genetic Testing (TNXB),Q79.60
+P350,Elastosis Perforans Serpiginosa,Elastosis Perforans Serpiginosa,Topical Retinoids; Cryotherapy; Laser,Skin Biopsy,L87.0
+P351,Keratoacanthoma,Keratoacanthoma,Surgical Excision,Biopsy,L85.8
+P352,Porokeratosis,Porokeratosis,Topical 5-FU; Imiquimod; Cryotherapy,Skin Biopsy,L81.6
+P353,Granuloma Annulare,Granuloma Annulare,Topical Corticosteroids; Cryotherapy; Observation,Skin Biopsy,L92.0
+P354,Necrobiosis Lipoidica,Necrobiosis Lipoidica,Topical Corticosteroids; Pentoxifylline,Skin Biopsy,L92.1
+P355,Pyoderma Gangrenosum,Pyoderma Gangrenosum,Corticosteroids; Cyclosporine; Biologics,Clinical Diagnosis; Rule Out Other Ulcers,L88
+P356,Hidradenitis Suppurativa,Hidradenitis Suppurativa,Clindamycin; Spironolactone; Adalimumab; Surgery,Clinical Diagnosis,L73.2
+P357,Fox-Fordyce Disease,Fox-Fordyce Disease,Topical Retinoids; Clindamycin; Oral Contraceptives,Clinical Diagnosis,L75.2
+P358,Halo Nevus,Halo Nevus,Observation; Excision if changing,Clinical Exam; Dermoscopy,D22.9
+P359,Becker's Nevus,Becker's Nevus,Laser Therapy; Observation,Clinical Exam,D22.9
+P360,Spitz Nevus,Spitz Nevus,Surgical Excision,Biopsy,D22.9
+P361,Seborrheic Keratosis,Seborrheic Keratosis,Cryotherapy; Curettage; Laser,Clinical Exam; Dermoscopy,L82.1
+P362,Dermatosis Papulosa Nigra,Dermatosis Papulosa Nigra,Curettage; Electrodesiccation; Laser,Clinical Exam,L82.0
+P363,Skin Tags,Skin Tags,Cryotherapy; Snip Excision,Clinical Exam,L91.8
+P364,Lipoma,Lipoma,Surgical Excision if symptomatic,Clinical Exam; Ultrasound,D17.9
+P365,Dermatofibroma,Dermatofibroma,Surgical Excision if desired,Clinical Exam; Dermatoscopy (Dimple Sign),D23.9
+P366,Keloid,Keloid,Intralesional Corticosteroids; Silicone Sheets; Surgery,Clinical Exam,L91.0
+P367,Hypertrophic Scar,Hypertrophic Scar,Intralesional Corticosteroids; Silicone Sheets,Clinical Exam,L91.0
+P368,Prurigo Nodularis,Prurigo Nodularis,Topical Corticosteroids; Phototherapy; Thalidomide,Skin Biopsy,L28.1
+P369,Lichen Simplex Chronicus,Lichen Simplex Chronicus,Topical Corticosteroids; Antihistamines; Behavioral Modification,Clinical Exam,L28.0
+P370,Notalgia Paresthetica,Notalgia Paresthetica,Topical Capsaicin; Gabapentin; Physical Therapy,Clinical Exam,L29.8
+P371,Brachioradial Pruritus,Brachioradial Pruritus,Topical Capsaicin; Gabapentin; Ice Packs,Clinical Exam,L29.8
+P372,Anhidrosis,Anhidrosis,Treat Underlying Cause; Cool Environment,Sweat Test,L74.4
+P373,Hyperhidrosis,Hyperhidrosis,Topical Aluminum Chloride; Iontophoresis; Botox,Sweat Test,L74.5
+P374,Granulomatous Disease,Chronic Granulomatous Disease,Prophylactic Antibiotics/Antifungals; IFN-gamma,Nitroblue Tetrazolium Test; Genetic Testing,D71
+P374,Recurrent Infections,Chronic Granulomatous Disease,Prophylactic Antibiotics/Antifungals; IFN-gamma,Nitroblue Tetrazolium Test; Genetic Testing,D71
+P375,Job Syndrome,Job Syndrome (Hyper-IgE Syndrome),Prophylactic Antibiotics; Surgical Drainage of Abscesses,IgE Level; STAT3 Genetic Testing,D82.4
+P375,Cold Abscesses,Job Syndrome (Hyper-IgE Syndrome),Prophylactic Antibiotics; Surgical Drainage of Abscesses,IgE Level; STAT3 Genetic Testing,D82.4
+P376,Ataxia-Telangiectasia,Ataxia-Telangiectasia,Supportive Care; IVIG,Alpha-fetoprotein Level; Genetic Testing,G11.3
+P376,Oculocutaneous Telangiectasias,Ataxia-Telangiectasia,Supportive Care; IVIG,Alpha-fetoprotein Level; Genetic Testing,G11.3
+P377,Wiskott-Aldrich Syndrome,Wiskott-Aldrich Syndrome,Prophylactic Antibiotics; IVIG; Splenectomy; HSCT,Immunoglobulin Levels; Genetic Testing,D82.0
+P377,Eczema,Wiskott-Aldrich Syndrome,Prophylactic Antibiotics; IVIG; Splenectomy; HSCT,Immunoglobulin Levels; Genetic Testing,D82.0
+P377,Thrombocytopenia,Wiskott-Aldrich Syndrome,Prophylactic Antibiotics; IVIG; Splenectomy; HSCT,Immunoglobulin Levels; Genetic Testing,D82.0
+P378,DiGeorge Syndrome,DiGeorge Syndrome,Calcium Supplementation; Thymus Transplant; Cardiac Repair,FISH for 22q11.2 deletion,Q93.81
+P378,Hypocalcemia,DiGeorge Syndrome,Calcium Supplementation; Thymus Transplant; Cardiac Repair,FISH for 22q11.2 deletion,Q93.81
+P378,Conotruncal Heart Defect,DiGeorge Syndrome,Calcium Supplementation; Thymus Transplant; Cardiac Repair,FISH for 22q11.2 deletion,Q93.81
+P379,Common Variable Immunodeficiency,Common Variable Immunodeficiency,IVIG; Prophylactic Antibiotics,Quantitative Immunoglobulins; Vaccine Response Test,D83.9
+P379,Recurrent Sinopulmonary Infections,Common Variable Immunodeficiency,IVIG; Prophylactic Antibiotics,Quantitative Immunoglobulins; Vaccine Response Test,D83.9
+P380,Selective IgA Deficiency,Selective IgA Deficiency,Avoid IVIG (risk anaphylaxis); Treat infections,Quantitative Immunoglobulins,D80.2
+P381,X-Linked Agammaglobulinemia,X-Linked Agammaglobulinemia,IVIG; Prophylactic Antibiotics,Quantitative Immunoglobulins; Genetic Testing (BTK),D80.0
+P381,Absent B Cells,X-Linked Agammaglobulinemia,IVIG; Prophylactic Antibiotics,Quantitative Immunoglobulin; Genetic Testing (BTK),D80.0
+P382,Leukocyte Adhesion Deficiency,Leukocyte Adhesion Deficiency,Prophylactic Antibiotics; HSCT,Flow Cytometry (CD18); Genetic Testing,D71
+P382,Delayed Umbilical Cord Separation,Leukocyte Adhesion Deficiency,Prophylactic Antibiotics; HSCT,Flow Cytometry (CD18); Genetic Testing,D71
+P383,Severe Combined Immunodeficiency (SCID),Severe Combined Immunodeficiency (SCID),HSCT; IVIG; Protective Isolation,Lymphocyte Counts; Genetic Testing,D81.9
+P383,Failure to Thrive,Severe Combined Immunodeficiency (SCID),HSCT; IVIG; Protective Isolation,Lymphocyte Counts; Genetic Testing,D81.9
+P384,IPEX Syndrome,IPEX Syndrome,Immunosuppression; HSCT,FOXP3 Genetic Testing,D81.81
+P384,Autoimmune Enteropathy,IPEX Syndrome,Immunosuppression; HSCT,FOXP3 Genetic Testing,D81.81
+P385,Chediak-Higashi Syndrome,Chediak-Higashi Syndrome,HSCT; Antibiotics,Blood Smear (Giant Granules); Genetic Testing,E70.330
+P385,Albinism,Chediak-Higashi Syndrome,HSCT; Antibiotics,Blood Smear (Giant Granules); Genetic Testing,E70.330
+P386,Griscelli Syndrome,Griscelli Syndrome,HSCT; Avoid triggers,Hair Shaft Microscopy; Genetic Testing,E70.330
+P386,Silver Hair,Griscelli Syndrome,HSCT; Avoid triggers,Hair Shaft Microscopy; Genetic Testing,E70.330
+P387,Hemophagocytic Lymphohistiocytosis (HLH),Hemophagocytic Lymphohistiocytosis (HLH),Dexamethasone; Etoposide; Cyclosporine; HSCT,Ferritin; Soluble CD25; Bone Marrow Biopsy,D76.1
+P387,Prolonged Fever,Hemophagocytic Lymphohistiocytosis (HLH),Dexamethasone; Etoposide; Cyclosporine; HSCT,Ferritin; Soluble CD25; Bone Marrow Biopsy,D76.1
+P388,Macrophage Activation Syndrome,Macrophage Activation Syndrome,High-dose Corticosteroids; Cyclosporine; Anakinra,Ferritin; Soluble CD25; Bone Marrow Biopsy,D76.1
+P389,Amyloid A Amyloidosis,Amyloid A Amyloidosis,Treat Underlying Inflammatory Condition; Supportive Care,Biopsy with Congo Red Stain; SAA Level,E85.0
+P390,AL Amyloidosis,AL Amyloidosis,Chemotherapy (e.g., Daratumumab); Stem Cell Transplant,Biopsy with Congo Red Stain; Serum Free Light Chains,E85.81
+P390,Monoclonal Protein,AL Amyloidosis,Chemotherapy (e.g., Daratumumab); Stem Cell Transplant,Biopsy with Congo Red Stain; Serum Free Light Chains,E85.81
+P391,ATTR Amyloidosis,ATTR Amyloidosis,Tafamidis; Diflunisal; Patisiran; Inotersen,Biopsy; Genetic Testing; Pyrophosphate Scan,E85.2
+P392,Sickle Cell Trait,Sickle Cell Trait,Genetic Counseling,Hemoglobin Electrophoresis,D57.3
+P393,Alpha-thalassemia,Alpha-thalassemia,Folic Acid; Avoid Oxidant Drugs; Possible Transfusions,Hemoglobin Electrophoresis; Genetic Testing,D56.0
+P394,Beta-thalassemia,Beta-thalassemia,Transfusions; Iron Chelation; Luspatercept,Hemoglobin Electrophoresis; Genetic Testing,D56.1
+P395,Hereditary Spherocytosis,Hereditary Spherocytosis,Folic Acid; Splenectomy (if severe),Osmotic Fragility Test; Eosin-5-Maleimide (EMA) Binding,D58.0
+P395,Spherocytes,Hereditary Spherocytosis,Folic Acid; Splenectomy (if severe),Osmotic Fragility Test; Eosin-5-Maleimide (EMA) Binding,D58.0
+P396,Hereditary Elliptocytosis,Hereditary Elliptocytosis,Folic Acid; Splenectomy (if severe),Blood Smear; Osmotic Fragility Test,D58.1
+P397,Glucose-6-Phosphate Dehydrogenase Deficiency,G6PD Deficiency,Avoid Triggers (Fava beans, sulfa drugs, etc.),G6PD Enzyme Assay,D55.0
+P397,Hemolytic Anemia,G6PD Deficiency,Avoid Triggers (Fava beans, sulfa drugs, etc.),G6PD Enzyme Assay,D55.0
+P398,Pyruvate Kinase Deficiency,Pyruvate Kinase Deficiency,Folic Acid; Splenectomy (if severe),Pyruvate Kinase Enzyme Assay; Genetic Testing,D55.2
+P399,Paroxysmal Nocturnal Hemoglobinuria,Paroxysmal Nocturnal Hemoglobinuria,Eculizumab; Ravulizumab; Anticoagulation,Flow Cytometry (CD55, CD59),D59.5
+P399,Intravascular Hemolysis,Paroxysmal Nocturnal Hemoglobinuria,Eculizumab; Ravulizumab; Anticoagulation,Flow Cytometry (CD55, CD59),D59.5
+P400,Thrombotic Thrombocytopenic Purpura,Thrombotic Thrombocytopenic Purpura,Plasma Exchange; Caplacizumab,ADAMTS13 Activity Test,M31.1
+P400,Microangiopathic Hemolytic Anemia,Thrombotic Thrombocytopenic Purpura,Plasma Exchange; Caplacizumab,ADAMTS13 Activity Test,M31.1
+P501,Ear Fullness,Eustachian Tube Dysfunction,Nasal Steroid Spray; Decongestants,Otoscopic Examination,H69.90
+P501,Popping Sound in Ear,Eustachian Tube Dysfunction,Nasal Steroid Spray; Decongestants,Otoscopic Examination,H69.90
+P502,Tinnitus,Tinnitus,Sound Masking; Counseling; Treat Underlying Cause,Audiometry; MRI (if pulsatile),H93.19
+P503,Sudden Hearing Loss,Sudden Sensorineural Hearing Loss,Oral Corticosteroids; Intratympanic Injections,Audiometry; MRI IAC,H91.2
+P504,Vertigo,Vestibular Neuritis,Meclizine; Methylprednisolone,Head Impulse Test (HIT),H81.23
+P504,Nausea,Vestibular Neuritis,Meclizine; Methylprednisolone,Head Impulse Test (HIT),H81.23
+P505,Dry Mouth,Xerostomia,Pilocarpine; Cevimeline; Saliva Substitutes,Dental Exam; Rule Out Sjögren's,R68.2
+P506,Metallic Taste,Dysgeusia,Treat Underlying Cause; Zinc Supplementation,Oral Exam; ENT Evaluation,R43.2
+P507,Bad Breath,Halitosis,Improved Oral Hygiene; Tongue Scraping; Treat Gum Disease,Dental Exam,R19.6
+P508,Canker Sores,Aphthous Ulcers,Topical Corticosteroids; Amlexanox Paste,Clinical Exam,K12.0
+P509,Cold Sores,Herpes Labialis,Topical or Oral Acyclovir; Valacyclovir,Clinical Exam,B00.1
+P510,Geographic Tongue,Geographic Tongue,Reassurance; Topical Corticosteroids if painful,Clinical Exam,K14.1
+P511,Burning Mouth Syndrome,Burning Mouth Syndrome,Alpha-lipoic acid; Clonazepam; Gabapentin,Clinical Exam; Rule Out Deficiencies,K14.6
+P512,Teeth Grinding,Bruxism,Night Guard; Stress Management; Botox (masseter),Dental Exam,F45.8
+P513,Temporomandibular Joint (TMJ) Pain,Temporomandibular Joint Disorder,NSAIDs; Night Guard; Physical Therapy,Clinical Exam; Panorex,M26.60
+P513,Jaw Clicking,Temporomandibular Joint Disorder,NSAIDs; Night Guard; Physical Therapy,Clinical Exam; Panorex,M26.60
+P514,Difficulty Swallowing Pills,Pill Dysphagia,Behavioral Techniques; Liquid Formulations,Clinical Exam,R13.10
+P515,Globus Sensation,Globus Pharyngeus,Reassurance; Speech Therapy; PPI Trial,Laryngoscopy; Rule Out GERD,F45.8
+P516,Chronic Hiccups,Persistent Hiccups,Chlorpromazine; Baclofen; Metoclopramide,Chest X-Ray; Endoscopy (if prolonged),R06.6
+P517,Scalp Psoriasis,Scalp Psoriasis,Topical Steroids; Coal Tar Shampoo; Vitamin D Analog,Clinical Exam,L40.0
+P518,Dandruff,Seborrheic Dermatitis,Ketoconazole Shampoo; Selenium Sulfide Shampoo,Clinical Exam,L21.0
+P519,Ingrown Toenail,Onychocryptosis,Warm Soaks; Antibiotics; Partial Nail Avulsion,Clinical Exam,L60.0
+P520,Fungal Nail,Onychomycosis,Oral Terbinafine; Topical Ciclopirox,KOH Preparation; Nail Culture,B35.1
+P521,Plantar Wart,Verruca Plantaris,Salicylic Acid; Cryotherapy; Cantharidin,Clinical Exam,B07
+P522,Poison Ivy,Allergic Contact Dermatitis,Topical Corticosteroids; Oral Prednisone,Clinical Exam,L23.7
+P523,Heat Rash,Miliaria,Cool Environment; Light Clothing; Topical Steroids,Clinical Exam,L74.0
+P524,Chafing,Intertrigo,Barrier Creams (Zinc Oxide); Low-potency Topical Steroid,Clinical Exam,L30.4
+P525,Sunburn,Sunburn,Aloe Vera; NSAIDs; Topical Steroids,Clinical Exam,L55.9
+P526,Corn,Callus,Salicylic Acid; Pumice Stone; Orthotics,Clinical Exam,L84
+P527,Jock Itch,Tinea Cruris,Topical Antifungals (Clotrimazole),Clinical Exam; KOH Prep,B35.6
+P528,Barber's Itch,Pseudofolliculitis Barbae,Improved Shaving Technique; Topical Antibiotics,Clinical Exam,L73.1
+P529,Razor Burns,Razor Bumps,Alum Block; Topical Corticosteroids,Clinical Exam,L73.0
+P530,Chilblains,Pernio,Nifedipine; Avoid Cold,Clinical Exam,T69.1
+P531,Raynaud's Phenomenon,Raynaud's Phenomenon,Calcium Channel Blockers (Amlodipine); Avoid Cold,Clinical Exam; Nailfold Capillaroscopy,I73.00
+P532,Restless Legs,Restless Legs Syndrome,Ropinirole; Pramipexole; Gabapentin Enacarbil,Clinical Exam; Ferritin Level,G25.81
+P533,Nocturnal Leg Cramps,Nocturnal Leg Cramps,Quinine (if severe); Stretching; Magnesium,Clinical Exam; Rule Out PVD,R25.2
+P534,Low Testosterone,Male Hypogonadism,Testosterone Replacement Therapy,Testosterone Level; LH/FSH,E29.1
+P534,Low Libido,Male Hypogonadism,Testosterone Replacement Therapy,Testosterone Level; LH/FSH,E29.1
+P535,Erectile Dysfunction,Erectile Dysfunction,Sildenafil; Tadalafil; Vacuum Device,Testosterone Level; Vascular Studies,N52.9
+P536,Premature Ejaculation,Premature Ejaculation,Dapoxetine; Behavioral Techniques,Clinical Exam,F52.4
+P537,Benign Prostatic Hyperplasia,Benign Prostatic Hyperplasia,Tamsulosin; Finasteride,PSA; Digital Rectal Exam,N40.0
+P538,Prostatitis,Chronic Prostatitis / CPPS,Alpha-blockers; Anti-inflammatories; Physical Therapy,Digital Rectal Exam; Urinalysis,N41.1
+P539,Vasectomy,Vasectomy (Status),N/A (Procedure),Vasectomy (Procedure),Z98.52
+P540,Premenstrual Syndrome,Premenstrual Syndrome (PMS),SSRIs; Oral Contraceptives; Calcium,Clinical Exam; Symptom Diary,N94.3
+P541,Premenstrual Dysphoric Disorder,Premenstrual Dysphoric Disorder (PMDD),SSRIs; Oral Contraceptives; CBT,Psychiatric Evaluation,N94.3
+P542,Heavy Periods,Menorrhagia,Tranexamic Acid; Oral Contraceptives; IUD,Pelvic Ultrasound; CBC,N92.0
+P543,Painful Periods,Dysmenorrhea,NSAIDs; Oral Contraceptives; Heat Therapy,Clinical Exam,N94.6
+P544,Endometrial Ablation,Endometrial Ablation (Status),N/A (Procedure),Endometrial Ablation (Procedure),Z98.51
+P545,Pelvic Inflammatory Disease,Pelvic Inflammatory Disease,Ceftriaxone; Doxycycline; Metronidazole,Pelvic Exam; Cervical Cultures,N73.9
+P546,Bartholin's Cyst,Bartholin's Cyst,Sitz Baths; Word Catheter; Marsupialization,Clinical Exam,N75.0
+P547,Vaginal Dryness,Vaginal Atrophy,Topical Estrogen; Lubricants,Pelvic Exam,N95.2
+P548,Low Milk Supply,Insufficient Lactation,Galactagogues (Domperidone); Lactation Consultation,Clinical Exam,O92.49
+P549,Mastitis,Mastitis,Antibiotics (Dicloxacillin); Warm Compresses; Empty Breast,Clinical Exam,N61
+P550,Postpartum Depression,Postpartum Depression,SSRIs; Therapy,Psychiatric Evaluation,F53.0
+P551,Circumcision,Circumcision (Status),N/A (Procedure),Circumcision (Procedure),Z98.52
+P552,Colic,Infant Colic,Simethicone; Probiotics; Soothing Techniques,Clinical Exam (Rule Out Other),R10.83
+P553,Cradle Cap,Infantile Seborrheic Dermatitis,Mineral Oil; Gentle Shampoo,Clinical Exam,L21.1
+P554,Diaper Rash,Diaper Dermatitis,Barrier Cream (Zinc Oxide); Low-potency Steroid,Clinical Exam,L22
+P555,Thrush,Oral Candidiasis,Nystatin Swish; Fluconazole,Clinical Exam,B37.0
+P556,Spitting Up,Gastroesophageal Reflux (Infant),Small Frequent Feeds; Thickened Feeds,Clinical Exam,21
+P557,Strabismus,Strabismus,Eye Patching; Surgery,Ophthalmologic Exam,H50.9
+P558,Lazy Eye,Amblyopia,Eye Patching; Atropine Drops,Ophthalmologic Exam; Visual Acuity Test,H53.00
+P559,Growing Pains,Growing Pains,Reassurance; Massage; NSAIDs,Clinical Exam (Diagnosis of Exclusion),M79.60
+P560,Flat Feet,Pes Planus (Pediatric),Orthotics; Physical Therapy,Clinical Exam; Gait Analysis,M21.50
+P561,Knock Knees,Genu Valgum (Pediatric),Observation; Bracing (if severe),Clinical Exam; X-Ray,M21.06
+P562,Bow Legs,Genu Varum (Pediatric),Observation; Bracing (if severe),Clinical Exam; X-Ray,M21.16
+P563,Pigeon Toes,Internal Tibial Torsion,Observation; Physical Therapy,Clinical Exam; Gait Analysis,M21.86
+P564,Osgood-Schlatter Disease,Osgood-Schlatter Disease,Rest; Ice; Physical Therapy,Clinical Exam; X-Ray,M92.50
+P565,Scoliosis,Scoliosis (Adolescent),Bracing; Spinal Fusion,X-Ray; Cobb Angle Measurement,M41.9
+P566,Appendectomy,Appendectomy (Status),N/A (Procedure),Appendectomy (Procedure),Z98.51
+P567,Cholecystectomy,Cholecystectomy (Status),N/A (Procedure),Cholecystectomy (Procedure),Z98.51
+P568,Hernia Repair,Hernia Repair (Status),N/A (Procedure),Hernia Repair (Procedure),Z98.51
+P569,Hysterectomy,Hysterectomy (Status),N/A (Procedure),Hysterectomy (Procedure),Z98.51
+P570,Knee Replacement,Total Knee Arthroplasty (Status),N/A (Procedure),Knee Replacement (Procedure),Z98.51
+P571,Hip Replacement,Total Hip Arthroplasty (Status),N/A (Procedure),Hip Replacement (Procedure),Z98.51
+P572,Cataract Surgery,Cataract Surgery (Status),N/A (Procedure),Cataract Surgery (Procedure),Z98.51
+P573,Lasik Surgery,Lasik Surgery (Status),N/A (Procedure),Lasik Surgery (Procedure),Z98.51
+P574,Tonsillectomy,Tonsillectomy (Status),N/A (Procedure),Tonsillectomy (Procedure),Z98.51
+P575,Adenoidectomy,Adenoidectomy (Status),N/A (Procedure),Adenoidectomy (Procedure),Z98.51
+P576,Septoplasty,Septoplasty (Status),N/A (Procedure),Septoplasty (Procedure),Z98.51
+P577,Rhinoplasty,Rhinoplasty (Status),N/A (Procedure),Rhinoplasty (Procedure),Z98.51
+P578,Tympanostomy Tubes,Tympanostomy Tubes (Status),N/A (Procedure),Tympanostomy Tube Placement (Procedure),Z98.51
+P579,Root Canal,Root Canal (Status),N/A (Procedure),Root Canal (Procedure),Z98.51
+P580,Dental Implant,Dental Implant (Status),N/A (Procedure),Dental Implant (Procedure),Z98.51
+P581,Varicose Veins,Varicose Veins,Compression Stockings; Sclerotherapy; Ablation,Venous Duplex Ultrasound,I83.90
+P582,Spider Veins,Telangiectasias,Sclerotherapy; Laser Therapy,Clinical Exam,I78.1
+P583,Deep Vein Thrombosis,Deep Vein Thrombosis,Apixaban; Rivaroxaban; Enoxaparin,D-Dimer; Venous Duplex Ultrasound,I82.409
+P583,Leg Swelling,Deep Vein Thrombosis,Apixaban; Rivaroxaban; Enoxaparin,D-Dimer; Venous Duplex Ultrasound,I82.409
+P584,Peripheral Arterial Disease,Peripheral Arterial Disease,Aspirin; Clopidogrel; Cilostazol; Statin,Ankle-Brachial Index (ABI),I73.9
+P584,Claudication,Peripheral Arterial Disease,Aspirin; Clopidogrel; Cilostazol; Statin,Ankle-Brachial Index (ABI),I73.9
+P585,Lymphedema,Lymphedema,Compression Garments; Manual Lymphatic Drainage,Clinical Exam; Lymphoscintigraphy,I89.0
+P586,Carpal Tunnel Syndrome,Carpal Tunnel Syndrome,Splinting; Corticosteroid Injection; Release,Nerve Conduction Study,G56.00
+P587,De Quervain's Tenosynovitis,De Quervain's Tenosynovitis,Splinting; Corticosteroid Injection,Finkelstein Test,M65.40
+P588,Ganglion Cyst,Ganglion Cyst,Aspiration; Surgical Excision,Clinical Exam; Ultrasound,M67.40
+P589,Trigger Finger,Trigger Finger,Corticosteroid Injection; Surgical Release,Clinical Exam,M65.30
+P590,Dupuytren's Contracture,Dupuytren's Contracture,Collagenase Injection; Needle Aponeurotomy,Clinical Exam,M72.0
+P591,Plantar Fasciitis,Plantar Fasciitis,Stretching; Orthotics; Corticosteroid Injection,Clinical Exam,M72.2
+P592,Bunion,Hallux Valgus,Orthotics; Surgery,Clinical Exam; X-Ray,M20.10
+P593,Hammer Toe,Hammer Toe,Orthotics; Surgery,Clinical Exam; X-Ray,M20.50
+P594,Ingrown Toenail,Onychocryptosis,Warm Soaks; Antibiotics; Partial Nail Avulsion,Clinical Exam,L60.0
+P595,Gout,Gout,Colchicine; Allopurinol; Febuxostat,Joint Aspiration; Uric Acid Level,M10.9
+P596,Pseudogout,Pseudogout,NSAIDs; Colchicine,Joint Aspiration (CPPD Crystals),M11.9
+P597,Bursitis,Olecranon Bursitis,NSAIDs; Aspiration; Corticosteroid Injection,Clinical Exam; Ultrasound,M70.20
+P598,Bursitis,Prepatellar Bursitis,NSAIDs; Aspiration; Corticosteroid Injection,Clinical Exam; Ultrasound,M70.40
+P599,Bursitis,Trochanteric Bursitis,Physical Therapy; Corticosteroid Injection,Clinical Exam; Ultrasound,M70.60
+P600,Shin Splints,Medial Tibial Stress Syndrome,Rest; Ice; Physical Therapy,Clinical Exam; X-Ray (stress fx),M76.80
+P701,Chest pain radiating to arm,Myocardial Infarction,Aspirin; Nitroglycerin; Morphine,Cardiac Catheterization; Angioplasty,I21.9
+P702,Throbbing headache, Migraine,Sumatriptan; Ibuprofen,Neurological Exam; CT Head,G43.909
+P703,Abdominal cramping, Irritable Bowel Syndrome,Dicyclomine; Psyllium fiber,Colonoscopy; Stool Studies,K58.9
+P704,Joint stiffness, Rheumatoid Arthritis,Methotrexate; Prednisone,X-Ray Joints; Rheumatoid Factor Test,M06.9
+P705,Wheezing, Asthma,Albuterol inhaler; Fluticasone,Spirometry; Peak Flow Monitoring,J45.909
+P706,Butterfly-shaped facial rash,Systemic Lupus Erythematosus,Hydroxychloroquine; Prednisone,ANA Test; CBC,M32.9
+P707,Frequent urination, Type 2 Diabetes,Metformin; Glipizide,HbA1c Test; Glucose Tolerance Test,E11.9
+P708,Memory loss, Alzheimer's Disease,Donepezil; Memantine,MRI Brain; Cognitive Testing,G30.9
+P709,Lower back pain, Lumbar Herniated Disc,Naproxen; Cyclobenzaprine,MRI Lumbar Spine; Physical Therapy,M51.26
+P710,Heart palpitations,Atrial Fibrillation,Metoprolol; Apixaban,Electrocardiogram; Cardioversion,I48.91
+P711,Persistent cough,Chronic Obstructive Pulmonary Disease,Tiotropium; Salmeterol,Chest X-Ray; Pulmonary Function Test,J44.9
+P712,Sudden numbness on one side,Ischemic Stroke,Alteplase (tPA); Clopidogrel,CT Head; Carotid Ultrasound,I63.9
+P713,Severe heartburn,Gastroesophageal Reflux Disease,Omeprazole; Famotidine,Upper Endoscopy; pH Monitoring,K21.9
+P714,Blood in stool,Diverticulitis,Ciprofloxacin; Metronidazole,Colonoscopy; CT Abdomen,K57.30
+P715,Swollen knees,Osteoarthritis,Acetaminophen; Meloxicam,Joint Aspiration; X-Ray,M17.9
+P716,High fever with confusion,Sepsis,IV Antibiotics; Vasopressors,Blood Cultures; Lactic Acid Test,A41.9
+P717,Intentional self-harm, Major Depressive Disorder,Sertraline; Cognitive Behavioral Therapy,Psychiatric Evaluation,F32.9
+P718,Shortness of breath,Pulmonary Embolism,Apixaban; Enoxaparin,CT Pulmonary Angiogram; D-Dimer Test,I26.99
+P719,Excessive thirst,Diabetes Insipidus,Desmopressin,Water Deprivation Test; MRI Brain,E23.2
+P720,Tremors at rest,Parkinson's Disease,Carbidopa/Levodopa; Pramipexole,Neurological Exam; DaTscan,G20
+P721,Chronic diarrhea,Ulcerative Colitis,Mesalamine; Infliximab,Colonoscopy; Biopsy,K51.90
+P722,Visual hallucinations,Charles Bonnet Syndrome,Reassurance (no standard medication),Visual Acuity Test; Fundoscopic Examination,H53.16
+P723,Painful urination,Urinary Tract Infection,Nitrofurantoin; Ciprofloxacin,Urinalysis; Urine Culture,N39.0
+P724,Skin thickening,Systemic Sclerosis (Scleroderma),Methotrexate; Nifedipine,ANA Test; Skin Biopsy,M34.9
+P725,Muscle weakness,Myasthenia Gravis,Pyridostigmine; Prednisone,Tensilon Test; Acetylcholine Receptor Antibody Test,G70.00
+P726,Bone pain,Multiple Myeloma,Lenalidomide; Bortezomib,Bone Marrow Biopsy; Serum Protein Electrophoresis,C90.00
+P727,Persistent fatigue,Chronic Fatigue Syndrome,Cognitive Behavioral Therapy; Graded Exercise Therapy,Ruling Out Other Diagnoses,R53.82
+P728,Sudden weight loss,Hyperthyroidism,Methimazole; Propranolol,Thyroid Function Tests; Radioactive Iodine Uptake,E05.90
+P729,Enlarged thyroid gland,Goiter,Levothyroxine (if hypothyroid),Thyroid Ultrasound; Fine Needle Aspiration,E04.9
+P730,Blue-tinged skin,Methemoglobinemia,Methylene blue,Arterial Blood Gas; Co-oximetry,D74.9
+P731,Bullseye rash,Lyme Disease,Doxycycline; Amoxicillin,ELISA Test; Western Blot,A69.20
+P732,Severe sunburn,Toxic Epidermal Necrolysis,IV Fluids; Wound Care,Skin Biopsy; Discontinue Offending Drug,L51.2
+P733,Abdominal swelling,Cirrhosis,Spironolactone; Furosemide,Paracentesis; Liver Function Tests,K74.60
+P734,Jaundice,Hepatitis A,Supportive care (rest, fluids),Liver Function Tests; Hepatitis Serology,B15.9
+P735,Coughing up blood,Tuberculosis,Isoniazid; Rifampin; Pyrazinamide,Chest X-Ray; Sputum Culture,A15.0
+P736,Toe pain,Gout,Allopurinol; Colchicine,Joint Aspiration; Uric Acid Test,M10.9
+P737,Stiff neck,Meningitis,Ceftriaxone; Vancomycin,Lumbar Puncture; CSF Analysis,G03.9
+P738,Double vision,Myasthenic Crisis,IVIG; Plasmapheresis,Forced Vital Capacity Test; ICU Monitoring,G70.01
+P739,Red hot skin,Cellulitis,Cephalexin; Clindamycin,Wound Culture; CBC,L03.90
+P740,Itchy rash,Contact Dermatitis,Hydrocortisone cream; Antihistamines,Patch Testing,L25.9
+P741,Difficulty swallowing,Achalasia,Nifedipine; Botox injection,Esophageal Manometry; Barium Swallow,K22.0
+P742,Vomiting blood,Peptic Ulcer,Proton Pump Inhibitors; Antibiotics (if H. pylori),Upper Endoscopy; H. Pylori Test,K27.9
+P743,Black tarry stools,Upper GI Bleed,Proton Pump Inhibitors; Blood Transfusion,Upper Endoscopy; Nasogastric Lavage,K92.2
+P744,Sudden blindness,Retinal Artery Occlusion,Ocular massage; Anterior chamber paracentesis,Fundoscopic Exam; Fluorescein Angiography,H34.9
+P745,Ringing in ears,Meniere's Disease,Meclizine; Diuretics,Audiogram; VNG Test,H81.09
+P746,Loss of smell,Anosmia,Fluticasone nasal spray (if inflammatory),MRI Brain; ENT Exam,R43.0
+P747,Hoarseness,Laryngeal Cancer,Cisplatin; Radiation therapy,Laryngoscopy; Biopsy,C32.9
+P748,Lump in breast,Breast Cancer,Tamoxifen; Paclitaxel,Mammogram; Biopsy,C50.919
+P749,Persistent heartburn,Barrett's Esophagus,Proton Pump Inhibitors,Upper Endoscopy with Biopsy,K22.70
+P750,Swollen lymph nodes,Hodgkin Lymphoma,ABVD chemotherapy; Radiation,Excisional Lymph Node Biopsy; PET Scan,C81.90
+P751,Easy bruising,Acute Lymphoblastic Leukemia,Vincristine; Daunorubicin,Bone Marrow Biopsy; Flow Cytometry,C91.00
+P752,Nosebleeds,Idiopathic Thrombocytopenic Purpura,Prednisone; IVIG,CBC; Peripheral Smear,D69.3
+P753,Cold intolerance,Hypothyroidism,Levothyroxine,Thyroid Function Tests,E03.9
+P754,Bulging eyes,Graves' Disease,Methimazole; Propranolol,Thyroid Function Tests; Orbital CT,E05.00
+P755,Hand tremor,Essential Propranolol,Propranolol; Primidone,Neurological Exam; MRI to rule out other causes,G25.0
+P756,Slurred speech,Amyotrophic Lateral Sclerosis,Riluzole; Edaravone,EMG; Nerve Conduction Studies,G12.21
+P757,Balance problems,Vertigo,Meclizine; Vestibular rehab,Videonystagmography (VNG),H81.20
+P758,Skin lesions,Squamous Cell Carcinoma,Excision; Mohs surgery,Skin Biopsy,C44.92
+P759,Mole changes,Malignant Melanoma,Immunotherapy (Pembrolizumab),Excisional Biopsy; Sentinel Lymph Node Biopsy,C43.9
+P760,Excessive hair growth,Polycystic Ovary Syndrome,Metformin; Oral contraceptives,Pelvic Ultrasound; Hormone Levels,E28.2
+P761,Missed periods,Amenorrhea,Estrogen therapy; Progesterone,Pelvic Exam; Hormone Tests,N91.2
+P762,Pelvic pain,Endometriosis,NSAIDs; Oral contraceptives,Laparoscopy; Biopsy,N80.9
+P763,Testicular lump,Testicular Cancer,Bleomycin; Etoposide; Cisplatin,Orchiectomy; CT Scan,C62.90
+P764,Difficulty urinating,Benign Prostatic Hyperplasia,Tamsulosin; Finasteride,PSA Test; Digital Rectal Exam,N40.0
+P765,Erectile dysfunction,Vascular ED,Sildenafil; Tadalafil,Doppler Ultrasound; Cavernosometry,N52.9
+P766,Vaginal bleeding,Cervical Cancer,Cisplatin; Radiation,Pap Smear; Colposcopy;C53.9
+P767,Swollen ankles,Heart Failure,Furosemide; Lisinopril; Carvedilol,Echocardiogram; BNP Test,I50.9
+P768,Irregular heartbeat,Ventricular Tachycardia,Amiodarone; Sotalol,Electrocardiogram; Electrophysiology Study,I47.2
+P769,Chest pressure,Stable Angina,Nitroglycerin; Atenolol,Stress Test; Cardiac Catheterization,I20.9
+P770,Leg pain with walking,Peripheral Artery Disease,Clopidogrel; Cilostazol,Ankle-Brachial Index; Angiography,I73.9
+P771,Sudden severe headache,Subarachnoid Hemorrhage,Nimodipine; Pain management,CT Head; Lumbar Puncture; Angiography,I60.9
+P772,Confusion after fall,Subdural Hematoma,Mannitol; Surgical evacuation,CT Head; Neurological Exam,I62.00
+P773,Weakness after virus,Guillain-Barré Syndrome,IVIG; Plasmapheresis,Spinal Tap; Nerve Conduction Studies,G61.0
+P774,Numbness in feet,Peripheral Neuropathy,Gabapentin; Pregabalin,Nerve Conduction Studies; EMG,G62.9
+P775,Seizure,Epilepsy,Levetiracetam; Lamotrigine,EEG; MRI Brain,G40.909
+P776,Sleep attacks,Narcolepsy,Modafinil; Sodium Oxybate,Polysomnogram; Multiple Sleep Latency Test,G47.419
+P777,Restless legs,Restless Legs Syndrome,Ropinirole; Pramipexole,Neurological Exam; Ferritin Test,G25.81
+P778,Chronic heartburn,Hiatal Herniary,Omeprazole; Lifestyle changes,Upper GI Series; Endoscopy,K44.9
+P779,Unintentional weight loss,Pancreatic Cancer,Gemcitabine; Nab-paclitaxel,CT Abdomen; ERCP with Biopsy,C25.9
+P780,Yellowing of skin,Pancreatitis,IV Fluids; Pain management,Amylase/Lipase Test; CT Abdomen,K85.90
+P781,Food sticking in esophagus,Esophageal Stricture,Dilation; Proton Pump Inhibitors,Barium Swallow; Endoscopy,K22.2
+P782,Blood in urine,Bladder Cancer,BCG therapy; Cisplatin,Cystoscopy; Biopsy,C67.9
+P783,Kidney stone pain,Nephrolithiasis,Ibuprofen; Tamsulosin,CT KUB; Urinalysis,N20.0
+P784,Foamy urine,Glomerulonephritis,Prednisone; ACE Inhibitors,Urinalysis; Kidney Biopsy,N05.9
+P785,Frequent infections,Common Variable Immunodeficiency,IVIG; Antibiotics,Immunoglobulin Levels; Vaccine Response Test,D83.9
+P786,Allergic reaction,Anaphylaxis,Epinephrine; Diphenhydramine; Steroids,Allergy Testing; Tryptase Test,T78.2
+P787,Joint pain,Lupus Nephritis,Steroids; Mycophenolate,Urinalysis; Kidney Biopsy; ANA Test,M32.14
+P788,Sun-sensitive rash,Polymorphous Light Eruption,Steroid creams; Hydroxychloroquine,Skin Biopsy; Phototesting,L56.4
+P789,Thickened skin patches,Plaque Psoriasis,Topical steroids; Methotrexate; Biologics,Skin Exam; Biopsy,L40.0
+P790,Pitting nails,Psoriatic Arthritis,NSAIDs; DMARDs,X-Ray; Rheumatoid Factor Test (seronegative),L40.52
+P791,Hair loss,Alopecia Areata,Steroid injections; Minoxidil,Scalp Exam; Pull Test,L63.9
+P792,Butterfly rash,Discoid Lupus,Hydroxychloroquine; Topical steroids,Skin Biopsy; ANA Test,L93.0
+P793,Itchy blisters,Bullous Pemphigoid,Steroids; Dapsone,Skin Biopsy; Direct Immunofluorescence,L12.0
+P794,Flushing,Rosacea,Metronidazole gel; Doxycycline,Skin Exam,L71.9
+P795,Skin picking,Excoriation Disorder,SSRIs; Cognitive Behavioral Therapy,Psychiatric Evaluation,L98.1
+P796,Nail pitting,Onychomycosis,Terbinafine; Ciclopirox,KOH Prep; Nail Clipping Culture,B35.1
+P797,Scaly scalp,Seborrheic Dermatitis,Ketoconazole shampoo; Hydrocortisone cream,Skin Exam,L21.9
+P798,White patches,Vitiligo,Tacrolimus ointment; Phototherapy,Wood's Lamp Exam; Skin Biopsy,L80
+P799,Cracked lips,Actinic Cheilitis,Vermilionectomy; Laser ablation,Biopsy; Surgical Excision,K13.0
+P800,Leg ulcer,Venous Stasis Ulcer,Compression therapy; Wound care,Doppler Ultrasound; Wound Culture,I83.20
+P800,Leg ulcer,Venous Stasis Ulcer,Compression therapy; Wound care,Doppler Ultrasound; Wound Culture,I83.20
+P801,Painful swallowing,Esophagitis,Proton Pump Inhibitors; Sucralfate,Upper Endoscopy; Biopsy,K20.9
+P802,Rectal bleeding,Internal Hemorrhoids,Psyllium fiber; Hydrocortisone cream,Anoscopy; Banding,K64.8
+P803,Anal fissure pain,Anal Fissure,Stool softeners; Nitroglycerin ointment,Physical Exam,K60.2
+P804,Abdominal mass,Colon Cancer,Capecitabine; Oxaliplatin,Colonoscopy; Biopsy;C18.9
+P805,Difficulty starting urine stream,Neurogenic Bladder,Clean Intermittent Catheterization,Urodynamic Studies; Cystoscopy,N31.9
+P806,Post-void dribbling,Overactive Bladder,Oxybutynin; Mirabegron,Urodynamic Studies,N32.81
+P807,Scrotal swelling,Hydrocele,Hydrocelectomy,Scrotal Ultrasound; Physical Exam,N43.3
+P808,Painful intercourse,Vaginismus,Pelvic floor therapy; Dilators,Pelvic Exam; Psych Evaluation,N94.2
+P809,Infertility,Female Infertility,Clomiphene; Letrozole,Hysterosalpingography; Hormone Testing,N97.9
+P810,Low sperm count,Male Infertility,Clomiphene; Assisted reproductive technology,Semen Analysis; Hormone Testing,N46.121
+P811,Precocious puberty,Central Precocious Puberty,Leuprolide acetate,GnRH Stimulation Test; MRI Brain,E30.1
+P812,Delayed puberty,Constitutional Growth Delay,Observation (often no medication),Bone Age X-Ray; Hormone Tests,E30.0
+P813,Growth failure,Growth Hormone Deficiency,Somatropin (Growth Hormone),Growth Hormone Stimulation Test; MRI Pituitary,E23.0
+P814,Moon face,Cushing's Syndrome,Ketoconazole; Metyrapone; Surgery,Dexamethasone Suppression Test; MRI,E24.9
+P815,Low cortisol,Addison's Disease,Hydrocortisone; Fludrocortisone,ACTH Stimulation Test; Adrenal Antibodies,E27.1
+P816,High calcium,Hyperparathyroidism,Cinacalcet; Parathyroidectomy,Parathyroid Hormone Test; Sestamibi Scan,E21.3
+P817,Low calcium,Hypoparathyroidism,Calcium; Vitamin D,Parathyroid Hormone Test; Calcium Level,E20.9
+P818,Salt craving,Adrenal Insufficiency,Hydrocortisone; Fludrocortisone,ACTH Stimulation Test,E27.40
+P819,Heat intolerance,Hyperthyroidism,Methimazole; Radioactive Iodine,Thyroid Function Tests; RAI Uptake,E05.90
+P820,Goiter,Multinodular Goiter,Levothyroxine (if hypothyroid); Surgery,Thyroid Ultrasound; Fine Needle Aspiration,E04.2
+P821,Thyroid nodule,Thyroid Cancer,Levothyroxine (suppression); Radioactive Iodine,Thyroid Ultrasound; FNA Biopsy,C73
+P822,Adrenal mass,Adrenal Adenoma,Observation; Surgical resection (if large),CT Abdomen; Dexamethasone Suppression Test,D35.00
+P823,Low blood sugar,Insulinoma,Diazoxide; Surgery,72-hour Fasting Test; CT Pancreatus,E16.1
+P824,High blood sugar,Diabetes Mellitus Type 1,Insulin; Glucose monitoring,HbA1c; C-Peptide Test,E10.9
+P825,Ketones in urine,Diabetic Ketoacidosis,IV Insulin; IV Fluids; Electrolytes,Arterial Blood Gas; Anion Gap Calculation,E10.10
+P826,Non-ketotic coma,Hyperosmolar Hyperglycemic State,IV Insulin; IV Fluids; Electrolytes,Serum Osmolality; Blood Glucose,E11.00
+P827,Chronic kidney disease,Diabetic Nephropathy,ACE Inhibitors; SGLT2 inhibitors,Urine Albumin-to-Creatinine Ratio; eGFR,N08.3
+P828,Eye damage,Diabetic Retinopathy,Anti-VEGF injections; Laser therapy,Dilated Fundus Exam; OCT,H36.00
+P829,Numbness in feet,Diabetic Peripheral Neuropathy,Gabapentin; Pregabalin,Monofilament Test; Nerve Conduction Studies,G63.2
+P830,Foot ulcer,Diabetic Foot Ulcer,Antibiotics; Wound debridement,Wound Culture; X-Ray Foot,E11.621
+P831,Vision loss from sugar,Hypoglycemic unawareness,Continuous Glucose Monitor; Islet cell transplant,Glucose Clamp Study; HbA1c,E16.2
+P832,Stiff joints,Diabetic Cheiroarthropathy,Physical therapy; Improved glucose control,Physical Exam; HbA1c,M79.8
+P833,Skin tags,Acanthosis Nigricans,Weight loss; Metformin,Physical Exam; Insulin Level,L83
+P834,Recurrent infections,Hyper-IgE Syndrome,Antibiotics; IVIG,Immunoglobulin Levels; Genetic Testing,D82.4
+P835,Swelling after infection,Nephrotic Syndrome,Prednisone; ACE Inhibitors,Urinalysis; Serum Albumin Test,N04.9
+P836,Blood in urine,IgA Nephropathy,ACE Inhibitors; Fish oil,Urinalysis; Kidney Biopsy,N02.9
+P837,Kidney failure,Acute Kidney Injury,IV Fluids; Dialysis (if needed),Serum Creatinine; Urine Output,N17.9
+P838,Metallic taste,Dysgeusia,Zinc supplementation (if deficient),ENT Exam; Taste Test,R43.2
+P839,Loss of voice,Laryngitis,Voice rest; Steroids (severe cases),Laryngoscopy; Vocal Exam,J04.0
+P840,Spasmodic dysphonia,Spasmodic Dysphonia,Botox injections,Neurological Exam; Laryngoscopy,J38.7
+P841,Nasal polyps,Chronic Rhinosinusitis,Fluticasone nasal spray; Saline irrigation,Nasal Endoscopy; CT Sinuses,J33.9
+P842,Loss of taste,Ageusia,Zinc supplementation (if deficient),Taste Test; MRI Brain,R43.2
+P843,Ear pain,Otitis Media,Amoxicillin; Amoxicillin-clavulanate,Otoscopic Exam; Tympanometry,H66.90
+P844,Ear pressure,Eustachian Tube Dysfunction,Pseudoephedrine; Fluticasone nasal spray,Tympanometry; Otoscopic Exam,H69.90
+P845,Ringing in ears,Tinnitus,Sound therapy; Counseling,Hearing Test; MRI (to rule out cause),H93.19
+P846,Sudden hearing loss,Sensorineural Hearing Loss,Steroids; Hyperbaric oxygen,Audiogram; MRI IAC,H91.90
+P847,Dizziness from sound,Superior Canal Dehiscence,Surgical plugging,VNG; CT Temporal Bone,H83.2X9
+P848,Vertigo when rolling over,Benign Paroxysmal Positional Vertigo,Epley maneuver; Brandt-Daroff exercises,Dix-Hallpike Test; VNG,H81.11
+P849,Facial weakness,Bell's Palsy,Prednisone; Antivirals; Eye protection,Neurological Exam; EMG (if prolonged),G51.0
+P850,Hemifacial spasm,Hemifacial Spasm,Botox injections,MRI Brain; EMG,G51.3
+P851,Trigeminal neuralgia,Trigeminal Neuralgia,Carbamazepine; Oxcarbazepine,MRI Brain (to rule out MS/tumor),G50.0
+P852,Glossopharyngeal neuralgia,Glossopharyngeal Neuralgia,Carbamazepine; Gabapentin,Neurological Exam,G52.1
+P853,Cluster headache,Cluster Headache,Sumatriptan injection; Oxygen therapy,Neurological Exam; MRI,G44.009
+P854,Tension headache,Tension Headache,Ibuprofen; Amitriptyline,Neurological Exam; Rule out other causes,G44.209
+P855,New daily headache,New Daily Persistent Headache,Topiramate; Propranolol,Neurological Exam; MRI Brain,G44.52
+P856,Headache from medication,Medication Overuse Headache,Wean off offending medication; Preventive meds,Neurological Exam; Headache Diary,G44.41
+P857,Head injury,Concussion,Rest; Ibuprofen (for pain),CT Head (if severe); Neurological Exam,S06.0X0A
+P858,Chronic post-concussion,Post-Concussion Syndrome,Physical therapy; Cognitive therapy,Neuropsychological Testing; MRI,F07.81
+P859,Spinal headache,Intracranial Hypotension,Blood patch; Caffeine,Epidural Blood Patch; MRI Brain,G97.1
+P860,Weakness after virus,Guillain-Barré Syndrome,IVIG; Plasmapheresis,Spinal Tap; Nerve Conduction Studies,G61.0
+P861,Chronic inflammatory demyelination,Chronic Inflammatory Demyelinating Polyneuropathy,IVIG; Steroids,Nerve Conduction Studies; EMG,G61.81
+P862,Multifocal motor neuropathy,Multifocal Motor Neuropathy,IVIG; Cyclophosphamide,Nerve Conduction Studies; Anti-GM1 antibodies,G61.82
+P863,Muscle cramps,Muscle Cramp,Quinine; Magnesium,Electrolyte Panel; Neurological Exam,R25.2
+P864,Stiff muscles,Stiff-Person Syndrome,Diazepam; Baclofen; IVIG,EMG; Anti-GAD antibodies,G25.82
+P865,Myoclonus,Myoclonus,Levetiracetam; Clonazepam,EEG; EMG; MRI Brain,G25.3
+P866,Tics,Tourette Syndrome,Clonidine; Haloperidol,Neurological Exam; Yale Global Tic Severity Scale,F95.2
+P867,Restlessness,Akathisia,Propranolol; Benztropine,Neurological Exam; History of antipsychotic use,G25.71
+P868,Dyskinesia,Tardive Dyskinesia,Valbenazine; Deutetrabenazine,Neurological Exam; AIMS Test,G24.01
+P869,Dystonia,Cervical Dystonia,Botox injections; Trihexyphenidyl,Neurological Exam,G24.3
+P870,Blepharospasm,Blepharospasm,Botox injections,Neurological Exam; Ophthalmology Exam,G24.5
+P871,Writer's cramp,Task-Specific Dystonia,Botox injections; Occupational therapy,Neurological Exam,G24.4
+P872,Spasticity,Spasticity,Baclofen; Tizanidine; Botox injections,Neurological Exam; Modified Ashworth Scale,R25.2
+P873,Locked-in syndrome,Locked-In Syndrome,Supportive care; Communication devices,MRI Brain; Clinical Exam,G83.5
+P874,Vegetative state,Persistent Vegetative State,Supportive care; Physical therapy,Clinical Exam; EEG; fMRI,R41.81
+P875,Minimally conscious state,Minimally Conscious State,Supportive care; Sensory stimulation,Clinical Exam; Coma Recovery Scale,R41.82
+P876,Brain death,Brain Death,None (diagnostic only),Apnea Test; Clinical Exam; Cerebral Angiogram,G93.82
+P877,Sleep walking,Somnambulism,Clonazepam; Safety measures,Polysomnogram; Neurological Exam,F51.3
+P878,Sleep talking,Somniloquy,Reassurance (usually no medication),Polysomnogram (if other issues),F51.8
+P879,Night terrors,Sleep Terrors,Scheduled awakenings; Clonazepam,Polysomnogram; Clinical History,F51.4
+P880,REM sleep behavior disorder,REM Sleep Behavior Disorder,Clonazepam; Melatonin,Polysomnogram; Neurological Exam,G47.52
+P881,Narcolepsy with cataplexy,Narcolepsy Type 1,Sodium Oxybate; Modafinil,Polysomnogram; Multiple Sleep Latency Test; Hypocretin Test,G47.419
+P882,Narcolepsy without cataplexy,Narcolepsy Type 2,Modafinil; Armodafinil,Polysomnogram; Multiple Sleep Latency Test,G47.429
+P883,Excessive sleep,Idiopathic Hypersomnia,Modafinil; Armodafinil,Polysomnogram; Multiple Sleep Latency Test (short latency),G47.11
+P884,Circadian rhythm disorder,Delayed Sleep Phase Syndrome,Melatonin; Light therapy,Sleep Diary; Actigraphy,G47.21
+P885,Jet lag,Jet Lag Disorder,Melatonin; Short-term sleep aids,Clinical History; Sleep Diary,G47.25
+P886,Shift work disorder,Shift Work Sleep Disorder,Modafinil; Light therapy,Sleep Diary; Actigraphy,G47.26
+P887,Sleep apnea,Obstructive Sleep Apnea,CPAP; Oral appliance,Polysomnogram; Home Sleep Test,G47.33
+P888,Central sleep apnea,Central Sleep Apnea,Adaptive Servo-Ventilation (ASV),Polysomnogram; Echocardiogram,G47.31
+P889,Obesity hypoventilation,Obesity Hypoventilation Syndrome,CPAP; BiPAP; Weight loss,Polysomnogram; Arterial Blood Gas,E66.2
+P890,Restless legs,Restless Legs Syndrome,Ropinirole; Pramipexole,Ferritin Test; Clinical History,G25.81
+P891,Periodic limb movements,Periodic Limb Movement Disorder,Clonazepam; Gabapentin,Polysomnogram,G47.61
+P892,Sleep starts,Hypnic Jerks,Reassurance (no medication),Clinical History; Rule out other causes,G47.8
+P893,Exploding head syndrome,Exploding Head Syndrome,Clomipramine; Calcium channel blockers,Clinical History; Rule out seizures,G47.8
+P894,Sleep paralysis,Isolated Sleep Paralysis,Reassurance; Improved sleep hygiene,Clinical History; Rule out narcolepsy,G47.51
+P895,Nightmares,Nightmare Disorder,Imagery Rehearsal Therapy; Prazosin,Clinical History; Psych Evaluation,F51.5
+P896,Bruxism,Sleep Related Bruxism,Night guard; Botox (masseters),Polysomnogram; Dental Exam,G47.63
+P897,Enuresis,Sleep Enuresis,Desmopressin; Alarm therapy,Urinalysis; Clinical History,F98.0
+P898,Sleep-related eating,Sleep-Related Eating Disorder,Topiramate; Dopaminergic agents,Polysomnogram; Clinical History,G47.59
+P899,Sexsomnia,Sleep Related Abnormal Sexual Behaviors,Clonazepam; Safety measures,Polysomnogram; Neurological Exam,F51.8
+P900,Groaning,Catathrenia,CPAP (may help),Polysomnogram; Rule out other causes,R06.89
+P901,Shortness of breath at night,Paroxysmal Nocturnal Dyspnea,Furosemide; Treat underlying heart failure,Chest X-Ray; Echocardiogram,R06.3
+P902,Sleep choking,Sleep Choking Syndrome,Proton Pump Inhibitors (if GERD related),Polysomnogram; pH Monitoring,R06.89
+P903,Nocturnal panic attack,Nocturnal Panic Attacks,SSRIs; Cognitive Behavioral Therapy,Psych Evaluation; Rule out sleep apnea,F41.0
+P904,Nocturnal asthma,Nocturnal Asthma,Inhaled corticosteroids; Long-acting bronchodilators,Spirometry; Peak Flow Monitoring,J45.909
+P905,Nocturnal GERD,Nocturnal Gastroesophageal Reflux,Proton Pump Inhibitors; Elevate head of bed,pH Monitoring; Endoscopy,K21.9
+P906,Nocturnal seizures,Nocturnal Frontal Lobe Epilepsy,Carbamazepine; Lamotrigine,EEG; Video EEG Monitoring,G40.309
+P907,Sleep talking,Somniloquy,Reassurance (usually no medication),Polysomnogram (if other issues),F51.8
+P908,Sleep hallucinations,Hypnagogic Hallucinations,Treat underlying narcolepsy,Polysomnogram; Multiple Sleep Latency Test,R29.81
+P909,Sleep driving,Sleep Driving,Discontinue sedative-hypnotics; Safety measures,Polysomnogram; Neurological Exam,F51.8
+P910,Sleep violence,Sleep Violence,Clonazepam; Safety measures,Polysomnogram; Video EEG,F51.8
+P911,Sleep texting,Sleep Texting,Safety measures; Phone out of bedroom,Clinical History; Polysomnogram,Z72.810
+P912,Confusional arousals,Confusional Arousals,Improve sleep hygiene; Scheduled awakenings,Polysomnogram; Clinical History,G47.51
+P913,Sleep eating,Sleep-Related Eating Disorder,Topiramate; Dopaminergic agents,Polysomnogram; Clinical History,G47.59
+P914,Sleep smoking,Sleep Smoking,Safety measures; Remove cigarettes,Clinical History; Polysomnogram,F17.200
+P915,Sleep cooking,Sleep Cooking,Safety measures; Remove hazards,Clinical History; Polysomnogram,Z72.810
+P916,Sleep walking with eating,Nocturnal Sleep-Related Eating Disorder,Topiramate; Safety measures,Polysomnogram; Clinical History,F51.3
+P917,Sleep talking in sleep,Sleep Talking,Reassurance (usually no medication),Polysomnogram (if other issues),F51.8
+P918,Sleep groaning,Catathrenia,CPAP (may help),Polysomnogram; Rule out other causes,R06.89
+P919,Sleep screaming,Sleep Terrors,Scheduled awakenings; Clonazepam,Polysomnogram; Clinical History,F51.4
+P920,Sleep paralysis with hallucination,Isolated Sleep Paralysis,Reassurance; Improved sleep hygiene,Clinical History; Rule out narcolepsy,G47.51
+P921,Sleep starts,Hypnic Jerks,Reassurance (no medication),Clinical History; Rule out other causes,G47.8
+P922,Sleep jerks,Hypnic Jerks,Reassurance (no medication),Clinical History; Rule out other causes,G47.8
+P923,Sleep twitches,Benign Sleep Myoclonus of Infancy,Reassurance (resolves spontaneously),Clinical History; Rule out seizures,R25.8
+P924,Sleep rhythmic movement,Sleep Related Rhythmic Movement Disorder,Clonazepam; Safety padding,Polysomnogram; Clinical History,G47.69
+P925,Sleep head banging,Jactatio Capitis Nocturna,Clonazepam; Safety padding,Polysomnogram; Clinical History,G47.69
+P926,Sleep body rocking,Sleep Related Rhythmic Movement Disorder,Clonazepam; Safety padding,Polysomnogram; Clinical History,G47.69
+P927,Sleep leg rolling,Sleep Related Rhythmic Movement Disorder,Clonazepam; Safety padding,Polysomnogram; Clinical History,G47.69
+P928,Sleep humming,Catathrenia,CPAP (may help),Polysomnogram; Rule out other causes,R06.89
+P929,Sleep whistling,Catathrenia,CPAP (may help),Polysomnogram; Rule out other causes,R06.89
+P930,Sleep singing,Sleep Talking,Reassurance (usually no medication),Polysomnogram (if other issues),F51.8
+P931,Sleep laughing,Sleep Talking,Reassurance (usually no medication),Polysomnogram (if other issues),F51.8
+P932,Sleep crying,Sleep Terrors,Scheduled awakenings; Clonazepam,Polysomnogram; Clinical History,F51.4
+P933,Sleep sweating,Night Sweats,Treat underlying cause (e.g., menopause, infection),Clinical History; Blood Tests,R61
+P934,Sleep headache,Hypnic Headache,Lithium; Caffeine,MRI Brain; Rule out other causes,G44.829
+P935,Sleep epilepsy,Nocturnal Epilepsy,Levetiracetam; Lamotrigine,EEG; Video EEG Monitoring,G40.309
+P936,Sleep tremors,Nocturnal Tremor,Clonazepam; Treat underlying condition,Polysomnogram; Neurological Exam,R25.1
+P937,Sleep myoclonus,Nocturnal Myoclonus,Clonazepam; Levetiracetam,Polysomnogram; EEG,G25.3
+P938,Sleep fasciculations,Benign Fasciculation Syndrome,Reassurance; Magnesium,Clinical History; EMG (to rule out ALS),R25.3
+P939,Sleep cramps,Nocturnal Leg Cramps,Quinine; Magnesium; Stretching,Electrolyte Panel; Clinical History,R25.2
+P940,Sleep restless legs,Restless Legs Syndrome,Ropinirole; Pramipexole,Ferritin Test; Clinical History,G25.81
+P941,Sleep periodic movements,Periodic Limb Movement Disorder,Clonazepam; Gabapentin,Polysomnogram,G47.61
+P942,Sleep kicking,Periodic Limb Movement Disorder,Clonazepam; Gabapentin,Polysomnogram,G47.61
+P943,Sleep thrashing,REM Sleep Behavior Disorder,Clonazepam; Melatonin,Polysomnogram; Neurological Exam,G47.52
+P944,Sleep punching,REM Sleep Behavior Disorder,Clonazepam; Melatonin,Polysomnogram; Neurological Exam,G47.52
+P945,Sleep fighting,REM Sleep Behavior Disorder,Clonazepam; Melatonin,Polysomnogram; Neurological Exam,G47.52
+P946,Sleep falling out of bed,REM Sleep Behavior Disorder,Clonazepam; Melatonin; Safety measures,Polysomnogram; Neurological Exam,G47.52
+P947,Sleep walking to window,Somnambulism,Clonazepam; Safety measures,Polysomnogram; Neurological Exam,F51.3
+P948,Sleep walking to door,Somnambulism,Clonazepam; Safety measures,Polysomnogram; Neurological Exam,F51.3
+P949,Sleep walking outside,Somnambulism,Clonazepam; Safety measures,Polysomnogram; Neurological Exam,F51.3
+P950,Sleep driving,Sleep Driving,Discontinue sedative-hypnotics; Safety measures,Polysomnogram; Neurological Exam,F51.8
+P951,Sleep sex,Sexsomnia,Clonazepam; Safety measures,Polysomnogram; Neurological Exam,F51.8
+P952,Sleep eating chocolate,Sleep-Related Eating Disorder,Topiramate; Safety measures,Polysomnogram; Clinical History,G47.59
+P953,Sleep eating peanut butter,Sleep-Related Eating Disorder,Topiramate; Safety measures,Polysomnogram; Clinical History,G47.59
+P954,Sleep eating bizarre food,Sleep-Related Eating Disorder,Topiramate; Safety measures,Polysomnogram; Clinical History,G47.59
+P955,Sleep cooking,Sleep Cooking,Safety measures; Remove hazards,Clinical History; Polysomnogram,Z72.810
+P956,Sleep smoking,Sleep Smoking,Safety measures; Remove cigarettes,Clinical History; Polysomnogram,F17.200
+P957,Sleep texting,Sleep Texting,Safety measures; Phone out of bedroom,Clinical History; Polysomnogram,Z72.810
+P958,Sleep emailing,Sleep Emailing,Safety measures; Computer out of bedroom,Clinical History; Polysomnogram,Z72.810
+P959,Sleep shopping,Sleep Shopping,Safety measures; No saved payment info,Clinical History; Polysomnogram,Z72.810
+P960,Sleep talking nonsense,Sleep Talking,Reassurance (usually no medication),Polysomnogram (if other issues),F51.8
+P961,Sleep talking in foreign language,Sleep Talking,Reassurance (usually no medication),Polysomnogram (if other issues),F51.8
+P962,Sleep praying,Sleep Talking,Reassurance (usually no medication),Polysomnogram (if other issues),F51.8
+P963,Sleep swearing,Sleep Talking,Reassurance (usually no medication),Polysomnogram (if other issues),F51.8
+P964,Sleep moaning,Catathrenia,CPAP (may help),Polysomnogram; Rule out other causes,R06.89
+P965,Sleep groaning,Catathrenia,CPAP (may help),Polysomnogram; Rule out other causes,R06.89
+P966,Sleep whistling,Catathrenia,CPAP (may help),Polysomnogram; Rule out other causes,R06.89
+P967,Sleep humming,Catathrenia,CPAP (may help),Polysomnogram; Rule out other causes,R06.89
+P968,Sleep singing,Sleep Talking,Reassurance (usually no medication),Polysomnogram (if other issues),F51.8
+P969,Sleep laughing,Sleep Talking,Reassurance (usually no medication),Polysomnogram (if other issues),F51.8
+P970,Sleep crying,Sleep Terrors,Scheduled awakenings; Clonazepam,Polysomnogram; Clinical History,F51.4
+P971,Sleep screaming,Sleep Terrors,Scheduled awakenings; Clonazepam,Polysomnogram; Clinical History,F51.4
+P972,Sleep whimpering,Sleep Terrors,Scheduled awakenings; Clonazepam,Polysomnogram; Clinical History,F51.4
+P973,Sleep gasping,Obstructive Sleep Apnea,CPAP; Oral appliance,Polysomnogram; Home Sleep Test,G47.33
+P974,Sleep snoring,Primary Snoring,Weight loss; Positional therapy; Oral appliances,Polysomnogram (to rule out apnea),R06.83
+P975,Sleep choking,Obstructive Sleep Apnea,CPAP; Oral appliance,Polysomnogram; Home Sleep Test,G47.33
+P976,Sleep gasping for air,Obstructive Sleep Apnea,CPAP; Oral appliance,Polysomnogram; Home Sleep Test,G47.33
+P977,Sleep breath holding,Central Sleep Apnea,Adaptive Servo-Ventilation (ASV),Polysomnogram; Echocardiogram,G47.31
+P978,Sleep not breathing,Sleep Apnea,CPAP or ASV,Polysomnogram; Home Sleep Test,G47.30
+P979,Sleep oxygen drops,Sleep Apnea,CPAP or ASV,Polysomnogram; Overnight Oximetry,G47.30
+P980,Sleep heart racing,Sleep Tachycardia,Treat underlying cause (e.g., apnea, anxiety),Polysomnogram; ECG,R00.0
+P981,Sleep heart pounding,Sleep Tachycardia,Treat underlying cause (e.g., apnea, anxiety),Polysomnogram; ECG,R00.0
+P982,Sleep heart pounding,Sleep Tachycardia,Treat underlying cause (e.g., apnea, anxiety),Polysomnogram; ECG,R00.0
+P983,Sleep chest pain,Nocturnal Angina,Nitroglycerin; Treat underlying heart disease,Stress Test; Cardiac Catheterization,I20.9
+P984,Sleep acid reflux,Nocturnal GERD,Proton Pump Inhibitors; Elevate head of bed,pH Monitoring; Endoscopy,K21.9
+P985,Sleep cough,Nocturnal Asthma,Inhaled corticosteroids; Long-acting bronchodilators,Spirometry; Peak Flow Monitoring,J45.909
+P986,Sleep wheezing,Nocturnal Asthma,Inhaled corticosteroids; Long-acting bronchodilators,Spirometry; Peak Flow Monitoring,J45.909
+P987,Sleep choking on acid,Nocturnal GERD,Proton Pump Inhibitors; Elevate head of bed,pH Monitoring; Endoscopy,K21.9
+P988,Sleep dry mouth,Sleep Apnea or Mouth Breathing,CPAP; Chin strap; Humidifier,Polysomnogram; ENT Exam,R68.2
+P989,Sleep drooling,Bruxism or Neurological,Night guard; Botox (masseters); Evaluate for neuro,Polysomnogram; Dental Exam; Neuro Exam,K11.7
+P990,Sleep teeth grinding,Bruxism,Night guard; Botox (masseters),Polysomnogram; Dental Exam,G47.63
+P991,Sleep jaw pain,Bruxism,Night guard; Botox (masseters); Ibuprofen,Polysomnogram; Dental Exam,G47.63
+P992,Sleep headache from grinding,Bruxism,Night guard; Botox (masseters); Amitriptyline,Polysomnogram; Dental Exam,G47.63
+P993,Sleep ear pain from grinding,Bruxism,Night guard; Botox (masseters); Ibuprofen,Polysomnogram; Dental Exam,G47.63
+P994,Sleep facial pain,Bruxism,Night guard; Botox (masseters); Amitriptyline,Polysomnogram; Dental Exam,G47.63
+P995,Sleep tongue biting,Bruxism or Seizures,Night guard; Evaluate for epilepsy,Polysomnogram; EEG; Dental Exam,G47.63
+P996,Sleep cheek biting,Bruxism,Night guard; Behavioral therapy,Polysomnogram; Dental Exam,G47.63
+P997,Sleep lip biting,Bruxism,Night guard; Behavioral therapy,Polysomnogram; Dental Exam,G47.63
+P998,Sleep talking with eyes open,Somnambulism,Clonazepam; Safety measures,Polysomnogram; Neurological Exam,F51.3
+P999,Sleep walking with eyes open,Somnambulism,Clonazepam; Safety measures,Polysomnogram; Neurological Exam,F51.3
+P1000,Sleep eyes open sleep,Sleep with Eyes Open (Nocturnal Lagophthalmos),Lubricating eye ointment; Eye mask,Slit Lamp Exam; Polysomnogram,H02.209
+Patient_ID,Symptom,Condition,Medication,Procedure,ICD-10 Code
+P1001,"Fever, rash, conjunctivitis",Kawasaki Disease,"IVIG; High-dose aspirin","Echocardiogram; CRP",M30.3
+P1002,Parotid gland swelling,Mumps,"Supportive care (rest, fluids)","Clinical Exam; Serology",B26.9
+P1003,Whooping cough,Pertussis,"Azithromycin; Supportive care","Nasopharyngeal Swab; PCR",A37.90
+P1004,"Rice-water stools",Cholera,"Oral rehydration salts; IV fluids","Stool Culture; Rapid Test",A00.9
+P1005,"Bull's eye rash",Lyme Disease,"Doxycycline; Amoxicillin","ELISA; Western Blot",A69.20
+P1006,"Non-healing skin sore",Leishmaniasis,"Amphotericin B; Miltefosine","Skin Biopsy; PCR",B55.9
+P1007,"Severe headache, neck stiffness",Meningococcal Meningitis,"Ceftriaxone; Penicillin G","LP; CSF Analysis",A39.0
+P1008,"Painful swollen lymph nodes (Bubo)",Bubonic Plague,"Gentamicin; Doxycycline","Blood Culture; Lymph Node Aspiration",A20.0
+P1009,"Cyclic high fevers",Malaria,"Artemether-lumefantrine; Chloroquine (region-dependent)","Blood Smear; Rapid Diagnostic Test",B54
+P1010,"Foot drop",Leprosy,"Multidrug Therapy (Dapsone, Rifampin, Clofazimine)","Skin Smear; Biopsy",A30.9
+P1011,"Nocturnal cough",Whooping Cough,"Azithromycin; Supportive care","Nasopharyngeal Swab; PCR",A37.90
+P1012,Lockjaw,Tetanus,"Tetanus immune globulin; Muscle relaxants; Wound debridement",Clinical Exam,A35
+P1013,"Painful difficulty swallowing",Rabies,"Wound cleaning; Post-exposure prophylaxis","Clinical Exam; Direct Fluorescent Antibody Test",A82.9
+P1014,"Swollen jaw (Parotitis)",Mumps,"Supportive care (rest, fluids)","Clinical Exam; Serology",B26.9
+P1015,"Curved spine (Scoliosis)",Adolescent Idiopathic Scoliosis,"Bracing; Spinal fusion","X-Ray Spine; Cobb Angle Measurement",M41.9
+P1016,"Flat feet",Pes Planus,"Orthotics; Physical therapy","Physical Exam; Gait Analysis",M21.40
+P1017,"Toe walking",Idiopathic Toe Walking,"Casting; Physical therapy; Botox","Gait Analysis; Neurological Exam",R26.89
+P1018,"Knock knees",Genu Valgum,"Observation (most resolve); Osteotomy (severe)","X-Ray Legs; Gait Analysis",M21.06
+P1019,"Bow legs",Genu Varum,"Observation (most resolve); Osteotomy (severe)","X-Ray Legs; Metabolic Workup (rickets)",M21.16
+P1020,"Leg length discrepancy",Limb Length Inequality,"Shoe lift; Epiphysiodesis","Scanogram; X-Ray Legs",M21.70
+P1021,"Clubbed fingers",Hypertrophic Osteoarthropathy,"Treat underlying cause (e.g., lung cancer)","Chest X-Ray; CT Scan",R68.3
+P1022,"Blue sclera",Osteogenesis Imperfecta,"Bisphosphonates; Physical therapy","X-Ray; Genetic Testing",Q78.0
+P1023,"Overly flexible joints",Ehlers-Danlos Syndrome,"Physical therapy; Pain management","Brighton Score; Genetic Testing",Q79.6
+P1024,"Tall, slender build",Marfan Syndrome,"Beta-blockers; Surgical repair (aorta)","Echocardiogram; Genetic Testing",Q87.4
+P1025,"Short stature",Achondroplasia,"Growth hormone (controversial); Limb lengthening","X-Ray; Genetic Testing",Q77.4
+P1026,"Webbed neck",Turner Syndrome,"Growth hormone; Estrogen therapy","Karyotype Testing; Echocardiogram",Q96.9
+P1027,"Low-set ears",Renal Agenesis,"Prenatal counseling; Pediatric nephrology","Prenatal Ultrasound; MRI",Q60.2
+P1028,"Cleft lip",Cleft Lip and Palate,"Surgical repair; Speech therapy","Prenatal Ultrasound; Physical Exam",Q36.9
+P1029,"Developmental delay",Down Syndrome,"Early intervention; Supportive therapy","Karyotype Testing; Echocardiogram",Q90.9
+P1030,"Fragile X appearance",Fragile X Syndrome,"Behavioral therapy; Educational support","Genetic Testing (FMR1 gene)",Q99.2
+P1031,"Coarse facial features",Hunter Syndrome (MPS II),"Enzyme replacement therapy; Supportive care","Urinary GAGs; Genetic Testing",E76.1
+P1032,"Cherry red spot",Tay-Sachs Disease,"Supportive care; Palliative","Enzyme Assay; Genetic Testing",E75.02
+P1033,"""Mask-like"" face",Wilson's Disease,"Penicillamine; Zinc; Liver transplant","Serum Ceruloplasmin; Slit Lamp Exam",E83.01
+P1034,"Uncontrolled movements",Huntington's Disease,"Tetrabenazine; Antipsychotics","Genetic Testing; MRI Brain",G10
+P1035,"Butterfly rash",Discoid Lupus,"Hydroxychloroquine; Topical steroids","Skin Biopsy; ANA Test",L93.0
+P1036,"Calcium deposits in skin",CREST Syndrome (Limited Scleroderma),"Calcium channel blockers; Immunosuppressants","ANA Test; Anti-Centromere Antibodies",M34.1
+P1037,"Heliotrope rash",Dermatomyositis,"Steroids; Methotrexate; IVIG","EMG; Muscle Biopsy; Autoantibody Panel",M33.90
+P1038,"Gottron's papules",Dermatomyositis,"Steroids; Methotrexate; IVIG","EMG; Muscle Biopsy; Autoantibody Panel",M33.90
+P1039,"Skin tightening",Systemic Sclerosis,"Methotrexate; Mycophenolate","ANA Test; Skin Biopsy; CT Chest",M34.9
+P1040,"Puffy hands",Eosinophilic Fasciitis,"Steroids; Methotrexate","MRI; Full-thickness Skin Biopsy",M35.4
+P1041,"Red lunulae",Systemic Lupus Erythematosus,"Hydroxychloroquine; Steroids","ANA Test; Anti-dsDNA Antibodies",M32.9
+P1042,"Splinter hemorrhages",Infective Endocarditis,"IV Antibiotics; Valve surgery","Blood Cultures; Echocardiogram",I33.0
+P1043,"Osler's nodes",Infective Endocarditis,"IV Antibiotics; Valve surgery","Blood Cultures; Echocardiogram",I33.0
+P1044,"Janeway lesions",Infective Endocarditis,"IV Antibiotics; Valve surgery","Blood Cultures; Echocardiogram",I33.0
+P1045,"Roth's spots",Infective Endocarditis,"IV Antibiotics; Valve surgery","Blood Cultures; Echocardiogram",I33.0
+P1046,Telangiectasia,Hereditary Hemorrhagic Telangiectasia (HHT),"Laser therapy; Embolization","Clinical Exam; Genetic Testing; CT Angio",I78.0
+P1047,"Peau d'orange skin",Inflammatory Breast Cancer,"Chemotherapy; Mastectomy; Radiation","Mammogram; Biopsy",C50.919
+P1048,"Pagetic breast rash",Paget's Disease of the Breast,"Mastectomy; Radiation",Nipple Biopsy,C50.0
+P1049,"Leser-Trélat sign",Internal Malignancy,"Identify and treat underlying cancer","Comprehensive Cancer Screening (CT/PET)",R23.8
+P1050,"Acanthosis nigricans",Insulin Resistance,"Weight loss; Metformin","Glucose Tolerance Test; Insulin Level",L83
+P1051,"Necrobiosis lipoidica",Diabetes Mellitus,"Improved glucose control; Topical steroids",Skin Biopsy,L92.1
+P1052,"Diabetic dermopathy",Diabetes Mellitus,Improved glucose control,"Skin Exam; HbA1c",L90.8
+P1053,"Digital ulcers",Systemic Sclerosis,"Calcium channel blockers; Bosentan","Wound Care; Nailfold Capillaroscopy",L94.5
+P1054,Chilblains,Pernio (Chilblains),"Nifedipine; Avoid cold","Clinical Exam; Rule out autoimmune",I73.0
+P1055,"Erythema nodosum","Inflammatory Bowel Disease / Sarcoidosis","Treat underlying cause; Potassium iodide","Skin Biopsy; Chest X-Ray; Colonoscopy",L52
+P1056,"Pyoderma gangrenosum","Inflammatory Bowel Disease / RA","High-dose steroids; Immunosuppressants","Skin Biopsy; Rule out underlying disease",L88
+P1057,"Hidradenitis suppurativa",Hidradenitis Suppurativa,"Antibiotics; Adalimumab; Surgery","Clinical Exam; Severity Scoring",L73.2
+P1058,"Steatocystoma multiplex",Steatocystoma Multiplex,"Isotretinoin; Surgical excision",Skin Biopsy,Q82.8
+P1059,"Dermatitis herpetiformis",Celiac Disease,"Dapsone; Gluten-free diet","Skin Biopsy; IgA tTG Antibody",L13.0
+P1060,Neurofibromas,Neurofibromatosis Type 1,"Surgical excision; Genetic counseling","Clinical Exam; Genetic Testing",Q85.01
+P1061,"Ash leaf spots",Tuberous Sclerosis,"Manage seizures (vigabatrin); everolimus","Wood's Lamp Exam; MRI Brain; Genetic Testing",Q85.1
+P1062,"Shagreen patch",Tuberous Sclerosis,"Manage seizures; everolimus","Skin Exam; MRI Brain; Genetic Testing",Q85.1
+P1063,"Adenoma sebaceum",Tuberous Sclerosis,"Manage seizures; everolimus; laser therapy","Skin Exam; MRI Brain; Genetic Testing",Q85.1
+P1064,"Port-wine stain",Sturge-Weber Syndrome,"Laser therapy; Manage seizures","Clinical Exam; MRI Brain; Ophthalmology Exam",Q85.8
+P1065,"Linear sebaceous nevus",Schimmelpenning Syndrome,"Surgical excision; Manage CNS/eye issues","Skin Biopsy; MRI Brain; Ophthalmology Exam",Q82.8
+P1066,"Incontinentia pigmenti",Incontinentia Pigmenti,"Manage CNS, eye, skin issues","Skin Exam; Genetic Testing; MRI Brain",Q82.3
+P1067,"Epidermolysis bullosa",Epidermolysis Bullosa,"Wound care; Prevent infection","Skin Biopsy; Genetic Testing",Q81.9
+P1068,Ichthyosis,Ichthyosis Vulgaris,"Emollients; Retinoids","Skin Exam; Genetic Testing",Q80.0
+P1069,"Harlequin ichthyosis",Harlequin Ichthyosis,"Neonatal intensive care; Retinoids","Clinical Exam; Genetic Testing",Q80.4
+P1070,"Lamellar ichthyosis",Lamellar Ichthyosis,"Emollients; Retinoids","Skin Exam; Genetic Testing",Q80.2
+P1071,Polymastia,Supernumerary Breasts,"Surgical excision (if desired)","Physical Exam; Ultrasound",Q83.1
+P1072,Amastia,Amastia,"Breast reconstruction; Counseling","Physical Exam; Hormone Tests",Q83.8
+P1073,Gynecomastia,Gynecomastia,"Tamoxifen; Surgical excision","Mammogram; Hormone Tests; Rule out causes",N62
+P1074,"Peanut allergy",Peanut Allergy,"Epinephrine; Avoidance","Skin Prick Test; IgE Blood Test",T78.1
+P1075,"Shellfish allergy",Shellfish Allergy,"Epinephrine; Avoidance","Skin Prick Test; IgE Blood Test",T78.1
+P1076,"Bee sting allergy",Hymenoptera Allergy,"Epinephrine; Venom immunotherapy","Skin Test; IgE Blood Test",T63.4
+P1077,"Pollen allergy",Allergic Rhinitis,"Fluticasone nasal spray; Antihistamines","Skin Prick Test; IgE Blood Test",J30.9
+P1078,"Dust mite allergy",Allergic Rhinitis,"Fluticasone nasal spray; Antihistamines; Allergen avoidance","Skin Prick Test; IgE Blood Test",J30.9
+P1079,"Cat allergy",Allergic Rhinitis,"Fluticasone nasal spray; Antihistamines; Allergen avoidance","Skin Prick Test; IgE Blood Test",J30.9
+P1080,"Cow's milk allergy","Cow's Milk Protein Allergy","Strict avoidance; Hypoallergenic formula","Skin Prick Test; Oral Food Challenge",K52.21
+P1081,"Egg allergy",Egg Allergy,"Strict avoidance; Epinephrine","Skin Prick Test; Oral Food Challenge",T78.1
+P1082,"Wheat allergy",Wheat Allergy,"Strict avoidance; Epinephrine","Skin Prick Test; Oral Food Challenge",T78.1
+P1083,"Soy allergy",Soy Allergy,"Strict avoidance; Epinephrine","Skin Prick Test; Oral Food Challenge",T78.1
+P1084,"Tree nut allergy",Tree Nut Allergy,"Strict avoidance; Epinephrine","Skin Prick Test; Oral Food Challenge",T78.1
+P1085,"Sesame allergy",Sesame Allergy,"Strict avoidance; Epinephrine","Skin Prick Test; Oral Food Challenge",T78.1
+P1086,"Exercise-induced anaphylaxis",Exercise-Induced Anaphylaxis,"Avoid exercise after trigger food; Epinephrine","Clinical History; Challenge Test",T78.2
+P1087,"Cold-induced urticaria",Cold Urticaria,"Avoid cold; Antihistamines; Epinephrine",Ice Cube Test,L50.2
+P1088,"Heat-induced urticaria",Heat Urticaria,"Avoid heat; Antihistamines; Cool down","Warm Water Immersion Test",L50.8
+P1089,"Pressure-induced urticaria",Pressure Urticaria,"Avoid pressure; Antihistamines; Steroids",Clinical History,L50.8
+P1090,"Solar urticaria",Solar Urticaria,"Sun avoidance; Antihistamines; Phototherapy",Phototesting,L56.3
+P1091,"Aquagenic urticaria",Aquagenic Urticaria,"Water avoidance; Antihistamines; Barrier creams","Water Challenge Test",L50.8
+P1092,"Vibratory urticaria",Vibratory Urticaria/Angioedema,"Avoid vibration; Antihistamines",Vibration Test,L50.8
+P1093,"Cholinergic urticaria",Cholinergic Urticaria,"Cool down; Antihistamines","Exercise Challenge Test",L50.5
+P1094,"Chronic hives",Chronic Spontaneous Urticaria,"Antihistamines; Omalizumab","Clinical Exam; Rule out underlying cause",L50.1
+P1095,Angioedema,Hereditary Angioedema,"C1 esterase inhibitor; Icatibant","C4 Level; C1-INH Function Test",D84.1
+P1096,"ACE inhibitor cough","ACE Inhibitor-Induced Cough","Discontinue ACEI; Switch to ARB",Clinical History,R05.9
+P1097,"ACE inhibitor angioedema","ACE Inhibitor-Induced Angioedema","Discontinue ACEI; Epinephrine; Airway management",Clinical History,T78.3
+P1098,"Statin myopathy","Statin-Induced Myalgia","Discontinue statin; Switch to alternative","Rhabdo Workup (CK); Clinical History",M79.1
+P1099,"Antibiotic rash",Drug Eruption,"Discontinue drug; Antihistamines; Steroids","Clinical History; Drug Reaction Workup",L27.0
+P1100,"DRESS syndrome","Drug Reaction with Eosinophilia and Systemic Symptoms","Discontinue drug; High-dose steroids","CBC; Liver Function Tests; Eosinophil Count",L27.0
+Patient_ID,Symptom,Condition,Medication,Procedure,ICD-10 Code
+P1101,"Stevens-Johnson syndrome",Stevens-Johnson Syndrome,"Discontinue drug; ICU care; Wound care","Skin Biopsy; Clinical Exam",L51.1
+P1102,"Toxic epidermal necrolysis",Toxic Epidermal Necrolysis,"Discontinue drug; ICU care; Wound care","Skin Biopsy; Clinical Exam",L51.2
+P1103,"Serum sickness",Serum Sickness,"Discontinue drug; Antihistamines; Steroids","Clinical History; Immune Complex Testing",T80.69
+P1104,"Fixed drug eruption",Fixed Drug Eruption,"Discontinue drug; Topical steroids","Clinical History; Patch Testing",L27.0
+P1105,Photosensitivity,"Drug-Induced Photosensitivity","Discontinue drug; Sun protection","Clinical History; Phototesting",L56.0
+P1106,"Blue-gray skin","Amiodarone-Induced Pigmentation","Discontinue drug (if possible); Laser therapy","Clinical History; Drug Review",L81.8
+P1107,"Black hairy tongue",Black Hairy Tongue,"Good oral hygiene; Tongue scraping; Avoid triggers","Clinical Exam; Rule out antibiotics/smoking",K13.3
+P1108,"Gingival hyperplasia","Phenytoin-Induced Gingival Overgrowth","Improved oral hygiene; Gingivectomy; Switch drug","Clinical Exam; Dental X-Ray",K06.2
+P1109,"Neuroleptic malignant syndrome","Neuroleptic Malignant Syndrome","Discontinue drug; Dantrolene; Supportive care","CK Level; Clinical Exam",G21.0
+P1110,"Serotonin syndrome",Serotonin Syndrome,"Discontinue drug; Cyproheptadine; Supportive care","Clinical Exam; Hunter Criteria",T88.7
+P1111,"Opioid withdrawal",Opioid Withdrawal,"Methadone; Buprenorphine; Clonidine","Clinical Opiate Withdrawal Scale (COWS)",F11.23
+P1112,"Alcohol withdrawal",Alcohol Withdrawal,"Benzodiazepines; Thiamine; Supportive care","Clinical Institute Withdrawal Assessment (CIWA)",F10.239
+P1113,"Anticholinergic toxidrome",Anticholinergic Toxicity,"Discontinue drug; Physostigmine (severe)","Clinical Exam; Mental Status Exam",T44.3X5A
+P1114,"Opioid toxidrome",Opioid Overdose,"Naloxone; Supportive breathing","Clinical Exam; Response to Naloxone",T40.2X5A
+P1115,"Salicylate poisoning",Salicylate Toxicity,"Sodium bicarbonate; Urine alkalinization; Dialysis","Serum Salicylate Level; ABG",T39.095A
+P1116,"Acetaminophen poisoning",Acetaminophen Toxicity,"N-acetylcysteine (NAC)","Serum Acetaminophen Level; Liver Function Tests",T39.1X5A
+P1117,"Carbon monoxide poisoning","Carbon Monoxide Poisoning","100% Oxygen; Hyperbaric oxygen","Carboxyhemoglobin Level; Pulse CO-oximetry",T58.02XA
+P1118,"Black widow spider bite","Latrodectus Envenomation","Opioids; Muscle relaxants; Antivenin (severe)",Clinical Exam,T63.311A
+P1119,"Brown recluse spider bite","Loxosceles Envenomation","Wound care; Dapsone (controversial); Surgery","Skin Exam; CBC",T63.321A
+P1120,"Cat bite",Cat Bite,"Wound care; Antibiotics; Rabies post-exposure","Wound Care; X-Ray; Tetanus",W55.01XA
+P1121,"Human bite",Human Bite,"Wound care; Antibiotics; Hepatitis/HIV post-exposure","Wound Care; X-Ray",W56.21XA
+P1122,Leptospirosis,Leptospirosis,"Penicillin G; Doxycycline","Serology; PCR; Dark-field microscopy",A27.9
+P1123,Brucellosis,Brucellosis,"Doxycycline; Rifampin; Gentamicin","Blood Culture; Serology",A23.9
+P1124,Anthrax,Anthrax,"Ciprofloxacin; Doxycycline; Antitoxin","Culture; PCR; Serology",A22.9
+P1125,"Cat-scratch disease","Cat-Scratch Disease","Azithromycin; Doxycycline","Clinical Exam; Serology; PCR",A28.1
+P1126,Ehrlichiosis,Ehrlichiosis,Doxycycline,"Blood Smear; PCR; Serology",A77.40
+P1127,"Rocky Mountain spotted fever","Rocky Mountain Spotted Fever",Doxycycline,"Clinical Exam; Serology; PCR; Skin Biopsy",A77.0
+P1128,"Chagas disease","Chagas Disease (American Trypanosomiasis)","Benznidazole; Nifurtimox","Blood Smear; Serology; PCR",B57.5
+P1129,"Visceral leishmaniasis","Visceral Leishmaniasis (Kala-azar)","Liposomal amphotericin B; Miltefosine","Bone Marrow Aspirate; Serology; PCR",B55.0
+P1130,Schistosomiasis,Schistosomiasis,Praziquantel,"Stool/Ova and Parasite; Serology",B65.9
+P1131,"Lymphatic filariasis","Lymphatic Filariasis (Elephantiasis)","Diethylcarbamazine (DEC); Ivermectin; Doxycycline","Blood Smear (nocturnal); Antigen Test",B74.0
+P1132,Onchocerciasis,"Onchocerciasis (River Blindness)","Ivermectin; Doxycycline","Skin Snip; Slit Lamp Exam",B73.0
+P1133,Cysticercosis,Cysticercosis,"Albendazole; Praziquantel; Surgery","Serology; CT/MRI",B69.9
+P1134,"Hydatid disease","Echinococcosis (Hydatid Disease)","Albendazole; Surgery (PAIR technique)","Serology; Ultrasound; CT",B67.90
+P1135,Trichinosis,Trichinosis,"Albendazole; Steroids for myositis","Serology; Muscle Biopsy",B75
+P1136,Strongyloidiasis,Strongyloidiasis,"Ivermectin; Albendazole","Stool Ova; Serology",B78.9
+P1137,Giardiasis,Giardiasis,"Metronidazole; Tinidazole; Nitazoxanide","Stool Ova; Antigen Test",A07.1
+P1138,"Menstrual cramps","Primary Dysmenorrhea","NSAIDs (Ibuprofen, Naproxen); Hormonal birth control",Pelvic Exam,N94.6
+P1139,"Heavy menstrual bleeding","Abnormal Uterine Bleeding","Tranexamic acid; Hormonal IUD; Endometrial ablation","Pelvic Ultrasound; Endometrial Biopsy",N92.0
+P1140,"Absent menstruation","Primary Amenorrhea","Hormone therapy; Treat underlying cause","Hormone Tests; Pelvic Ultrasound; MRI Brain",N91.0
+P1141,"Painful intercourse","Dyspareunia","Pelvic floor therapy; Lubricants; Counseling","Pelvic Exam; Rule out endometriosis",N94.1
+P1142,"Pelvic organ prolapse","Cystocele / Rectocele","Pessary; Pelvic floor therapy; Surgery","Pelvic Exam; Ultrasound",N81.9
+P1143,"Postmenopausal bleeding","Endometrial Cancer","Progestins; Hysterectomy","Endometrial Biopsy; D&C;C54.1",N20.9
+P1144,"Testicular pain","Orchalgia","NSAIDs; Scrotal support; Antibiotics (if infection)","Scrotal Ultrasound; Urinalysis",N50.8
+P1145,"Low testosterone","Male Hypogonadism","Testosterone replacement therapy","Hormone Tests; Pituitary MRI",E29.1
+P1146,"Premature ejaculation","Premature Ejaculation","SSRIs; Topical anesthetics; Behavioral therapy",Clinical History,F52.4
+P1147,"Erectile dysfunction","Vascular ED","Sildenafil; Tadalafil; Penile implant","Doppler Ultrasound; Cavernosometry",N52.9
+P1148,"Benign prostate enlargement","Benign Prostatic Hyperplasia","Tamsulosin; Finasteride; Surgery","PSA Test; Digital Rectal Exam; Uroflowmetry",N40.0
+P1149,"Prostate cancer","Prostate Adenocarcinoma","Radiation; Prostatectomy; Androgen deprivation therapy","PSA Test; Prostate Biopsy;C61
+P1150,"Overactive bladder","Overactive Bladder","Oxybutynin; Mirabegron; Bladder training","Urodynamic Studies; Cystoscopy",N32.81
+P1151,"Interstitial cystitis","Bladder Pain Syndrome","Amitriptyline; Pentosan polysulfate; Bladder instillation","Cystoscopy; Potassium Sensitivity Test",N30.1
+P1152,"Kidney stones","Nephrolithiasis","Ibuprofen; Tamsulosin; Lithotripsy","CT KUB; Urinalysis; Stone Analysis",N20.0
+P1153,"Blood in urine","Bladder Cancer","BCG therapy; Cystectomy; Chemotherapy","Cystoscopy; Biopsy;C67.9
+P1154,"Protein in urine","Nephrotic Syndrome","ACE Inhibitors; Steroids; Diuretics","Urinalysis; 24-hr Urine Protein; Kidney Biopsy",N04.9
+P1155,"Acute kidney injury","Acute Kidney Injury","IV Fluids; Dialysis (if needed); Treat cause","Serum Creatinine; Urine Output; Renal Ultrasound",N17.9
+P1156,"Chronic kidney disease","Chronic Kidney Disease Stage 3","ACE Inhibitors; SGLT2 inhibitors; Phosphate binders","eGFR; Urine Albumin-to-Creatinine Ratio",N18.3
+P1157,"End stage renal disease","End Stage Renal Disease","Dialysis; Kidney transplant","eGFR <15; Comprehensive Metabolic Panel",N18.6
+P1158,"Hemodialysis access","Arteriovenous Fistula","Fistula creation; Angioplasty","Duplex Ultrasound; Fistulagram",Z49.31
+P1159,"Peritoneal dialysis","Peritoneal Dialysis","Dialysis via catheter in abdomen","Peritoneal Catheter Placement; Training",Z49.2
+P1160,"Kidney transplant","Kidney Transplant Rejection","Immunosuppressants (Tacrolimus, Mycophenolate)","Creatinine Monitoring; Transplant Biopsy",T86.10
+P1161,"Liver failure","Acute Liver Failure","N-acetylcysteine (for acetaminophen); Supportive care","Liver Function Tests; Coagulation Studies",K72.00
+P1162,"Cirrhosis","Alcoholic Cirrhosis","Abstinence from alcohol; Diuretics; Lactulose","Liver Function Tests; Ultrasound; Elastography",K70.30
+P1163,"Hepatitis B","Chronic Hepatitis B","Tenofovir; Entecavir; Interferon","Hepatitis B Serology; Viral Load; Liver Biopsy",B18.1
+P1164,"Hepatitis C","Chronic Hepatitis C","Direct-acting antivirals (Sofosbuvir/Velpatasvir)","Hepatitis C RNA; Genotype",B18.2
+P1165,"Autoimmune hepatitis","Autoimmune Hepatitis","Prednisone; Azathioprine","Liver Function Tests; Autoantibody Panel; Biopsy",K75.4
+P1166,"Primary biliary cholangitis","Primary Biliary Cholangitis","Ursodeoxycholic acid; Obeticholic acid","Liver Function Tests; AMA Antibodies",K74.3
+P1167,"Primary sclerosing cholangitis","Primary Sclerosing Cholangitis","Ursodeoxycholic acid; Liver transplant","MRCP; ERCP; Liver Biopsy",K83.0
+P1168,"Liver transplant","Liver Transplant Rejection","Immunosuppressants (Tacrolimus, Prednisone)","Liver Function Tests; Biopsy",T86.40
+P1169,"Pancreatitis","Acute Pancreatitis","NPO; IV Fluids; Pain management","Amylase/Lipase Test; CT Abdomen",K85.90
+P1170,"Chronic pancreatitis","Chronic Pancreatitis","Pancreatic enzyme replacement; Pain management","CT Abdomen; MRCP; Fecal Elastase",K86.1
+P1171,"Pancreatic cancer","Pancreatic Adenocarcinoma","Gemcitabine; Nab-paclitaxel; Whipple procedure","CT Abdomen; ERCP; Biopsy;C25.9
+P1172,"Pancreatic insufficiency","Exocrine Pancreatic Insufficiency","Pancreatic enzyme replacement (Creon)","Fecal Elastase Test; Steatorrhea Workup",K86.81
+P1173,"Gallstones","Cholelithiasis","Observation; Cholecystectomy","Ultrasound Right Upper Quadrant",K80.20
+P1174,"Gallbladder inflammation","Acute Cholecystitis","Antibiotics; Cholecystectomy","Ultrasound; HIDA Scan",K81.0
+P1175,"Common bile duct stone","Choledocholithiasis","ERCP with sphincterotomy and stone extraction","MRCP; ERCP",K80.50
+P1176,"Gallstone pancreatitis","Gallstone Pancreatitis","NPO; IV Fluids; ERCP","Amylase/Lipase; Ultrasound; CT",K85.1
+P1177,"Ascites","Portal Hypertension","Diuretics; Paracentesis; TIPS procedure","Ultrasound; Paracentesis Analysis",R18.8
+P1178,"Esophageal varices","Esophageal Varices","Beta-blockers; Band ligation; TIPS","EGD; Capsule Endoscopy",I85.11
+P1179,"Spontaneous bacterial peritonitis","Spontaneous Bacterial Peritonitis","IV Antibiotics (Cefotaxime); Albumin","Paracentesis; Fluid Analysis",K65.2
+P1180,"Hepatic encephalopathy","Hepatic Encephalopathy","Lactulose; Rifaximin","Mental Status Exam; Ammonia Level",K72.90
+P1181,"Hepatorenal syndrome","Hepatorenal Syndrome","Albumin; Vasoconstrictors (Terlipressin); Dialysis","Renal Function Tests; Clinical Criteria",K76.7
+P1182,"Hepatopulmonary syndrome","Hepatopulmonary Syndrome","Oxygen; Liver transplant","Arterial Blood Gas; Contrast Echocardiogram",K76.81
+P1183,"Portopulmonary hypertension","Portopulmonary Hypertension","Vasodilators; Liver transplant","Echocardiogram; Right Heart Catheterization",K76.82
+P1184,"Wilson's disease","Wilson's Disease","Penicillamine; Zinc; Liver transplant","Serum Ceruloplasmin; Slit Lamp Exam; Urine Copper",E83.01
+P1185,"Hemochromatosis","Hereditary Hemochromatosis","Therapeutic phlebotomy","Iron Studies; Genetic Testing (HFE gene)",E83.110
+P1186,"Alpha-1 antitrypsin deficiency","Alpha-1 Antitrypsin Deficiency","Augmentation therapy; Lung/Liver transplant","AAT Level; Phenotype; Genetic Testing",E88.01
+P1187,"Porphyria","Acute Intermittent Porphyria","Hemin; Glucose; Avoid triggers","Urine PBG; ALA Dehydratase",E80.21
+P1188,"G6PD deficiency","G6PD Deficiency","Avoid triggers (fava beans, sulfa drugs)","G6PD Enzyme Assay; CBC",D55.0
+P1189,"Sickle cell crisis","Sickle Cell Anemia","Hydration; Pain management; Oxygen; Hydroxyurea","Hemoglobin Electrophoresis; CBC",D57.00
+P1190,"Sickle cell trait","Sickle Cell Trait,""Genetic counseling; No treatment"","Hemoglobin Electrophoresis",D57.3
+P1191,"Beta thalassemia","Beta Thalassemia Major","Blood transfusions; Iron chelation","Hemoglobin Electrophoresis; Genetic Testing",D56.1
+P1192,"Alpha thalassemia","Alpha Thalassemia","Varies from no treatment to transfusions","Hemoglobin Electrophoresis; Genetic Testing",D56.0
+P1193,"Hemophilia A","Hemophilia A","Factor VIII replacement","PT/PTT; Factor VIII Assay",D66
+P1194,"Von Willebrand disease","Von Willebrand Disease","Desmopressin; Factor concentrate","Von Willebrand Panel; Bleeding Time",D68.0
+P1195,"Immune thrombocytopenia","Immune Thrombocytopenic Purpura","Steroids; IVIG; Thrombopoietin agonists","CBC; Peripheral Smear",D69.3
+P1196,"Thrombotic thrombocytopenic purpura","Thrombotic Thrombocytopenic Purpura","Plasma exchange; Rituximab; Caplacizumab","CBC; Peripheral Smear; ADAMTS13 level",M31.1
+P1197,"Disseminated intravascular coagulation","Disseminated Intravascular Coagulation","Treat underlying cause; Supportive care","PT/PTT; D-dimer; Fibrinogen",D65
+P1198,"Hemolytic uremic syndrome","Hemolytic Uremic Syndrome","Supportive care; Eculizumab (atypical)","CBC; Renal Function Tests; Stool Culture",D59.3
+P1199,"Antiphospholipid syndrome","Antiphospholipid Syndrome","Anticoagulation (Warfarin)","Lupus Anticoagulant; Anticardiolipin Antibodies",D68.61
+P1200,"Polycythemia vera","Polycythemia Vera","Phlebotomy; Hydroxyurea; Aspirin","CBC; JAK2 Mutation Test",D45
+P1201,"Essential thrombocythemia","Essential Thrombocythemia","Hydroxyurea; Anagrelide; Aspirin","CBC; JAK2 Mutation Test",D47.3
+P1202,"Myelofibrosis","Primary Myelofibrosis","Ruxolitinib; Transplant","CBC; Bone Marrow Biopsy",D47.4
+P1203,"Multiple myeloma","Multiple Myeloma","Lenalidomide; Bortezomib; Stem cell transplant","SPEP; UPEP; Bone Marrow Biopsy",C90.00
+P1204,"Waldenström macroglobulinemia","Waldenström Macroglobulinemia","Rituximab; Ibrutinib; Plasmapheresis","SPEP; IgM Level; Bone Marrow Biopsy",C88.0
+P1205,"Amyloidosis","AL Amyloidosis","Chemotherapy; Stem cell transplant","Tissue Biopsy (Congo red stain); Free Light Chains",E85.81
+P1206,"Acute lymphoblastic leukemia","Acute Lymphoblastic Leukemia","Multi-agent chemotherapy; Stem cell transplant","CBC; Peripheral Smear; Bone Marrow Biopsy",C91.00
+P1207,"Acute myeloid leukemia","Acute Myeloid Leukemia","Multi-agent chemotherapy; Stem cell transplant","CBC; Peripheral Smear; Bone Marrow Biopsy",C92.00
+P1208,"Chronic lymphocytic leukemia","Chronic Lymphocytic Leukemia","Observation; Ibrutinib; Venetoclax + Obinutuzumab","CBC; Flow Cytometry",C91.10
+P1209,"Chronic myeloid leukemia","Chronic Myeloid Leukemia","Tyrosine kinase inhibitors (Imatinib)","CBC; Peripheral Smear; BCR-ABL Test",C92.10
+P1210,"Hodgkin lymphoma","Hodgkin Lymphoma","ABVD chemotherapy; Radiation","Excisional Lymph Node Biopsy; PET Scan",C81.90
+P1211,"Non-Hodgkin lymphoma","Diffuse Large B-Cell Lymphoma","R-CHOP chemotherapy; Radiation","Excisional Lymph Node Biopsy; PET Scan",C85.90
+P1212,"Follicular lymphoma","Follicular Lymphoma","Rituximab; Chemotherapy; Radiation","Excisional Lymph Node Biopsy; PET Scan",C82.90
+P1213,"Mantle cell lymphoma","Mantle Cell Lymphoma","Chemotherapy; BTK inhibitors; Transplant","Excisional Lymph Node Biopsy; PET Scan; Cyclin D1",C83.10
+P1214,"Marginal zone lymphoma","Marginal Zone Lymphoma","Rituximab; Chemotherapy; Radiation","Excisional Lymph Node Biopsy; PET Scan",C83.50
+P1215,"Burkitt lymphoma","Burkitt Lymphoma","Intensive chemotherapy; Intrathecal therapy","Excisional Lymph Node Biopsy; PET Scan",C83.70
+P1216,"Mycosis fungoides","Mycosis Fungoides","Topical nitrogen mustard; Phototherapy; Systemic therapy","Skin Biopsy; CT Scan",C84.00
+P1217,"Langerhans cell histiocytosis","Langerhans Cell Histiocytosis","Vinblastine; Prednisone; Cladribine","Tissue Biopsy (CD1a, Langerin positive)",C96.0
+P1218,"Hemophagocytic lymphohistiocytosis","Hemophagocytic Lymphohistiocytosis","Etoposide; Dexamethasone; Cyclosporine","Ferritin; Soluble CD25; Bone Marrow Biopsy",D76.1
+P1219,"Graft-versus-host disease","Chronic Graft-versus-Host Disease","Steroids; Immunosuppressants; Extracorporeal photopheresis","Clinical Exam; Skin Biopsy",D89.810
+P1220,"Transfusion reaction","Acute Hemolytic Transfusion Reaction","Stop transfusion; Supportive care; IV fluids","Direct Antiglobulin Test; Hemoglobinuria",T80.310A
+P1221,"Neutropenic fever","Febrile Neutropenia","Broad-spectrum IV antibiotics; G-CSF","CBC; Blood Cultures; Chest X-Ray",D70.9
+P1222,"Tumor lysis syndrome","Tumor Lysis Syndrome","IV hydration; Rasburicase; Allopurinol","Electrolyte Panel; Uric Acid Level",E88.3
+P1223,"Superior vena cava syndrome","Superior Vena Cava Syndrome","Steroids; Radiation; Stent","CT Chest with Contrast; Venography",I87.1
+P1224,"Spinal cord compression","Malignant Spinal Cord Compression","High-dose steroids; Radiation; Surgery","MRI Spine; Neurological Exam",G95.20
+P1225,"Hypercalcemia of malignancy","Hypercalcemia of Malignancy","IV fluids; Bisphosphonates; Denosumab","Calcium Level; PTHrP Level",C79.9
+P1226,"Cancer pain","Breakthrough Cancer Pain","Opioids; Adjuvants; Radiation for pain","Pain Assessment; Imaging",G89.3
+P1227,"Chemotherapy-induced nausea","Chemotherapy-Induced Nausea and Vomiting","Ondansetron; Aprepitant; Dexamethasone","Clinical History; Emesis Log",R11.2
+P1228,"Chemo neuropathy","Chemotherapy-Induced Peripheral Neuropathy","Gabapentin; Duloxetine; Dose reduction","Neurological Exam; Nerve Conduction Studies",G62.0
+P1229,"Radiation dermatitis","Radiation Dermatitis","Topical steroids; Moisturizers; Wound care","Skin Exam",L59.8
+P1230,"Radiation pneumonitis","Radiation Pneumonitis","Steroids; Oxygen","CT Chest; PFTs",J70.0
+P1231,"Radiation fibrosis","Radiation Fibrosis Syndrome","Physical therapy; Pulmonary rehab","CT Scan; Physical Exam",L90.5
+P1232,"Immunotherapy colitis","Immunotherapy-Induced Colitis","Steroids; Infliximab; Hold immunotherapy","Colonoscopy; Biopsy",K52.89
+P1233,"Immunotherapy pneumonitis","Immunotherapy-Induced Pneumonitis","Steroids; Hold immunotherapy","CT Chest; Bronchoscopy",J70.3
+P1234,"Immunotherapy rash","Immunotherapy-Induced Dermatitis","Topical steroids; Hold immunotherapy","Skin Exam; Biopsy",L27.0
+P1235,"Immunotherapy hepatitis","Immunotherapy-Induced Hepatitis","Steroids; Hold immunotherapy","Liver Function Tests; Liver Biopsy",K75.89
+P1236,"Immunotherapy endocrinopathy","Immunotherapy-Induced Hypophysitis","Steroid replacement; Hold immunotherapy","Hormone Tests; MRI Pituitary",E23.0
+P1237,"CAR-T cell cytokine release syndrome","Cytokine Release Syndrome","Tocilizumab; Steroids; Supportive care","Clinical Exam; Inflammatory Markers",T80.89XA
+P1238,"CAR-T neurotoxicity","Immune Effector Cell-Associated Neurotoxicity Syndrome","Steroids; Supportive care","Neurological Exam; EEG; MRI Brain",G93.40
+P1239,"Cancer survivorship","Cancer Survivorship Care,""Surveillance; Screening for late effects; Healthy lifestyle"","History; Physical Exam; Targeted Screening",Z08
+P1240,"Palliative care","Palliative Care Consultation","Symptom management; Goals of care discussion","Comprehensive Assessment; Family Meeting",Z51.5
+P1241,"Hospice care","Hospice Care","Comfort-focused care; No curative treatment","Prognosis <6 months; Goals of Care",Z51.5
+P1242,"Bereavement","Complicated Grief","Counseling; Support groups; Sometimes antidepressants","Clinical History; Grief Assessment",Z63.4
+P1243,"Medical cannabis","Cannabis for Chronic Pain","Cannabis; Dronabinol; Nabilone","Clinical History; State Certification",Z79.899
+P1244,"Medication assisted treatment","Opioid Use Disorder","Buprenorphine; Methadone; Naltrexone","Clinical Opiate Withdrawal Scale (COWS)",F11.20
+P1245,"Nicotine dependence","Tobacco Use Disorder","Varenicline; Bupropion; Nicotine replacement","Clinical History; Counseling",F17.200
+P1246,"Alcohol use disorder","Alcohol Use Disorder","Naltrexone; Acamprosate; Disulfiram","Clinical History; AUDIT Score",F10.20
+P1247,"Stimulant use disorder","Stimulant Use Disorder","Contingency management; Therapy","Clinical History; Urine Drug Screen",F15.20
+P1248,"Sedative use disorder","Sedative, Hypnotic, or Anxiolytic Use Disorder","Taper; Medical detox","Clinical History; Withdrawal Assessment",F13.20
+P1249,"Eating disorder","Anorexia Nervosa","Nutritional rehabilitation; Therapy; SSRIs","Weight; BMI; Electrolytes",F50.00
+P1250,"Avoidant restrictive food intake","Avoidant/Restrictive Food Intake Disorder","Nutritional support; Feeding therapy; CBT","Clinical History; Rule out other causes",F50.82
+P1251,"Binge eating disorder","Binge-Eating Disorder","Therapy; Topiramate; Lisdexamfetamine","Clinical History; Eating Disorder Assessment",F50.81
+P1252,"Body dysmorphic disorder","Body Dysmorphic Disorder","SSRIs; CBT","Clinical History; Yale-Brown Obsessive Compulsive Scale",F45.22
+P1253,"Hoarding disorder","Hoarding Disorder","Therapy (CBT); SSRIs","Clinical History; Hoarding Rating Scale",F42.3
+P1254,"Trichotillomania","Hair-Pulling Disorder","Therapy (habit reversal training); SSRIs","Clinical History; Physical Exam",F63.3
+P1255,"Excoriation disorder","Skin-Picking Disorder","Therapy (habit reversal training); SSRIs","Clinical History; Skin Exam",F42.4
+P1256,"Parasomnia","Disorder of Arousal (NREM)","Scheduled awakenings; Safety measures; Clonazepam","Polysomnogram; Clinical History",F51.3
+P1257,"Nightmare disorder","Nightmare Disorder","Imagery rehearsal therapy; Prazosin","Clinical History; Sleep Diary",F51.5
+P1258,"REM sleep behavior disorder","REM Sleep Behavior Disorder","Clonazepam; Melatonin; Safety measures","Polysomnogram; Clinical History",G47.52
+P1259,"Restless legs syndrome","Restless Legs Syndrome","Ropinirole; Pramipexole; Gabapentin","Ferritin; Clinical History",G25.81
+P1260,"Circadian rhythm disorder","Delayed Sleep-Wake Phase Disorder","Melatonin; Light therapy; Chronotherapy","Sleep Diary; Actigraphy",G47.21
+P1261,"Insomnia disorder","Chronic Insomnia","Cognitive behavioral therapy for insomnia (CBT-I); Medications","Sleep Diary; Clinical History",G47.00
+P1262,"Hypersomnia","Idiopathic Hypersomnia","Modafinil; Armodafinil; Sodium oxybate","Polysomnogram; Multiple Sleep Latency Test",G47.11
+P1263,"Narcolepsy","Narcolepsy Type 1","Modafinil; Sodium oxybate; Antidepressants for cataplexy","Polysomnogram; Multiple Sleep Latency Test; Hypocretin",G47.419
+P1264,"Sleep apnea","Obstructive Sleep Apnea","CPAP; Oral appliance; Weight loss","Polysomnogram; Home Sleep Test",G47.33
+P1265,"Central sleep apnea","Central Sleep Apnea","Adaptive servo-ventilation; Treat underlying cause","Polysomnogram; Echocardiogram",G47.31
+P1266,"Sleep related hypoventilation","Obesity Hypoventilation Syndrome","CPAP; BiPAP; Weight loss","Polysomnogram; Arterial Blood Gas",E66.2
+P1267,"Isolated sleep paralysis","Isolated Sleep Paralysis,""Reassurance; Sleep hygiene"","Clinical History; Rule out narcolepsy",G47.51
+P1268,"Exploding head syndrome","Exploding Head Syndrome","Clomipramine; Calcium channel blockers","Clinical History; Rule out seizures",G47.8
+P1269,"Sleep enuresis","Sleep Enuresis","Desmopressin; Alarm therapy","Urinalysis; Clinical History",F98.0
+P1270,"Sleep talking","Somniloquy","Reassurance (usually no medication)","Polysomnogram (if other issues)",F51.8
+P1271,"Sleep walking","Somnambulism","Safety measures; Scheduled awakenings; Clonazepam","Polysomnogram; Clinical History",F51.3
+P1272,"Sleep related eating","Sleep-Related Eating Disorder","Topiramate; Safety measures","Polysomnogram; Clinical History",F51.8
+P1273,"Sleep related groaning","Catathrenia","CPAP (may help)","Polysomnogram; Rule out other causes",R06.89
+P1274,"Sleep related rhythmic movement","Sleep Related Rhythmic Movement Disorder","Safety padding; Clonazepam","Polysomnogram; Clinical History",G47.69
+P1275,"Nocturnal leg cramps","Nocturnal Leg Cramps","Quinine; Magnesium; Stretching","Electrolyte Panel; Clinical History",R25.2
+P1276,"Periodic limb movement disorder","Periodic Limb Movement Disorder","Clonazepam; Gabapentin; Dopaminergic agents","Polysomnogram",G47.61
+P1277,"Rapid eye movement sleep","REM Sleep","Polysomnogram measurement","Polysomnogram",G47.8
+P1278,"Non-rapid eye movement sleep","NREM Sleep","Polysomnogram measurement","Polysomnogram",G47.8
+P1279,"Sleep staging","Polysomnography","Diagnostic test","Polysomnogram",Z03.6
+P1280,"Multiple sleep latency test","Multiple Sleep Latency Test","Diagnostic test for hypersomnia","Multiple Sleep Latency Test",Z03.6
+P1281,"Maintenance of wakefulness test","Maintenance of Wakefulness Test","Assessment of alertness","Maintenance of Wakefulness Test",Z03.6
+P1282,"Actigraphy","Actigraphy","Assessment of sleep-wake cycles","Actigraphy",Z03.6
+P1283,"Home sleep test","Home Sleep Apnea Test","Diagnostic test for sleep apnea","Home Sleep Test",Z03.6
+P1284,"Positive airway pressure","PAP Therapy","Treatment for sleep apnea","PAP Titration Study",Z99.81
+P1285,"Oral appliance therapy","Oral Appliance for Sleep Apnea","Dental device for sleep apnea","Dental Impressions; Titration",Z99.89
+P1286,"Positional therapy","Positional Therapy for Sleep Apnea","Avoid supine sleep","Clinical Recommendation",Z73.8
+P1287,"Weight loss for sleep apnea","Weight Loss Intervention","Diet; exercise; bariatric surgery","Nutrition Consult; BMI Tracking",Z68.3
+P1288,"Upper airway stimulation","Hypoglossal Nerve Stimulation","Implanted device for sleep apnea","Surgery; Device Activation",Z98.89
+P1289,"Septoplasty","Nasal Septum Deviation","Surgical correction of deviated septum","Septoplasty",J34.2
+P1290,"Turbinate reduction","Inferior Turbinate Hypertrophy","Surgical reduction of nasal turbinates","Turbinectomy",J34.3
+P1291,"Uvulopalatopharyngoplasty","UPPP for Sleep Apnea","Surgical removal of tissue in throat","Uvulopalatopharyngoplasty",Z98.89
+P1292,"Genioglossus advancement","Genioglossus Advancement","Surgical procedure for sleep apnea","Genioglossus Advancement",Z98.89
+P1293,"Maxillomandibular advancement","Maxillomandibular Advancement","Jaw surgery for sleep apnea","Orthognathic Surgery",Z98.89
+P1294,"Lingual tonsillectomy","Lingual Tonsil Hypertrophy","Surgical removal of lingual tonsils","Lingual Tonsillectomy",J35.3
+P1295,"Adenotonsillectomy","Pediatric Sleep Apnea","Surgical removal of tonsils and adenoids","Adenotonsillectomy",J35.3
+P1296,"Hypoglossal nerve stimulator","Hypoglossal Nerve Stimulator Implant","Implanted device for sleep apnea","Surgery; Device Activation",Z98.89
+P1297,"PAP intolerance","PAP Intolerance","Mask fitting; Desensitization; Alternative treatments","PAP Follow-up",Z99.81
+P1298,"PAP compliance","PAP Compliance Monitoring","Download data from machine","PAP Data Download",Z99.81
+P1299,"PAP nasal congestion","PAP-Related Rhinitis","Nasal steroid spray; Heated humidifier","Clinical Exam",J34.3
+P1300,"PAP aerophagia","PAP-Related Aerophagia","Adjust pressure settings; BiPAP","Clinical History; PAP Data Review",R14.0
