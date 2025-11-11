@@ -15,7 +15,7 @@ import numpy as np
 import pandas as pd
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.linear_model import LogisticRegression
-from sklearn.model_selection import train_test_split
+from sklearn.model_selection import train_test_split, GridSearchCV
 from sklearn.metrics import classification_report
 from sklearn.metrics.pairwise import cosine_similarity
 import joblib
@@ -120,10 +120,27 @@ except ValueError:
         X_vec, y, np.arange(len(y)), test_size=TEST_SIZE, random_state=RANDOM_STATE, stratify=None
     )
 
-print("Training category classifier (LogisticRegression, class_weight='balanced')...")
-category_model = LogisticRegression(max_iter=2000, class_weight="balanced", random_state=RANDOM_STATE, solver="saga", multi_class="multinomial")
-category_model.fit(X_train, y_train)
+# -------------------------
+# Hyperparameter tuning (GridSearchCV for LogisticRegression.C)
+# -------------------------
+print("Tuning LogisticRegression regularization (C) via GridSearchCV on training set...")
+base_clf = LogisticRegression(max_iter=2000, class_weight="balanced", random_state=RANDOM_STATE, solver="saga", multi_class="multinomial")
 
+param_grid = {
+    "C": [0.01, 0.1, 1.0, 10.0]
+}
+
+# Use a small number of folds and single process to avoid long run times and Windows multiprocessing issues.
+grid = GridSearchCV(base_clf, param_grid, cv=3, scoring="f1_weighted", n_jobs=1, verbose=1)
+grid.fit(X_train, y_train)
+
+print("GridSearch best params:", grid.best_params_)
+print(f"Best CV score (f1_weighted): {grid.best_score_:.4f}")
+
+# Use the best estimator found
+category_model = grid.best_estimator_
+
+# Evaluate on test set
 y_pred = category_model.predict(X_test)
 print("\n=== Category classification report ===")
 print(classification_report(y_test, y_pred, zero_division=0))
